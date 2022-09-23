@@ -13,6 +13,12 @@
   border-bottom-style: double;
   border-width: thick;
   border-bottom-color: var(--bs-primary);
+
+  &::after{
+    content: "x";
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 .membership-container {
@@ -23,6 +29,7 @@
     flex-direction: column;
     justify-content: center;
     box-shadow: 0.2rem 0.2rem 2rem rgba(190, 34, 57, 0.2);
+    height: 35vh;
 
     h4 {
       color: rgba(127, 127, 127, 0.6);

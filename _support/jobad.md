@@ -1,5 +1,7 @@
 ---
-title: Book Shop
+title: Job Ad
 link: https://ad.cala-web.org/
-img: https://cala-web.org/files/logos/bookshop-icon.png
+pgContent: Job Advertisement Posting
+icon: <i class="fa-solid fa-rectangle-ad fs-1"></i>
+img: "../assets/images/jobad.png"
 ---

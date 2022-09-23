@@ -1,6 +1,6 @@
 ---
 title: UBAM
-pgContent: When you shop UBAM books through this [link](https://g11699.myubam.com/) or the image below, CALA receives donations.
-link: https://g11699.myubam.com/
+link: https://g11699.myubam.com/2409598
+pgContent: When you shop UBAM books through this [link](https://g11699.myubam.com/2409598) or the image below, CALA receives donations.
 img: https://cala-web.org/files/ads/usborne_books.png
 ---
