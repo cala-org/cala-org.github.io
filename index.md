@@ -8,11 +8,11 @@ layout: index
 <ul class="list-unstyled">
     {% for post in site.posts %}
       <li class="row col-12">
-      <h2 class="d-flex">
-        <span class="col-3 fw-lighter fst-italic text-center"><i class="fa-regular fa-calendar"></i>
+      <h3 class="d-flex">
+        <span class="col-3 offset-1 fw-lighter fst-italic text-center"><i class="fa-regular fa-calendar"></i>
             {{ post.date | date: "%b %d, %Y" }}
         </span>
-        <div class="col mb-5">
+        <div class="col mb-3">
           <p class="mb-0">
             {{ post.title }}
           </p>
@@ -20,7 +20,7 @@ layout: index
             Learn More
           </a>
         </div>
-        </h2>
+        </h3>
       </li>
     {% endfor %}
 </ul>

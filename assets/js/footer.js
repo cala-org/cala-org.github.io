@@ -10,7 +10,7 @@ fetch('https://www.ala.org/news/rss.xml', {
     console.log(items);
     let html = ``;
     for (let i = 0; i < 5; i++) {
-      html += `<li><a href="${
+      html += `<li class="mb-2"><a href="${
         items[i].getElementsByTagName('link')[0].innerHTML
       }">${items[i].getElementsByTagName('title')[0].innerHTML}</a></li>`;
     }
