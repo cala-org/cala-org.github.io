@@ -10,4 +10,5 @@
   + In order to check on a different port, run `bundle exec jekyll serve --port 4321`, replace 4321 with your preferred port #
   
  ## Netlify Deploy Status
- [![Netlify Status](https://api.netlify.com/api/v1/badges/26329b40-e493-495d-86ac-d52f2169c8bd/deploy-status)](https://app.netlify.com/sites/cala-org/deploys)
+ + [![Netlify Status](https://api.netlify.com/api/v1/badges/26329b40-e493-495d-86ac-d52f2169c8bd/deploy-status)](https://app.netlify.com/sites/cala-org/deploys)
+ + Netlify admin logoin: cala-org.netlify.app/admin
