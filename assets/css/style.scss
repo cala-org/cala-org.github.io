@@ -1,0 +1,36 @@
+---
+---
+
+// @import "../node_modules/rfs/scss";
+// Base styles (To override Bootstrap)
+$primary: #be2239;
+$primary-hover: #811726;
+$primary-disabled: #ed8f9c;
+$primary-half-opacity: rgba(190, 34, 57, 0.5);
+
+$success: #61a51d;
+$success-hover: #467320;
+$success-disabled: #6ecb83;
+
+$info: #0f89bf;
+$info-hover: #0f5473;
+$info-disabled: #5cb3d9;
+
+$warning: #ed8a26;
+$warning-hover: #ba6c1e;
+$warning-disabled: #f2b67b;
+
+$link-color: $info;
+
+* {
+  font-family: Helvetica Neue, Arial, sans-serif;
+}
+
+// Homepage Carousel Style
+.carousel.border {
+  border-color: $primary-half-opacity !important;
+}
+
+//Footer
+
+@import '../node_modules/bootstrap/scss/bootstrap';

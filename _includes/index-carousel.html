@@ -1,0 +1,40 @@
+<div id="carouselExampleIndicators" class="carousel slide border border-5 p-3" data-bs-ride="true">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+      aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+      aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+      aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    {% for slide in site.carousel %} {% if forloop.index == 1 %}
+    <div class="carousel-item col-12 row active">
+      {% else %}
+      <div class="carousel-item col-12 row">
+        {% endif %}
+
+        <img src="{{ slide.img }}" class="d-inline-block col-8" alt="{{ slide.title }}" />
+        <div class="d-inline-block text-primary col-3 align-middle p-5">
+          <div>
+            <p class="text-muted fs-4 lead"><strong>{{ slide.category }}</strong></p>
+            <p class="fw-normal my-5 display-1 ">{{ slide.title }}</p>
+            <a class="btn btn-outline-primary" href="{{ slide.readMoreLink }}" role="button">Read More</a>
+          </div>
+        </div>
+      </div>
+
+      {% endfor %}
+    </div>
+    <a class="carousel-control-prev d-flex align-items-end" type="button" data-bs-target="#carouselExampleIndicators"
+      data-bs-slide="prev">
+      <span class="text-info bg-white p-2 mb-5 rounded-2" aria-hidden="true"><i class="fa-solid fa-arrow-left"></i>
+        Previous</span>
+    </a>
+    <a class="carousel-control-next d-flex align-items-end" type="button" data-bs-target="#carouselExampleIndicators"
+      data-bs-slide="next">
+      <span class="text-info bg-white p-2 mb-5 rounded-2" aria-hidden="true">Next <i
+          class="fa-solid fa-arrow-right"></i></span>
+    </a>
+  </div>
+</div>

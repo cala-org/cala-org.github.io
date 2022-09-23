@@ -1,0 +1,74 @@
+---
+---
+
+@import '../node_modules/rfs/scss';
+
+.text-block {
+  width: 33.3%;
+  right: 0;
+}
+
+
+.hrline {
+  border-bottom-style: double;
+  border-width: thick;
+  border-bottom-color: var(--bs-primary);
+}
+
+.membership-container {
+
+  .left-comp {
+    padding: 6.25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 0.2rem 0.2rem 2rem rgba(190, 34, 57, 0.2);
+
+    h4 {
+      color: rgba(127, 127, 127, 0.6);
+      font-weight: 400;
+      margin-bottom: 2rem;
+    }
+  }
+
+  .right-comp {
+    display: flex;
+    align-items: stretch;
+    padding: 0;
+
+    .membership-list {
+      padding-left: 0;
+      list-style-type: none;
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      flex-grow: 1;
+      li.nav-link {
+        flex-grow: 1;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: var(--bs-primary) !important;
+        border-bottom-style: solid !important;
+        border-bottom-color: var(--bs-primary) !important;
+
+        div {
+          flex-grow: 1;
+          font-size: 1.25rem;
+          text-align: center;
+        }
+        i {
+          font-size: 2rem;
+        }
+
+        &:last-child {
+          border-bottom-style: none !important;
+        }
+      }
+
+      li:hover {
+        cursor: pointer;
+      }
+    }
+  }
+}
