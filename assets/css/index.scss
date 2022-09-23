@@ -8,28 +8,30 @@
   right: 0;
 }
 
+.h2-flex {
+  position: relative;
+  .hrline {
+    border-bottom-style: double;
+    border-width: thick;
+    border-bottom-color: var(--bs-primary);
+  }
 
-.hrline {
-  border-bottom-style: double;
-  border-width: thick;
-  border-bottom-color: var(--bs-primary);
-
-  &::after{
-    content: "x";
-    display: block;
-    margin: 0 auto;
+  .x-comp {
+    position: absolute;
+    font-size: 2rem;
+    color: var(--bs-primary);
+    right: 50%;
+    transform: translate(0, -35%);
   }
 }
 
 .membership-container {
-
   .left-comp {
     padding: 6.25rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     box-shadow: 0.2rem 0.2rem 2rem rgba(190, 34, 57, 0.2);
-    height: 35vh;
 
     h4 {
       color: rgba(127, 127, 127, 0.6);
