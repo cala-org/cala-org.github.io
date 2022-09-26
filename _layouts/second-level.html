@@ -4,22 +4,42 @@ heroTop: true
 custom-css: second-level
 custom-js: second-level
 ---
+<section>
+  <div class="container-fluid">
 
-{% for about-content in site.about %} {% if forloop.first %}
-<div class="border border-5 border-primary d-flex justify-content-center align-items-center">
-  <div class="about-page-container d-flex justify-content-around">
-    <div class="col-5 bhistory">{{about-content.content | markdownify}}</div>
-    <div class="col-5 about-content d-flex flex-column justify-content-between">
-      <h2 class="about-title">{{about-content.title}}</h2>
-      <p>{{about-content.intro}}</p>
+    {% for about-content in site.about %}
+    {% if forloop.first %}
+    <div class="border border-5 border-half-red d-flex justify-content-center align-items-center">
+      <div class="about-page-container d-flex justify-content-around">
+        <div class="col-5 bhistory">{{about-content.content | markdownify}}</div>
+        <div class="col-5 about-content d-flex flex-column justify-content-between">
+          <h2 class="about-title">{{about-content.title}}</h2>
+          <p>{{about-content.intro}}</p>
+        </div>
+      </div>
     </div>
+    {% elsif forloop.last %}
+    <h2 class="display-4 h2-flex">
+      <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
+    </h2>
+    {% assign year-range = site.data.committee-by-year %}
+    {% for every-year in year-range %}
+    <div class="container">
+    <ul>
+      <li>
+        <a href="/">
+          {{ every-year.year }} Committees</a>
+      </li>
+    </ul>
+    </div>
+    {% endfor %}
+    {% else %}
+    <h2 class="display-4 h2-flex">
+      <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
+    </h2>
+    <div class="container">{{about-content.content | markdownify}}</div>
+
+    {% endif %} {% endfor %}
+
   </div>
-</div>
-{% else %}
-
-<h2 class="display-4 h2-flex">
-  <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
-</h2>
-<div>{{about-content.content | markdownify}}</div>
-
-{% endif %} {% endfor %}
+</section>

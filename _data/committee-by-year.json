@@ -1,118 +1,123 @@
 [
   {
-    "2022-2023": [
+    "year": "2022-2023",
+    "sub-title": "CALA Committees (2022-2023)",
+    "comm-content": [
       {
-        "sub-title": "CALA Committees (2022-2023)",
-        "comm-content": [
+        "comm-name": "Assessment and Evaluation Committee",
+        "comm-chair": {
+          "name": "Jia Mi",
+          "email": "jmi@tcnj.edu"
+        },
+        "comm-members": [
           {
-            "comm-name": "Assessment and Evaluation Committee",
-            "comm-chair": {
-              "name": "Jia Mi",
-              "email": "jmi@tcnj.edu"
-            },
-            "comm-members": [
-              {
-                "name": "Xiaoyin Zhang",
-                "email": "xiaoyin.zhang@unlv.edu"
-              },
-              {
-                "name": "Yanhong Wang",
-                "email": "ywang@mcdaniel.edu"
-              },
-              {
-                "name": "Yuzhou Bai",
-                "email": "yuzhoub@princeton.edu"
-              }
-            ]
+            "name": "Xiaoyin Zhang",
+            "email": "xiaoyin.zhang@unlv.edu"
           },
           {
-            "comm-name": "Constitution and Bylaws Committee & Handbook Subcommittee",
-            "comm-chair": {
-              "name": "Lei Jin",
-              "email": "leijin@ryerson.ca"
-            },
-            "comm-members": [
-              {
-                "name": "Liya Deng",
-                "email": "ldeng@ewu.edu"
-              },
-              {
-                "name": "Xiping Liu",
-                "email": "xliu47@uh.edu"
-              }
-            ]
+            "name": "Yanhong Wang",
+            "email": "ywang@mcdaniel.edu"
           },
           {
-            "comm-name": "Conference Program Committee & Local Arrangement",
-            "comm-chair": [
-              {
-                "name": "Ray Pun",
-                "email": "leijin@ryerson.ca"
-              },
-              {
-                "name": "Vincci Kwong",
-                "email": "vkwong@iusb.edu"
-              }
-            ],
-            "comm-members": [
-              {
-                "name": "Crystal Chen",
-                "email": "xliu47@uh.edu"
-              }
-            ]
+            "name": "Yuzhou Bai",
+            "email": "yuzhoub@princeton.edu"
+          }
+        ]
+      },
+      {
+        "comm-name": "Constitution and Bylaws Committee & Handbook Subcommittee",
+        "comm-chair": {
+          "name": "Lei Jin",
+          "email": "leijin@ryerson.ca"
+        },
+        "comm-members": [
+          {
+            "name": "Liya Deng",
+            "email": "ldeng@ewu.edu"
           },
           {
-            "comm-name": "Election Committee",
-            "comm-chair": {
-              "name": "Michael Bailou Huang",
-              "email": "leijin@ryerson.ca"
-            },
-            "comm-members": [
-              {
-                "name": "Shuyi Liu",
-                "email": "shuyil2@illinois.edu"
-              },
-              {
-                "name": "Jie Huang",
-                "email": "juh44@psu.edu"
-              },
-              {
-                "name": "Yifan Huang",
-                "email": "yhuang293@wisc.edu"
-              },
-              {
-                "name": "Ya Wang",
-                "email": "wangy@sfsu.edu"
-              },
-              {
-                "name": "Hong Li",
-                "email": "lhong516@gmail.com"
-              }
-            ]
+            "name": "Xiping Liu",
+            "email": "xliu47@uh.edu"
+          }
+        ]
+      },
+      {
+        "comm-name": "Conference Program Committee & Local Arrangement",
+        "comm-chair": [
+          {
+            "name": "Ray Pun",
+            "email": "leijin@ryerson.ca"
           },
           {
-            "comm-name": "International Relations Committee",
-            "comm-chair": {
-              "name": "Qinghua Xu",
-              "email": "xqhiris@gmail.com"
-            },
-            "comm-members": [
-              {
-                "name": "Tianji Jiang",
-                "email": "tianji008@ucla.edu"
-              },
-              {
-                "name": "Jie Huang",
-                "email": "juh44@psu.edu"
-              },
-              {
-                "name": "Katherina Lee",
-                "email": "lee_katherina@yahoo.com"
-              }
-            ]
+            "name": "Vincci Kwong",
+            "email": "vkwong@iusb.edu"
+          }
+        ],
+        "comm-members": [
+          {
+            "name": "Crystal Chen",
+            "email": "xliu47@uh.edu"
+          }
+        ]
+      },
+      {
+        "comm-name": "Election Committee",
+        "comm-chair": {
+          "name": "Michael Bailou Huang",
+          "email": "leijin@ryerson.ca"
+        },
+        "comm-members": [
+          {
+            "name": "Shuyi Liu",
+            "email": "shuyil2@illinois.edu"
+          },
+          {
+            "name": "Jie Huang",
+            "email": "juh44@psu.edu"
+          },
+          {
+            "name": "Yifan Huang",
+            "email": "yhuang293@wisc.edu"
+          },
+          {
+            "name": "Ya Wang",
+            "email": "wangy@sfsu.edu"
+          },
+          {
+            "name": "Hong Li",
+            "email": "lhong516@gmail.com"
+          }
+        ]
+      },
+      {
+        "comm-name": "International Relations Committee",
+        "comm-chair": {
+          "name": "Qinghua Xu",
+          "email": "xqhiris@gmail.com"
+        },
+        "comm-members": [
+          {
+            "name": "Tianji Jiang",
+            "email": "tianji008@ucla.edu"
+          },
+          {
+            "name": "Jie Huang",
+            "email": "juh44@psu.edu"
+          },
+          {
+            "name": "Katherina Lee",
+            "email": "lee_katherina@yahoo.com"
           }
         ]
       }
     ]
-  }
+  },
+  { "year": "2021-2022" },
+  { "year": "2020-2021" },
+  { "year": "2019-2020" },
+  { "year": "2018-2019" },
+  { "year": "2017-2018" },
+  { "year": "2016-2017" },
+  { "year": "2015-2016" },
+  { "year": "2014-2015" }
 ]
