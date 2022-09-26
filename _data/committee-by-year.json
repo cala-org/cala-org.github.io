@@ -1,0 +1,118 @@
+[
+  {
+    "2022-2023": [
+      {
+        "sub-title": "CALA Committees (2022-2023)",
+        "comm-content": [
+          {
+            "comm-name": "Assessment and Evaluation Committee",
+            "comm-chair": {
+              "name": "Jia Mi",
+              "email": "jmi@tcnj.edu"
+            },
+            "comm-members": [
+              {
+                "name": "Xiaoyin Zhang",
+                "email": "xiaoyin.zhang@unlv.edu"
+              },
+              {
+                "name": "Yanhong Wang",
+                "email": "ywang@mcdaniel.edu"
+              },
+              {
+                "name": "Yuzhou Bai",
+                "email": "yuzhoub@princeton.edu"
+              }
+            ]
+          },
+          {
+            "comm-name": "Constitution and Bylaws Committee & Handbook Subcommittee",
+            "comm-chair": {
+              "name": "Lei Jin",
+              "email": "leijin@ryerson.ca"
+            },
+            "comm-members": [
+              {
+                "name": "Liya Deng",
+                "email": "ldeng@ewu.edu"
+              },
+              {
+                "name": "Xiping Liu",
+                "email": "xliu47@uh.edu"
+              }
+            ]
+          },
+          {
+            "comm-name": "Conference Program Committee & Local Arrangement",
+            "comm-chair": [
+              {
+                "name": "Ray Pun",
+                "email": "leijin@ryerson.ca"
+              },
+              {
+                "name": "Vincci Kwong",
+                "email": "vkwong@iusb.edu"
+              }
+            ],
+            "comm-members": [
+              {
+                "name": "Crystal Chen",
+                "email": "xliu47@uh.edu"
+              }
+            ]
+          },
+          {
+            "comm-name": "Election Committee",
+            "comm-chair": {
+              "name": "Michael Bailou Huang",
+              "email": "leijin@ryerson.ca"
+            },
+            "comm-members": [
+              {
+                "name": "Shuyi Liu",
+                "email": "shuyil2@illinois.edu"
+              },
+              {
+                "name": "Jie Huang",
+                "email": "juh44@psu.edu"
+              },
+              {
+                "name": "Yifan Huang",
+                "email": "yhuang293@wisc.edu"
+              },
+              {
+                "name": "Ya Wang",
+                "email": "wangy@sfsu.edu"
+              },
+              {
+                "name": "Hong Li",
+                "email": "lhong516@gmail.com"
+              }
+            ]
+          },
+          {
+            "comm-name": "International Relations Committee",
+            "comm-chair": {
+              "name": "Qinghua Xu",
+              "email": "xqhiris@gmail.com"
+            },
+            "comm-members": [
+              {
+                "name": "Tianji Jiang",
+                "email": "tianji008@ucla.edu"
+              },
+              {
+                "name": "Jie Huang",
+                "email": "juh44@psu.edu"
+              },
+              {
+                "name": "Katherina Lee",
+                "email": "lee_katherina@yahoo.com"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
