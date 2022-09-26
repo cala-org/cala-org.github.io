@@ -22,13 +22,22 @@ $warning-disabled: #f2b67b;
 
 $link-color: $info;
 
-h1 {
-  margin-bottom: 3rem !important;
-}
-
-h2 {
-  color: $primary;
+h2.h2-flex {
   position: relative;
+  color: $primary;
+  margin: 5rem 0 !important;
+  .hrline {
+    border-bottom-style: double;
+    border-width: thick;
+    border-bottom-color: var(--bs-primary);
+  }
+  .x-comp {
+    position: absolute;
+    font-size: 2rem;
+    color: var(--bs-primary);
+    right: 50%;
+    transform: translate(0, -35%);
+  }
 }
 
 * {
