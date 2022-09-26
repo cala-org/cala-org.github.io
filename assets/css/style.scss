@@ -22,9 +22,12 @@ $warning-disabled: #f2b67b;
 
 $link-color: $info;
 
+h1 {
+  margin-bottom: 3rem !important;
+}
+
 h2 {
   color: $primary;
-  margin: 5rem 0 !important;
   position: relative;
 }
 
