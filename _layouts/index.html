@@ -2,7 +2,6 @@
 layout: default
 heroTop: true
 custom-css: index
-custom-js: index
 ---
 
 <section>
@@ -10,14 +9,14 @@ custom-js: index
     {% include index-carousel.html %}
 
     <article class="mt-10">
-      <h2 class="display-4 text-center h2-flex">
+      <h2 class="display-4 h2-flex">
         <span class="hrline text-primary pb-2"> News Spotlight </span>
       </h2>
       {{ content }}
     </article>
 
     <article class="mt-10">
-      <h2 class="display-4 text-center h2-flex">
+      <h2 class="display-4 h2-flex">
         <span class="hrline text-primary pb-2"> In Support of CALA </span>
       </h2>
       <div class="d-flex justify-content-center px-5">
@@ -58,8 +57,11 @@ custom-js: index
                   .appendChild(iFrame);
               })();
             </script>
-            {% endif %} {% if support.pgContent %} {{ support.pgContent |
-            markdownify }} {% endif %} {% if support.img %}
+            {% endif %} 
+            {% if support.pgContent %} 
+            {{ support.pgContent | markdownify }} 
+            {% endif %} 
+            {% if support.img %}
             <a href="{{ support.link}}">
               <img src="{{support.img }}" class="card-img-top px-3" alt="{{support.title}}" /></a>
             {% endif %} {% if support.icon %}
@@ -72,7 +74,7 @@ custom-js: index
     </article>
 
     <article class="mt-10">
-      <h2 class="display-4 text-center h2-flex">
+      <h2 class="display-4 h2-flex">
         <span class="hrline text-primary pb-2">Membership</span>
       </h2>
 

@@ -1,8 +1,6 @@
 ---
 ---
 
-@import '../node_modules/rfs/scss';
-
 .about-page-container {
   padding: 7rem 5rem 7rem 5rem;
 }
@@ -22,7 +20,7 @@
   }
 
   p {
-    color: #7f7f7f;
+    color: var(--bs-secondary);
     font-size: 1.8rem;
     font-weight: 300;
     padding-bottom: 2rem;

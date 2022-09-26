@@ -1,3 +1,7 @@
+$(()=>{
+  $('h2.h2-flex').append('<div class="x-comp">x</div>');
+})
+
 fetch('https://www.ala.org/news/rss.xml', {
   // headers: {
   //   'Access-Control-Allow-Origin': 'https://cala-web.github.io/'
