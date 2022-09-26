@@ -2,6 +2,7 @@
 layout: default
 heroTop: true
 custom-css: index
+custom-js: index
 ---
 
 <section>
@@ -11,7 +12,6 @@ custom-css: index
     <article class="mt-10">
       <h2 class="display-4 text-center h2-flex">
         <span class="hrline text-primary pb-2"> News Spotlight </span>
-        <div class="x-comp">x</div>
       </h2>
       {{ content }}
     </article>
@@ -19,7 +19,6 @@ custom-css: index
     <article class="mt-10">
       <h2 class="display-4 text-center h2-flex">
         <span class="hrline text-primary pb-2"> In Support of CALA </span>
-        <div class="x-comp">x</div>
       </h2>
       <div class="d-flex justify-content-center px-5">
         {%for support in site.support%}
@@ -27,9 +26,14 @@ custom-css: index
           <div class="card-header bg-white text-warning text-center fs-1 py-3">
             {{support.title}}
           </div>
-          <div class="card-body d-flex flex-column justify-content-center align-items-center">
+          <div
+            class="card-body d-flex flex-column justify-content-center align-items-center"
+          >
             {% if support.title == "Amazon" %}
-            <div id="amznCharityBanner" class="d-flex justify-content-center"></div>
+            <div
+              id="amznCharityBanner"
+              class="d-flex justify-content-center"
+            ></div>
             <script type="text/javascript">
               (function () {
                 var iFrame = document.createElement('iframe');
@@ -43,8 +47,8 @@ custom-css: index
                   var contents = iFrame.contentWindow
                     ? iFrame.contentWindow
                     : iFrame.contentDocument.document
-                      ? iFrame.contentDocument.document
-                      : iFrame.contentDocument;
+                    ? iFrame.contentDocument.document
+                    : iFrame.contentDocument;
                   contents.document.open();
                   contents.document.write(
                     decodeURIComponent(
@@ -62,7 +66,11 @@ custom-css: index
             {% endif %} {% if support.pgContent %} {{ support.pgContent |
             markdownify }} {% endif %} {% if support.img %}
             <a href="{{ support.link}}">
-              <img src="{{support.img }}" class="card-img-top px-3" alt="{{support.title}}" /></a>
+              <img
+                src="{{support.img }}"
+                class="card-img-top px-3"
+                alt="{{support.title}}"
+            /></a>
             {% endif %} {% if support.icon %}
             <a href="{{ support.link}}"> {{ support.icon }} </a>
             {% endif %}
@@ -75,24 +83,36 @@ custom-css: index
     <article class="mt-10">
       <h2 class="display-4 text-center h2-flex">
         <span class="hrline text-primary pb-2">Membership</span>
-        <div class="x-comp">x</div>
       </h2>
 
       <div class="membership-container container d-flex justify-content-center">
         <div class="tab-content col-8 left-comp" id="v-pills-tabContent">
-          <div class="tab-pane fade show active" id="v-pills-join-renew" role="tabpanel"
-            aria-labelledby="v-pills-home-tab" tabindex="0">
+          <div
+            class="tab-pane fade show active"
+            id="v-pills-join-renew"
+            role="tabpanel"
+            aria-labelledby="v-pills-home-tab"
+            tabindex="0"
+          >
             <h3>Join or Renew</h3>
             <h4><a href="https://cala.wildapricot.org/join-us">Link</a></h4>
             <p>
-              As one of the major ALA affiliated associations, CALA is the only professional organization in North
-              America that 1) promotes better communication among Chinese American librarians; 2) serves as a forum for
-              the discussion of mutual problems and professional concerns among Chinese American librarians; and 3)
-              promotes the development of Chinese and American librarianship with scholarships and grants.
+              As one of the major ALA affiliated associations, CALA is the only
+              professional organization in North America that 1) promotes better
+              communication among Chinese American librarians; 2) serves as a
+              forum for the discussion of mutual problems and professional
+              concerns among Chinese American librarians; and 3) promotes the
+              development of Chinese and American librarianship with
+              scholarships and grants.
             </p>
           </div>
-          <div class="tab-pane fade" id="v-pills-why-join" role="tabpanel" aria-labelledby="v-pills-profile-tab"
-            tabindex="0">
+          <div
+            class="tab-pane fade"
+            id="v-pills-why-join"
+            role="tabpanel"
+            aria-labelledby="v-pills-profile-tab"
+            tabindex="0"
+          >
             <h3>Why Join</h3>
             <h4><a href="">Link</a></h4>
             <p>
@@ -105,8 +125,13 @@ custom-css: index
               scholarships and grants.
             </p>
           </div>
-          <div class="tab-pane fade" id="v-pills-membership" role="tabpanel" aria-labelledby="v-pills-messages-tab"
-            tabindex="0">
+          <div
+            class="tab-pane fade"
+            id="v-pills-membership"
+            role="tabpanel"
+            aria-labelledby="v-pills-messages-tab"
+            tabindex="0"
+          >
             <h3>Membership Categories</h3>
             <h4><a href="">Link</a></h4>
             <p>
@@ -117,8 +142,13 @@ custom-css: index
               CALA’s website.
             </p>
           </div>
-          <div class="tab-pane fade" id="v-pills-volunteers" role="tabpanel" aria-labelledby="v-pills-settings-tab"
-            tabindex="0">
+          <div
+            class="tab-pane fade"
+            id="v-pills-volunteers"
+            role="tabpanel"
+            aria-labelledby="v-pills-settings-tab"
+            tabindex="0"
+          >
             <h3>Volunteers Needed</h3>
             <h4><a href="">Link</a></h4>
             <p>
@@ -130,24 +160,61 @@ custom-css: index
           </div>
         </div>
         <div class="flex-column col-3 right-comp">
-          <ul class="nav me-3 membership-list" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-            <li class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-join-renew"
-              type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">
+          <ul
+            class="nav me-3 membership-list"
+            id="v-pills-tab"
+            role="tablist"
+            aria-orientation="vertical"
+          >
+            <li
+              class="nav-link active"
+              id="v-pills-home-tab"
+              data-bs-toggle="pill"
+              data-bs-target="#v-pills-join-renew"
+              type="button"
+              role="tab"
+              aria-controls="v-pills-home"
+              aria-selected="true"
+            >
               <div>Join or Renew</div>
               <i class="fa-solid fa-square-plus"></i>
             </li>
-            <li class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-why-join"
-              type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+            <li
+              class="nav-link"
+              id="v-pills-profile-tab"
+              data-bs-toggle="pill"
+              data-bs-target="#v-pills-why-join"
+              type="button"
+              role="tab"
+              aria-controls="v-pills-profile"
+              aria-selected="false"
+            >
               <div>Why join CALA?</div>
               <i class="fa-regular fa-square-plus"></i>
             </li>
-            <li class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-membership"
-              type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">
+            <li
+              class="nav-link"
+              id="v-pills-messages-tab"
+              data-bs-toggle="pill"
+              data-bs-target="#v-pills-membership"
+              type="button"
+              role="tab"
+              aria-controls="v-pills-messages"
+              aria-selected="false"
+            >
               <div>Membership Categories</div>
               <i class="fa-regular fa-square-plus"></i>
             </li>
-            <li class="nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-volunteers"
-              type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">
+            <li
+              class="nav-link"
+              id="v-pills-settings-tab"
+              data-bs-toggle="pill"
+              data-bs-target="#v-pills-volunteers"
+              type="button"
+              role="tab"
+              aria-controls="v-pills-settings"
+              aria-selected="false"
+            >
               <div>Volunteers Needed</div>
               <i class="fa-regular fa-square-plus"></i>
             </li>
