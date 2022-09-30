@@ -1,0 +1,22 @@
+---
+layout: default
+title: {{ page.Filename }}
+---
+
+<div class="mt-5">
+    <h2>{{page.title | slugify}} Committee</h2>
+    {% assign comm-by-year = site.data.committee-by-year %}
+    {% for comm-year in comm-by-year %}
+        {% if comm-year.year == page.Filename %}
+            {% assign comm = comm-year.comm-content %}
+            {% for comm-member in comm %}
+                <div class="row">
+                    <div class="col-9">
+                        <h3>{{ comm-member.name }}</h3>
+                        <p>{{ comm-member.email }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+</div>

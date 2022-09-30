@@ -1,5 +1,5 @@
 ---
-layout: second-level
+layout: about
 title: About CALA
 intro: CALA is an affiliate of American Library Association, IFLA (International Federation of Library Associations Institutions) and JCLC (Joint Council of Librarians of Color)
 permalink: /about/
