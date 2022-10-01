@@ -1,0 +1,41 @@
+---
+layout: default
+heroTop: true
+custom-css: membership
+---
+
+<section>
+  <div class="container-fluid">
+    {% for membership-ctnt in site.membership%} {% if forloop.first%}
+    <div
+      id="carouselExampleSlidesOnly"
+      class="carousel slide"
+      data-bs-ride="carousel"
+    >
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="d-block w-100 h-image">
+            <div
+              class="mem-hero d-flex justify-content-center align-items-center"
+            >
+              <div
+                class="d-flex flex-column justify-content-between mem-content"
+              >
+                <h3>{{membership-ctnt.title}}</h3>
+                <div
+                  class="d-flex flex-column justify-content-around align-items-center"
+                >
+                  <a class="btn btn-dark">Join or Renew</a>
+                  <p class="mt-2">
+                    Already a member? <span><a href="#">Login</a></span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endif %}{% endfor %}
+  </div>
+</section>
