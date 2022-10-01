@@ -1,14 +1,16 @@
 [
   {
     "year": "2022-2023",
-    "sub-title": "CALA Committees (2022-2023)",
+    "top-title": "CALA Committees (2022-2023)",
     "comm-content": [
       {
         "comm-name": "Assessment and Evaluation Committee",
-        "comm-chair": {
-          "name": "Jia Mi",
-          "email": "jmi@tcnj.edu"
-        },
+        "comm-chair": [
+          {
+            "name": "Jia Mi",
+            "email": "jmi@tcnj.edu"
+          }
+        ],
         "comm-members": [
           {
             "name": "Xiaoyin Zhang",
@@ -26,10 +28,12 @@
       },
       {
         "comm-name": "Constitution and Bylaws Committee & Handbook Subcommittee",
-        "comm-chair": {
-          "name": "Lei Jin",
-          "email": "leijin@ryerson.ca"
-        },
+        "comm-chair": [
+          {
+            "name": "Lei Jin",
+            "email": "leijin@ryerson.ca"
+          }
+        ],
         "comm-members": [
           {
             "name": "Liya Deng",
@@ -62,10 +66,12 @@
       },
       {
         "comm-name": "Election Committee",
-        "comm-chair": {
-          "name": "Michael Bailou Huang",
-          "email": "leijin@ryerson.ca"
-        },
+        "comm-chair": [
+          {
+            "name": "Michael Bailou Huang",
+            "email": "leijin@ryerson.ca"
+          }
+        ],
         "comm-members": [
           {
             "name": "Shuyi Liu",
@@ -91,10 +97,12 @@
       },
       {
         "comm-name": "International Relations Committee",
-        "comm-chair": {
-          "name": "Qinghua Xu",
-          "email": "xqhiris@gmail.com"
-        },
+        "comm-chair": [
+          {
+            "name": "Qinghua Xu",
+            "email": "xqhiris@gmail.com"
+          }
+        ],
         "comm-members": [
           {
             "name": "Tianji Jiang",
@@ -110,14 +118,28 @@
           }
         ]
       }
-    ]
+    ],
+    "second-title": "CALA Awards Committee & Subcommittees",
+    "third-title": "CALA Publications Subcommittees"
   },
-  { "year": "2021-2022" },
-  { "year": "2020-2021" },
-  { "year": "2019-2020" },
-  { "year": "2018-2019" },
-  { "year": "2017-2018" },
-  { "year": "2016-2017" },
-  { "year": "2015-2016" },
-  { "year": "2014-2015" }
+  {
+    "year": "2021-2022",
+    "comm-content": [
+      {
+        "comm-name": "Assessment and Evaluation Committee",
+        "comm-chair": [
+          {
+            "name": "Jia Mi",
+            "email": ""
+          }
+        ],
+        "comm-members": [
+          {
+            "name": "Xiaoyin Zhang",
+            "email": ""
+          }
+        ]
+      }
+    ]
+  }
 ]

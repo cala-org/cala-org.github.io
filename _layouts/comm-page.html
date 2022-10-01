@@ -4,19 +4,38 @@ title: {{ page.Filename }}
 ---
 
 <div class="mt-5">
-    <h2>{{page.title | slugify}} Committee</h2>
-    {% assign comm-by-year = site.data.committee-by-year %}
-    {% for comm-year in comm-by-year %}
-        {% if comm-year.year == page.Filename %}
-            {% assign comm = comm-year.comm-content %}
-            {% for comm-member in comm %}
-                <div class="row">
-                    <div class="col-9">
-                        <h3>{{ comm-member.name }}</h3>
-                        <p>{{ comm-member.email }}</p>
-                    </div>
-                </div>
-            {% endfor %}
-        {% endif %}
+
+    {% for comm-year in site.data.committee %}
+    {% capture pageTitle%}{{ page.title | slugify }}{% endcapture %}
+    {% if comm-year.year == pageTitle %}
+    <h2 class="text-center display-6">{{ comm-year.top-title }}</h2>
+    {% assign comm = comm-year.comm-content | json %}
+    {% for comm-member in comm %}
+    <div class="container mb-5">
+        <div class="col-sm-9 col-12">
+            <h3 class="h4 fw-normal">{{ comm-member.comm-name }}</h3>
+            <ul class="list-unstyled mb-2">
+                {% for chairs in comm-member.comm-chair %}
+                {% if forloop.length > 1 %}
+                <li>
+                    <b>Co-Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+                </li>
+                {% else %}
+                <li>
+                    <b>Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+
+            <ul>
+                {% for members in comm-member.comm-members %}
+                <li class="my-2"><a href="mailto:{{ members.email }}">{{ members.name }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% endfor %}
+    {% endif %}
     {% endfor %}
 </div>

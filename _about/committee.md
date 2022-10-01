@@ -1,4 +1,4 @@
 ---
 title: Committees and Officers
-permalink: /about/committee/
+order: 4
 ---
