@@ -36,7 +36,7 @@ plugins:
 collections:
   support:
     output: true
-  carousel:
+  index-carousel:
     output: true
   about:
     output: true
@@ -44,9 +44,11 @@ collections:
   committee:
     output: true
     permalink: /about/committee/:path/
-  resources:
+  resource:
     output: true
-    permalink: /resources/:path/
+    permalink: /resource/:path/
+  resource-carousel:
+    output: true
   membership:
     output: true
     permalink: /membership/:path/
