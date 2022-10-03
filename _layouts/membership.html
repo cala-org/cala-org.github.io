@@ -5,37 +5,89 @@ custom-css: membership
 ---
 
 <section>
-  <div class="container-fluid">
-    {% for membership-ctnt in site.membership%} {% if forloop.first%}
-    <div
-      id="carouselExampleSlidesOnly"
-      class="carousel slide"
-      data-bs-ride="carousel"
-    >
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <div class="d-block w-100 h-image">
-            <div
-              class="mem-hero d-flex justify-content-center align-items-center"
-            >
+  < class="container-fluid">
+    <article>
+      <div
+        id="carouselExampleSlidesOnly"
+        class="carousel slide"
+        data-bs-ride="carousel"
+      >
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="d-block w-100 h-image">
               <div
-                class="d-flex flex-column justify-content-between mem-content"
+                class="mem-hero d-flex justify-content-center align-items-center"
               >
-                <h3>{{membership-ctnt.title}}</h3>
                 <div
-                  class="d-flex flex-column justify-content-around align-items-center"
+                  class="d-flex flex-column justify-content-between mem-content"
                 >
-                  <a class="btn btn-dark">Join or Renew</a>
-                  <p class="mt-2">
-                    Already a member? <span><a href="#">Login</a></span>
-                  </p>
+                  <h3>Membership</h3>
+                  <div
+                    class="d-flex flex-column justify-content-around align-items-center"
+                  >
+                    <a class="btn btn-dark">Join or Renew</a>
+                    <p class="mt-2">
+                      Already a member? <span><a href="#">Login</a></span>
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-    {% endif %}{% endfor %}
+    </article>
+
+    <article>
+      <h2 class="display-4 h2-flex">
+        <span class="hrline text-primary pb-2">Why Join CALA?</span>
+      </h2>
+      <div class="container">
+        <p>
+          As one of the major ALA affiliated associations, CALA is the only
+          professional organization in North America that:
+        </p>
+        <ul>
+          <li>
+            promotes better communication among Chinese American librarians;
+          </li>
+          <li>
+            serves as a forum for the discussion of mutual problems and
+            professional concerns among Chinese American librarians;
+          </li>
+          <li>
+            promotes the development of Chinese and American librarianship with
+            scholarships and grants.
+          </li>
+        </ul>
+      </div>
+    </article>
+
+    <artcile>
+      <figure class="text-center my-5">
+        <blockquote class="blockquote">
+          <p>
+            Any individual or corporate body interested in the purpose of the
+            Association may become a member upon payment of the dues as provided
+            for in the <span><a href="#">Bylaws</a></span
+            >.
+          </p>
+        </blockquote>
+        <figcaption class="blockquote-footer">
+          <a href="#">
+            Constitution <cite title="Source Title">Article III</cite>
+          </a>
+        </figcaption>
+      </figure>
+    </artcile>
+
+    <article>
+      <h2 class="display-4 h2-flex">
+        <span class="hrline text-primary pb-2">Membership Types</span>
+      </h2>
+      <div class="type-container container">
+        
+      </div>
+    </article>
   </div>
 </section>
