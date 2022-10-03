@@ -5,7 +5,7 @@ custom-css: membership
 ---
 
 <section>
-  < class="container-fluid">
+  <div class="container-fluid">
     <article>
       <div
         id="carouselExampleSlidesOnly"
@@ -85,8 +85,31 @@ custom-css: membership
       <h2 class="display-4 h2-flex">
         <span class="hrline text-primary pb-2">Membership Types</span>
       </h2>
-      <div class="type-container container">
-        
+      <div class="types-container container overflow-scroll">
+        <div class="d-flex types">
+          {%for type in site.membership%} {%if type.title == 'membership'%}
+          {%continue%} {%else%}
+          <div class="card" style="width: 18rem">
+            <img src="..." class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up
+                the bulk of the card's content.
+              </p>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">An item</li>
+              <li class="list-group-item">A second item</li>
+              <li class="list-group-item">A third item</li>
+            </ul>
+            <div class="card-body">
+              <a href="#" class="card-link">Card link</a>
+              <a href="#" class="card-link">Another link</a>
+            </div>
+          </div>
+          {%endif%} {%endfor%}
+        </div>
       </div>
     </article>
   </div>
