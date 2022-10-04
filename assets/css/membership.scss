@@ -49,9 +49,59 @@
 }
 
 .types-container {
-  width: 60rem;
+  width: 75%;
+  background-color: #eee;
+  z-index: 0;
 
   .types {
-    width: 100rem;
+    width: 150rem;
   }
+}
+
+.why-join {
+  width: 100%;
+  height: 10rem;
+  object-fit: cover;
+}
+
+.mem-quote {
+  background-color: var(--bs-primary);
+  color: #fff;
+  position: relative;
+
+  .quote-symbol {
+    position: absolute;
+    top: 3%;
+    left: 2%;
+    font-size: 5rem;
+    color: rgba(255, 255, 255, 0.4);
+    z-index: 0;
+  }
+
+  figure {
+    blockquote {
+      p {
+        font-weight: 300;
+        font-size: 2rem;
+        span {
+          a {
+            color: #fff;
+          }
+        }
+      }
+    }
+
+    .blockquote-footer {
+      color: #fff;
+
+      a {
+        color: inherit;
+        font-size: 1rem;
+      }
+    }
+  }
+}
+
+.type-icon {
+  font-size: 5rem;
 }

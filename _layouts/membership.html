@@ -42,70 +42,103 @@ custom-css: membership
       <h2 class="display-4 h2-flex">
         <span class="hrline text-primary pb-2">Why Join CALA?</span>
       </h2>
-      <div class="container">
-        <p>
-          As one of the major ALA affiliated associations, CALA is the only
-          professional organization in North America that:
-        </p>
-        <ul>
-          <li>
-            promotes better communication among Chinese American librarians;
-          </li>
-          <li>
-            serves as a forum for the discussion of mutual problems and
-            professional concerns among Chinese American librarians;
-          </li>
-          <li>
-            promotes the development of Chinese and American librarianship with
-            scholarships and grants.
-          </li>
-        </ul>
+      <div class="container d-flex justify-content-around">
+        <div
+          class="card shadow-sm p-3 mb-5 bg-body rounded"
+          style="width: 18rem"
+        >
+          <img
+            src="../assets/images/pexels-chait-goli-1798130.jpg"
+            class="card-img-top why-join img-thumbnail"
+            alt="chait-goli"
+          />
+          <div class="card-body">
+            <p class="card-text">
+              promotes better communication among Chinese American librarians;
+            </p>
+          </div>
+        </div>
+        <div
+          class="card shadow-sm p-3 mb-5 bg-body rounded"
+          style="width: 18rem"
+        >
+          <img
+            src="../assets/images/pexels-ketut-subiyanto-4350093.jpg"
+            class="card-img-top why-join img-thumbnail"
+            alt="subiyanto"
+          />
+          <div class="card-body">
+            <p class="card-text">
+              serves as a forum for the discussion of mutual problems and
+              professional concerns among Chinese American librarians;
+            </p>
+          </div>
+        </div>
+        <div
+          class="card shadow-sm p-3 mb-5 bg-body rounded"
+          style="width: 18rem"
+        >
+          <img
+            src="../assets/images/pexels-vantha-thang-4459814.jpg"
+            class="card-img-top why-join img-thumbnail"
+            alt="scholarships"
+          />
+          <div class="card-body">
+            <p class="card-text">
+              promotes the development of Chinese and American librarianship
+              with scholarships and grants.
+            </p>
+          </div>
+        </div>
       </div>
     </article>
 
     <artcile>
-      <figure class="text-center my-5">
-        <blockquote class="blockquote">
-          <p>
-            Any individual or corporate body interested in the purpose of the
-            Association may become a member upon payment of the dues as provided
-            for in the <span><a href="#">Bylaws</a></span
-            >.
-          </p>
-        </blockquote>
-        <figcaption class="blockquote-footer">
-          <a href="#">
-            Constitution <cite title="Source Title">Article III</cite>
-          </a>
-        </figcaption>
-      </figure>
+      <div class="mem-quote p-2 my-5">
+        <i class="fa-solid fa-quote-left quote-symbol"></i>
+        <figure class="text-center my-5">
+          <blockquote class="blockquote">
+            <p>
+              Any individual or corporate body interested in the purpose of the
+              Association may become a member upon payment of the dues as
+              provided for in the <span><a href="#">Bylaws</a></span
+              >.
+            </p>
+          </blockquote>
+          <figcaption class="blockquote-footer my-3">
+            <a href="#">
+              Constitution <cite title="Source Title">Article III</cite>
+            </a>
+          </figcaption>
+        </figure>
+      </div>
     </artcile>
 
     <article>
       <h2 class="display-4 h2-flex">
         <span class="hrline text-primary pb-2">Membership Types</span>
       </h2>
-      <div class="types-container container overflow-scroll">
-        <div class="d-flex types">
+      <div
+        class="types-container container overflow-scroll border-1 rounded p-5"
+      >
+        <div class="d-flex types justify-content-between">
           {%for type in site.membership%} {%if type.title == 'membership'%}
           {%continue%} {%else%}
-          <div class="card" style="width: 18rem">
-            <img src="..." class="card-img-top" alt="..." />
+          <div
+            class="card shadow-sm p-3 mb-5 bg-body rounded"
+            style="width: 18rem"
+          >
+            <div class="type-icon text-center">{{type.icon}}</div>
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
-              <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
-              </p>
+              <h5 class="card-title">{{type.title}}</h5>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item">An item</li>
-              <li class="list-group-item">A second item</li>
-              <li class="list-group-item">A third item</li>
+              <li class="list-group-item">{{type.price}}</li>
+              <li class="list-group-item">{{type.period}}</li>
+              <li class="list-group-item">{{type.automatic}}</li>
             </ul>
             <div class="card-body">
-              <a href="#" class="card-link">Card link</a>
-              <a href="#" class="card-link">Another link</a>
+              <a href="#" class="card-link">Join or Renew</a>
             </div>
           </div>
           {%endif%} {%endfor%}
