@@ -1,5 +1,5 @@
 ---
-category: "Featured News"
+category: "Job List"
 title: "Job Resource"
 img: "../assets/images/cross-table-hand-shake.jpg"
 readMoreLink: "/job-resource/"
@@ -10,7 +10,7 @@ layout: default
 <span class="hrline text-primary pb-2">Library Job Lists from Other Sources</span>
 </h2>
 
-### This is not a comprehensive list.
+**This is not a comprehensive list.**
 
 + [CALA Job List](https://ad.cala-web.org/)
 + [AALL (American Association of Law Libraries)](http://careers.aallnet.org/jobs)
@@ -19,3 +19,4 @@ layout: default
 + [ILA (Illinois Library Association)](https://www.ila.org/jobline)
 + [Occupational Outlook Handbook](https://www.bls.gov/ooh/education-training-and-library/librarians.htm)
 + [SLA (Special Library Association)](https://careers.sla.org/jobs/)
++ [ACRL (Association of Research Libraries)](https://www.arl.org/jobs/)

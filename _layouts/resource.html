@@ -18,37 +18,9 @@ custom-js: index
 
     <article class="mt-5">
       <h2 class="display-4 h2-flex">
-        <span class="hrline text-primary pb-2">Scholarships</span>
+        <span class="hrline text-primary pb-2">Awards, Grants, and Scholarships</span>
       </h2>
-      <div class="d-flex justify-content-center px-5">
-        {%for support in site.support%}
-        <div class="card col mx-4 px-0">
-          <div class="card-header bg-white text-warning text-center fs-1 py-3">
-            {{support.title}}
-          </div>
-          <div
-            class="card-body d-flex flex-column justify-content-center align-items-center"
-          >
-            {% if support.title == "Amazon" %}
-            <div
-              id="amznCharityBanner"
-              class="d-flex justify-content-center"
-            ></div>
-            {% endif %} {% if support.pgContent %} {{ support.pgContent |
-            markdownify }} {% endif %} {% if support.img %}
-            <a href="{{ support.link}}">
-              <img
-                src="{{support.img }}"
-                class="card-img-top px-3"
-                alt="{{support.title}}"
-            /></a>
-            {% endif %} {% if support.icon %}
-            <a href="{{ support.link}}"> {{ support.icon }} </a>
-            {% endif %}
-          </div>
-        </div>
-        {% endfor %}
-      </div>
+      {% include scholarship.html %}
     </article>
 
     <article class="mt-10">

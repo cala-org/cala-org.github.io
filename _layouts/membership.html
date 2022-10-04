@@ -7,24 +7,14 @@ custom-css: membership
 <section>
   <div class="container-fluid">
     <article>
-      <div
-        id="carouselExampleSlidesOnly"
-        class="carousel slide"
-        data-bs-ride="carousel"
-      >
+      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="d-block w-100 h-image">
-              <div
-                class="mem-hero d-flex justify-content-center align-items-center"
-              >
-                <div
-                  class="d-flex flex-column justify-content-between mem-content"
-                >
+              <div class="mem-hero d-flex justify-content-center align-items-center">
+                <div class="d-flex flex-column justify-content-between mem-content">
                   <h3>Membership</h3>
-                  <div
-                    class="d-flex flex-column justify-content-around align-items-center"
-                  >
+                  <div class="d-flex flex-column justify-content-around align-items-center">
                     <a class="btn btn-dark">Join or Renew</a>
                     <p class="mt-2">
                       Already a member? <span><a href="#">Login</a></span>
@@ -69,8 +59,7 @@ custom-css: membership
           <p>
             Any individual or corporate body interested in the purpose of the
             Association may become a member upon payment of the dues as provided
-            for in the <span><a href="#">Bylaws</a></span
-            >.
+            for in the <span><a href="#">Bylaws</a></span>.
           </p>
         </blockquote>
         <figcaption class="blockquote-footer">
@@ -87,8 +76,9 @@ custom-css: membership
       </h2>
       <div class="types-container container overflow-scroll">
         <div class="d-flex types">
-          {%for type in site.membership%} {%if type.title == 'membership'%}
-          {%continue%} {%else%}
+          {%for type in site.membership%} 
+            {%if type.title == 'membership'%}
+              {%continue%} {%else%}
           <div class="card" style="width: 18rem">
             <img src="..." class="card-img-top" alt="..." />
             <div class="card-body">

@@ -1,0 +1,22 @@
+<div class="d-flex justify-content-center px-5">
+    {%for scholarship in site.scholarship %}
+    {% if page.name != "cala.md" %}
+    <div class="card col mx-4 px-0">
+      <div class="card-header bg-white text-warning text-center fs-1 py-3">
+        {{ scholarship.title }}
+      </div>
+      <div class="card-body d-flex flex-column justify-content-center align-items-center">
+        <div class="d-flex justify-content-center"></div>
+        {{ scholarship.content | markdownify}} 
+        {% if scholarhsip.img %}
+        <a href="{{ scholarhsip.link}}">
+          <img src="{{scholarhsip.img }}" class="card-img-top px-3" alt="{{scholarhsip.title}}" /></a>
+        {% endif %} 
+        {% if scholarhsip.icon %}
+        <a href="{{ scholarhsip.link}}"> {{ scholarhsip.icon }} </a>
+        {% endif %}
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
