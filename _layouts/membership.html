@@ -7,17 +7,36 @@ custom-css: membership
 <section>
   <div class="container-fluid">
     <article>
-      <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+      <div
+        id="carouselExampleSlidesOnly"
+        class="carousel slide"
+        data-bs-ride="carousel"
+      >
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="d-block w-100 h-image">
-              <div class="mem-hero d-flex justify-content-center align-items-center">
-                <div class="d-flex flex-column justify-content-between mem-content">
+              <div
+                class="mem-hero d-flex justify-content-center align-items-center"
+              >
+                <div
+                  class="d-flex flex-column justify-content-between mem-content"
+                >
                   <h3>Membership</h3>
-                  <div class="d-flex flex-column justify-content-around align-items-center">
-                    <a class="btn btn-dark">Join or Renew</a>
+                  <div
+                    class="d-flex flex-column justify-content-around align-items-center"
+                  >
+                    <a
+                      class="btn btn-dark"
+                      href="https://cala.wildapricot.org/join-us"
+                      >Join or Renew</a
+                    >
                     <p class="mt-2">
-                      Already a member? <span><a href="#">Login</a></span>
+                      Already a member?
+                      <span
+                        ><a href="https://cala.wildapricot.org/Sys/Login"
+                          >Login</a
+                        ></span
+                      >
                     </p>
                   </div>
                 </div>
@@ -128,7 +147,9 @@ custom-css: membership
               <li class="list-group-item">{{type.automatic}}</li>
             </ul>
             <div class="card-body">
-              <a href="#" class="card-link">Join or Renew</a>
+              <a href="https://cala.wildapricot.org/join-us" class="card-link"
+                >Join or Renew</a
+              >
             </div>
           </div>
           {%endif%} {%endfor%}
