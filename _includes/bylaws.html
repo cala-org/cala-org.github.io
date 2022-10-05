@@ -1,0 +1,26 @@
+<div class="accordion accordion-flush" id="accordionFlushExample">
+  {%assign bylaws = site.bylaws | sort: "order"%} {%for bylaw in bylaws%}
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-{{bylaw.accordionId}}">
+      <button
+        class="accordion-button collapsed"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#flush-{{bylaw.collapseId}}"
+        aria-expanded="false"
+        aria-controls="flush-{{bylaw.collapseId}}"
+      >
+        {{bylaw.name}}
+      </button>
+    </h2>
+    <div
+      id="flush-{{bylaw.collapseId}}"
+      class="accordion-collapse collapse"
+      aria-labelledby="flush-{{bylaw.accordionId}}"
+      data-bs-parent="#accordionFlushExample"
+    >
+      <div class="accordion-body">{{bylaw.content | markdownify}}</div>
+    </div>
+  </div>
+  {%endfor%}
+</div>

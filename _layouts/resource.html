@@ -18,7 +18,9 @@ custom-js: index
 
     <article class="mt-5">
       <h2 class="display-4 h2-flex">
-        <span class="hrline text-primary pb-2">Awards, Grants, and Scholarships</span>
+        <span class="hrline text-primary pb-2"
+          >Awards, Grants, and Scholarships</span
+        >
       </h2>
       {% include scholarship.html %}
     </article>
@@ -27,15 +29,10 @@ custom-js: index
       <h2 class="display-4 h2-flex">
         <span class="hrline text-primary pb-2">Bylaws & Consitution</span>
       </h2>
-
-      {% assign bylaws-content = site.resource %}
-      {% for bylaws in bylaws-content %}
-      {% if bylaws.title == "Bylaws and Constitution" %}
-      <div class="container d-flex justify-content-center">
-        {{ bylaws.content | markdownify }}
+      <div class="container">
+        <h3>Bylaws</h3>
+        {% include bylaws.html %}
       </div>
-      {% endif %}
-      {% endfor %}
     </article>
   </div>
 </section>
