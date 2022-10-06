@@ -40,7 +40,6 @@ collections:
   best-book:
     output: true
     url: /scholarship/scholarship-award/best-book/:path/
-    permalink: /about/:path/
   bylaws:
     output: true
   committee:
