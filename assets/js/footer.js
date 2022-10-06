@@ -1,5 +1,5 @@
 $(()=>{
-  $('h2.h2-flex').append('<div class="x-comp">x</div>');
+  $('.title-dec').append('<div class="x-comp">x</div>');
 })
 
 fetch('https://www.ala.org/news/rss.xml', {

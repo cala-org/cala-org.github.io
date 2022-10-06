@@ -1,5 +1,5 @@
 ---
-layour: post
+layout: post
 title: "Upcoming Webinar: Path to Leadership - An Information Update"
 date: 2022-08-15T15:08:36.964Z
 ---

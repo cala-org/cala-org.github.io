@@ -13,13 +13,13 @@ custom-js: about
       <div class="about-page-container d-flex justify-content-around">
         <div class="col-5 bhistory">{{about-content.content | markdownify}}</div>
         <div class="col-5 about-content d-flex flex-column justify-content-between">
-          <h2 class="about-title">{{about-content.title}}</h2>
+          <h1 class="about-title">{{about-content.title}}</h1>
           <p>{{about-content.intro}}</p>
         </div>
       </div>
     </div>
     {% elsif forloop.last %}
-    <h2 class="display-4 h2-flex">
+    <h2 class="title-dec display-4 text-primary text-center">
       <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
     </h2>
     {% assign year-range = site.data.committee %}
@@ -34,7 +34,7 @@ custom-js: about
     </div>
     {% endfor %}
     {% else %}
-    <h2 class="display-4 h2-flex">
+    <h2 class="title-dec display-4 text-primary text-center">
       <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
     </h2>
     <div class="container">{{about-content.content | markdownify}}</div>
