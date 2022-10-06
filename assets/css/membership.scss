@@ -69,6 +69,11 @@
   color: #fff;
   position: relative;
 
+  outline-offset: 1rem;
+  outline-width: 0.2rem;
+  outline-style: solid;
+  outline-color: var(--bs-primary);
+
   .quote-symbol {
     position: absolute;
     top: 3%;
