@@ -1,6 +1,5 @@
 ---
-title: Bylaws
-name: Artical I. Membership
+title: Artical I. Membership
 submitted: Submitted by cala-webmaster on Thu, 06/06/2019 - 20:31
 accordionId: headingOne
 collapseId: collapseOne

@@ -1,6 +1,5 @@
 ---
-title: Bylaws
-name: Artical III. Board Meetings
+title: Artical III. Board Meetings
 submitted: Submitted by cala_webmaster on Thu, 06/06/2019 - 20:31
 accordionId: headingThree
 collapseId: collapseThree

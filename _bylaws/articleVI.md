@@ -1,6 +1,5 @@
 ---
-title: Bylaws
-name: Artical VI. Vacancies
+title: Artical VI. Vacancies
 submitted: Submitted by cala_webmaster on Thu, 06/06/2019 - 20:50
 accordionId: headingSix
 collapseId: collapseSix

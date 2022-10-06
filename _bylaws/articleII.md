@@ -1,6 +1,5 @@
 ---
-title: Bylaws
-name: Artical II. Membership and Program Meeting
+title: Artical II. Membership and Program Meeting
 submitted: Submitted by cala-webmaster on Thu, 06/06/2019 - 20:32
 accordionId: headingTwo
 collapseId: collapseTwo

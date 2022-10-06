@@ -1,6 +1,5 @@
 ---
-title: Bylaws
-name: Article X. Conflict of Interest Policy
+title: Article X. Conflict of Interest Policy
 submitted: Submitted by cala_webmaster on Thu, 06/06/2019 - 21:06
 accordionId: headingTen
 collapseId: collapseTen

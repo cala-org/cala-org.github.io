@@ -1,6 +1,5 @@
 ---
-title: Bylaws
-name: Article IX. Amendments
+title: Article IX. Amendments
 submitted: Submitted by cala-webmaster on Thu, 06/06/2019 - 21:00
 accordionId: headingNine
 collapseId: collapseNine

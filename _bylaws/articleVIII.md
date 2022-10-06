@@ -1,6 +1,5 @@
 ---
-title: Bylaws
-name: Article VIII. Electronic or Mail Vote
+title: Article VIII. Electronic or Mail Vote
 submitted: Submitted by cala-webmaster on Thu, 10/09/2008 - 18:35
 accordionId: headingEight
 collapseId: collapseEight

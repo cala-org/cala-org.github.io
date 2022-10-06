@@ -1,6 +1,5 @@
 ---
-title: Bylaws
-name: Artical VII. Nominations and Elections
+title: Artical VII. Nominations and Elections
 submitted: Submitted by cala_webmaster on Thu, 06/06/2019 - 20:56
 accordionId: headingSeven
 collapseId: collapseSeven

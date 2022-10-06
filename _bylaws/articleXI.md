@@ -1,6 +1,5 @@
 ---
-title: Bylaws
-name: Article XI. Parliamentary Authority
+title: Article XI. Parliamentary Authority
 submitted: Submitted by cala_webmaster on Thu, 06/06/2019 - 21:03
 accordionId: headingEleven
 collapseId: collapseEleven
