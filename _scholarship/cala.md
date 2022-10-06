@@ -1,11 +1,8 @@
 ---
 title: CALA Scholarships
 permalink: /scholarship/cala/
-layout: default
+layout: page
 ---
-
-## CALA Scholarships
-
 To encourage professional and leadership development in Chinese American librarianship, CALA offers several scholarships each year to students, new librarians, and library school faculty.
 
 + The CALA Scholarship of Library and Information Science, $1,000: one student

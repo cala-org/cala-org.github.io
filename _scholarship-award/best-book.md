@@ -1,11 +1,8 @@
 ---
 title: CALA Annual Best Book Award
 permalink: /scholarship/scholarship-award/best-book/
-layout: default
+layout: page
 ---
-
-## {{ page.title }}
-
 This Annual Best Book Award is to promote awareness of the best books of Chinese topics or literature written by authors of Chinese descent, in English or Chinese language, that are originally published in North America.
 
 [Call for nomination]()

@@ -1,9 +1,7 @@
 ---
 title: Dr. Tze-chung Li's Student Membership Scholarship
-layout: default
+layout: page
 ---
-
-## Dr. Tze-chung Li's Student Membership Scholarship
 ### Background
 
 In July 2013, Dr. Tze-chung Li, Professor and Dean Emeritus of Dominican University Graduate School of Library and Information Sciences and one of the founding members of CALA, generously donated $1,000.00 to CALA for recruiting student members. The fund left in the current year will be carried over to the next year till all fund is utilized. This one time donation is used to cover the first year dues for new student membership.

@@ -1,7 +1,5 @@
 ---
 title: CALA Distinguished Service Award
 permalink: /scholarship/scholarship-award/distinguished/
-layout: default
+layout: page
 ---
-
-## {{ page.title }}

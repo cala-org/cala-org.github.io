@@ -4,12 +4,9 @@ title: "Job Resource"
 img: "../assets/images/cross-table-hand-shake.jpg"
 readMoreLink: "/job-resource/"
 permalink: "/job-resource/"
-layout: default
+layout: page
 ---
-<h2 class="display-4 h2-flex">
-<span class="hrline text-primary pb-2">Library Job Lists from Other Sources</span>
-</h2>
-
+### Library Job Lists from Other Sources
 **This is not a comprehensive list.**
 
 + [CALA Job List](https://ad.cala-web.org/)
