@@ -5,9 +5,10 @@ title: {{ page.Filename }}
 {% for comm-year in site.data.committee %}
 {% capture pageTitle%}{{ page.title | slugify }}{% endcapture %}
 {% if comm-year.year == pageTitle %}
-<h2 class="text-center display-6">{{ comm-year.top-title }}</h2>
-{% assign comm = comm-year.comm-content | json %}
-{% for comm-member in comm %}
+<article>
+<h2 class="text-center display-6">{{ comm-year.first-title }}</h2>
+{% assign first-content = comm-year.first-content | json %}
+{% for comm-member in first-content %}
 <div class="container mb-5">
     <div class="col-sm-9 col-12">
         <h3 class="h4 fw-normal">{{ comm-member.comm-name }}</h3>
@@ -33,11 +34,69 @@ title: {{ page.Filename }}
     </div>
 </div>
 {% endfor %}
+</article>
 
-
+<article>
 <h2 class="text-center display-6">{{ comm-year.second-title }}</h2>
+{% assign second-content = comm-year.second-content | json %}
+{% for comm-member in second-content %}
+<div class="container mb-5">
+    <div class="col-sm-9 col-12">
+        <h3 class="h4 fw-normal">{{ comm-member.comm-name }}</h3>
+        <ul class="list-unstyled mb-2">
+            {% for chairs in comm-member.comm-chair %}
+            {% if forloop.length > 1 %}
+            <li>
+                <b>Co-Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+            </li>
+            {% else %}
+            <li>
+                <b>Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
 
-<h2 class="text-center display-6">{{ comm-year.third-title }}</h2>
+        <ul>
+            {% for members in comm-member.comm-members %}
+            <li class="my-2"><a href="mailto:{{ members.email }}">{{ members.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+{% endfor %}
+</article>
+
+<article>
+    <h2 class="text-center display-6">{{ comm-year.third-title }}</h2>
+    {% assign third-content = comm-year.third-content | json %}
+    {% for comm-member in third-content %}
+    <div class="container mb-5">
+        <div class="col-sm-9 col-12">
+            <h3 class="h4 fw-normal">{{ comm-member.comm-name }}</h3>
+            <ul class="list-unstyled mb-2">
+                {% for chairs in comm-member.comm-chair %}
+                {% if forloop.length > 1 %}
+                <li>
+                    <b>Co-Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+                </li>
+                {% else %}
+                <li>
+                    <b>Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+    
+            <ul>
+                {% for members in comm-member.comm-members %}
+                <li class="my-2"><a href="mailto:{{ members.email }}">{{ members.name }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% endfor %}
+    </article>
 
 {% endif %}
 {% endfor %}

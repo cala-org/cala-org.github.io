@@ -22,17 +22,27 @@ custom-js: about
     <h2 class="title-dec display-4 text-primary text-center">
       <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
     </h2>
+    
     {% assign year-range = site.data.committee %}
-    {% for every-year in year-range %}
-    <div class="container">
-    <ul>
-      <li>
-        <a href="/about/committee/{{every-year.year}}">
-          {{ every-year.year }} Committees</a>
-      </li>
-    </ul>
+    <div class="container col-12 d-flex flex-row justify-content-around">
+        <ul>
+          {% for every-year in year-range %}
+          <li>
+            <a href="/about/committee/{{every-year.year}}">
+              {{ every-year.year }} Committees</a>
+          </li>
+          {% endfor %}
+        </ul>
+        <ul>
+          {% assign year-range = site.data.committee %}
+          {% for every-year in year-range %}
+          <li>
+            <a href="/about/committee/{{every-year.year}}">
+              {{ every-year.year }} Officers</a>
+          </li>
+          {% endfor %}
+        </ul>
     </div>
-    {% endfor %}
     {% else %}
     <h2 class="title-dec display-4 text-primary text-center">
       <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
