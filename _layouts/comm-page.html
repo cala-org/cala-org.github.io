@@ -3,12 +3,16 @@ layout: default
 title: {{ page.Filename }}
 ---
 {% for comm-year in site.data.committee %}
-{% capture pageTitle%}{{ page.title | slugify }}{% endcapture %}
+{% capture pageTitle %}{{ page.title | slugify }}{% endcapture %}
 {% if comm-year.year == pageTitle %}
+
 <article>
-<h2 class="text-center display-6">{{ comm-year.first-title }}</h2>
-{% assign first-content = comm-year.first-content | json %}
-{% for comm-member in first-content %}
+{% capture arrayLen %}{{ comm-year.title-array | size }}{%endcapture%}
+{% for indexNum in (0..arrayLen) %}
+
+<h2 class="text-center display-6">{{ comm-year.title-array[indexNum] }}</h2>
+{% assign first-content = comm-year.content-array | json %}
+{% for comm-member in first-content[indexNum] %}
 <div class="container mb-5">
     <div class="col-sm-9 col-12">
         <h3 class="h4 fw-normal">{{ comm-member.comm-name }}</h3>
@@ -33,6 +37,7 @@ title: {{ page.Filename }}
         </ul>
     </div>
 </div>
+{% endfor %}
 {% endfor %}
 </article>
 
