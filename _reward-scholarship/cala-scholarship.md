@@ -1,6 +1,6 @@
 ---
 title: CALA Scholarships
-permalink: /scholarship/cala/
+permalink: /reward/scholarship/cala/
 layout: page
 ---
 To encourage professional and leadership development in Chinese American librarianship, CALA offers several scholarships each year to students, new librarians, and library school faculty.
@@ -12,7 +12,7 @@ To encourage professional and leadership development in Chinese American librari
 
 Scholarship applications are open between January and March. To be eligible, applicants must be of Chinese descent and a CALA member. For the student scholarships, applicants should be full-time students who are currently or will soon be enrolled in an ALA-accredited library and information science program. Recipients are expected to serve on at least one CALA committee.
 
-The application deadline for 2022 is March 15. To apply, fill out the application form and submit it online. Include the following materials in your application:
+The application deadline for 2022 is **March 15**. To apply, fill out the [application form](/reward/scholarship/application/) and submit it online. Include the following materials in your application:
 
 + Curriculum vita
 + A personal statement (no more than 300 words) that describes your interest and any relevant work, including non-course educational experience, volunteer work, and teaching, etc. Highlight what you can bring to the profession and CALA, in particular what you have done that reflects your potential for leadership. 

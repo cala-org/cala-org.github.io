@@ -1,5 +1,5 @@
 ---
 title: CALA President’s Recognition Award
-permalink: /scholarship/scholarship-award/president/
+permalink: /reward/award/president/
 layout: page
 ---

@@ -55,15 +55,18 @@ collections:
     url: /resource/:path/
   resource-carousel:
     output: true
-  scholarship:
+  reward:
     output: true
-    url: /scholarship/:path/
-  scholarship-award:
+    url: /reward/:path/
+  reward-award:
     output: true
-    url: /scholarship/scholarship-award/:path/
-  scholarship-grant:
+    url: /reward/award/:path/
+  reward-grant:
     output: true
-    url: /scholarship/scholarship-grant/:path/
+    url: /reward/grant/:path/
+  reward-scholarship:
+    output: true
+    url: /reward/scholarship/:path/
   index-support:
     output: true
 # Exclude from processing.

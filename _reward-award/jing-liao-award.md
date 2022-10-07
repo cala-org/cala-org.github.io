@@ -1,13 +1,16 @@
 ---
 title: The CALA Jing Liao Annual Award for the Best Research
-permalink: /scholarship/scholarship-award/jing-liao/
+permalink: /reward/award/jing-liao/
 layout: page
 ---
 
 The pursuit of excellence in research and service was what defined the career of Jing Liao (1954-2011), a long-time CALA member and a devoted and accomplished librarian at the University of Illinois at Urbana-Champaign. The establishment of this memorial fund is to honor the memory of Jing Liao by encouraging CALA members to strive for excellence in research in all media.
 
 {: .h5}
-### [CALA Annual Jing Liao Award Thank You Letter](/scholarship/scholarship-award/jing-liao/thank-you/)
+### [Recipients of CALA Annual Jing Liao Award (2012 - Present)](/reward/award/jing-liao/recipient/)
+
+{: .h5}
+### [CALA Annual Jing Liao Award Thank You Letter](/reward/award/jing-liao/thank-you/)
 
 ---
 

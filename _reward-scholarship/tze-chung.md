@@ -1,5 +1,6 @@
 ---
 title: Dr. Tze-chung Li's Student Membership Scholarship
+permalink: /reward/scholarship/tze-chung/
 layout: page
 ---
 ### Background

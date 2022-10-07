@@ -1,5 +1,5 @@
 ---
 title: Outstanding Library Leadership Award in Memory of Dr. Margaret Chang Fung
-permalink: /scholarship/scholarship-award/outstanding/
+permalink: /reward/award/outstanding/
 layout: page
 ---

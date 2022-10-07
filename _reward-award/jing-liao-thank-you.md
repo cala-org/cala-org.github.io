@@ -1,6 +1,6 @@
 ---
 title: CALA Annual Jing Liao Award Thank You Letter
-permalink: /scholarship/scholarship-award/jing-liao/thank-you/
+permalink: /reward/award/jing-liao/thank-you/
 layout: page
 ---
 ### Thank You Letter
