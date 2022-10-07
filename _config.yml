@@ -22,8 +22,8 @@ title: CALA Official Website
 email: gadmin@cala-web.org
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Chinese American Librarians Association (CALA) 華人圖書館員協會
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: cala-web-committee
 linkedin_username: CALA Chinese American Librarians Association
 facebook_username: CALA Chinese American Librarians Association
@@ -36,38 +36,29 @@ plugins:
 collections:
   about:
     output: true
-    url: /about/:path/
   best-book:
     output: true
-    url: /scholarship/scholarship-award/best-book/:path/
   bylaws:
     output: true
   committee:
     output: true
-    url: /about/committee/:path/
   index-carousel:
     output: true
   membership:
     output: true
-    url: /membership/:path/
-  resource:
+  protected:
     output: true
-    url: /resource/:path/
   resource-carousel:
     output: true
   reward:
     output: true
-    url: /reward/:path/
   reward-award:
     output: true
-    url: /reward/award/:path/
   reward-grant:
     output: true
-    url: /reward/grant/:path/
   reward-scholarship:
     output: true
-    url: /reward/scholarship/:path/
-  index-support:
+  secret:
     output: true
 # Exclude from processing.
 # The following items will not be processed, by default.

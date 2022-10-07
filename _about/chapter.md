@@ -1,6 +1,6 @@
 ---
 title: Chapters
-order: 3
+order: 2
 ---
 
 |Chapter|States Covered|

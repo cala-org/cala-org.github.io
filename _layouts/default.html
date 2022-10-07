@@ -9,21 +9,25 @@
 
   {% include main-nav.html %}
 
-  {% if layout.heroTop == true %}
-  <div class="container-fluid">
-    {% else %}
-    <div class="container">
-      {% endif %}
-      <div class="row">
-        <div class="col-12 my-5" id="main-content">
+  <div class="container-fluid mt-4">
+    {% capture compo %}{{ layout.heroComp }}{% endcapture %}
+    {% if compo != '' %}
+      {% include {{ layout.heroComp }} %}
+    {% endif %}
+    
+  </div>
 
-          {{ content }}
+  <div class="container">
+    <div class="row">
+      <div class="col-12 my-4" id="main-content">
 
-        </div>
+        {{ content }}
+
       </div>
     </div>
+  </div>
 
-    {% include footer.html %}
+  {% include footer.html %}
 
 </body>
 

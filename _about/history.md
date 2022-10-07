@@ -1,6 +1,6 @@
 ---
 title: History and Facts
-order: 2
+order: 1
 ---
 
 this is history and facts

@@ -1,163 +1,153 @@
 ---
 layout: default
-heroTop: true
 custom-css: index
 custom-js: index
+heroComp: "index-carousel.html"
 ---
+<article>
+  <h2 class="title-dec display-4 text-primary text-center">
+    <span class="hrline text-primary pb-2"> News Spotlight </span>
+  </h2>
+  {{ content }}
+</article>
 
-<section>
-  <div class="container-fluid">
-    {% include index-carousel.html %}
-
-    <article>
-      <h2 class="title-dec display-4 text-primary text-center">
-        <span class="hrline text-primary pb-2"> News Spotlight </span>
-      </h2>
-      {{ content }}
-    </article>
-
-    <article class="mt-5">
-      <h2 class="title-dec display-4 text-primary text-center">
-        <span class="hrline text-primary pb-2"> In Support of CALA </span>
-      </h2>
-      <div class="d-flex justify-content-center px-5">
-        {%for support in site.index-support%}
-        <div class="card col mx-4 px-0">
-          <div class="card-header bg-white text-warning text-center fs-1 py-3">
-            {{support.title}}
-          </div>
-          <div class="card-body d-flex flex-column justify-content-center align-items-center">
-            {% if support.title == "Amazon" %}
-            <div id="amznCharityBanner" class="d-flex justify-content-center"></div>
-            <script type="text/javascript">
-              (function () {
-                var iFrame = document.createElement('iframe');
-                iFrame.style.display = 'none';
-                iFrame.style.border = 'none';
-                iFrame.width = 310;
-                iFrame.height = 256;
-                iFrame.setAttribute && iFrame.setAttribute('scrolling', 'no');
-                iFrame.setAttribute('frameborder', '0');
-                setTimeout(function () {
-                  var contents = iFrame.contentWindow
-                    ? iFrame.contentWindow
-                    : iFrame.contentDocument.document
-                      ? iFrame.contentDocument.document
-                      : iFrame.contentDocument;
-                  contents.document.open();
-                  contents.document.write(
-                    decodeURIComponent(
-                      '%3Cdiv%20id%3D%22amznCharityBannerInner%22%3E%3Ca%20href%3D%22https%3A%2F%2Fsmile.amazon.com%2Fch%2F23-7417422%22%20target%3D%22_blank%22%3E%3Cdiv%20class%3D%22text%22%20height%3D%22%22%3E%3Cdiv%20class%3D%22support-wrapper%22%3E%3Cdiv%20class%3D%22support%22%20style%3D%22font-size%3A%2021px%3B%20line-height%3A%2024px%3B%20margin-top%3A%207px%3B%20margin-bottom%3A%207px%3B%22%3ESupport%20%3Cspan%20id%3D%22charity-name%22%20style%3D%22display%3A%20inline-block%3B%22%3EChinese%20American%20Librarians%20Association.%3C%2Fspan%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cp%20class%3D%22when-shop%22%3EWhen%20you%20shop%20at%20%3Cb%3Esmile.amazon.com%2C%3C%2Fb%3E%3C%2Fp%3E%3Cp%20class%3D%22donates%22%3EAmazon%20donates.%3C%2Fp%3E%3C%2Fdiv%3E%3C%2Fa%3E%3C%2Fdiv%3E%3Cstyle%3E%23amznCharityBannerInner%7Bbackground-image%3Aurl(https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2Fx-locale%2Fpaladin%2Fcharitycentral%2Fbanner-background-image._CB309675353_.png)%3Bwidth%3A300px%3Bheight%3A250px%3Bposition%3Arelative%7D%23amznCharityBannerInner%20a%7Bdisplay%3Ablock%3Bwidth%3A100%25%3Bheight%3A100%25%3Bposition%3Arelative%3Bcolor%3A%23000%3Btext-decoration%3Anone%7D.text%7Bposition%3Aabsolute%3Btop%3A20px%3Bleft%3A15px%3Bright%3A15px%3Bbottom%3A100px%7D.support-wrapper%7Boverflow%3Ahidden%3Bmax-height%3A86px%7D.support%7Bfont-family%3AArial%2Csans%3Bfont-weight%3A700%3Bline-height%3A28px%3Bfont-size%3A25px%3Bcolor%3A%23333%3Btext-align%3Acenter%3Bmargin%3A0%3Bpadding%3A0%3Bbackground%3A0%200%7D.when-shop%7Bfont-family%3AArial%2Csans%3Bfont-size%3A15px%3Bfont-weight%3A400%3Bline-height%3A25px%3Bcolor%3A%23333%3Btext-align%3Acenter%3Bmargin%3A0%3Bpadding%3A0%3Bbackground%3A0%200%7D.donates%7Bfont-family%3AArial%2Csans%3Bfont-size%3A15px%3Bfont-weight%3A400%3Bline-height%3A21px%3Bcolor%3A%23333%3Btext-align%3Acenter%3Bmargin%3A0%3Bpadding%3A0%3Bbackground%3A0%200%7D%3C%2Fstyle%3E'
-                    )
-                  );
-                  contents.document.close();
-                  iFrame.style.display = 'block';
-                });
-                document
-                  .getElementById('amznCharityBanner')
-                  .appendChild(iFrame);
-              })();
-            </script>
-            {% endif %} {% if support.pgContent %} {{ support.pgContent |
-            markdownify }} {% endif %} {% if support.img %}
-            <a href="{{ support.link}}">
-              <img src="{{support.img }}" class="card-img-top px-3" alt="{{support.title}}" /></a>
-            {% endif %} {% if support.icon %}
-            <a href="{{ support.link}}"> {{ support.icon }} </a>
-            {% endif %}
-          </div>
-        </div>
-        {% endfor %}
+<article class="mt-5">
+  <h2 class="title-dec display-4 text-primary text-center">
+    <span class="hrline text-primary pb-2"> In Support of CALA </span>
+  </h2>
+  <div class="d-flex justify-content-center px-5">
+    {%for support in site.index-support%}
+    <div class="card col mx-4 px-0">
+      <div class="card-header bg-white text-warning text-center fs-1 py-3">
+        {{support.title}}
       </div>
-    </article>
-
-    <article>
-      <h2 class="title-dec display-4 text-primary text-center">
-        <span class="hrline text-primary pb-2">Membership</span>
-      </h2>
-
-      <div class="membership-container container d-flex justify-content-center">
-        <div class="tab-content col-8 left-comp" id="v-pills-tabContent">
-          <div class="tab-pane fade show active" id="v-pills-join-renew" role="tabpanel"
-            aria-labelledby="v-pills-home-tab" tabindex="0">
-            <h3>Join or Renew</h3>
-            <h4><a href="https://cala.wildapricot.org/join-us">Link</a></h4>
-            <p>
-              As one of the major ALA affiliated associations, CALA is the only
-              professional organization in North America that 1) promotes better
-              communication among Chinese American librarians; 2) serves as a
-              forum for the discussion of mutual problems and professional
-              concerns among Chinese American librarians; and 3) promotes the
-              development of Chinese and American librarianship with
-              scholarships and grants.
-            </p>
-          </div>
-          <div class="tab-pane fade" id="v-pills-why-join" role="tabpanel" aria-labelledby="v-pills-profile-tab"
-            tabindex="0">
-            <h3>Why Join</h3>
-            <h4><a href="">Link</a></h4>
-            <p>
-              As one of the major ALA affiliated associations, CALA is the only
-              professional organization in North America that 1) promotes better
-              communication among Chinese American librarians; 2) serves as a
-              forum for the discussion of mutual problems and professional
-              concerns among Chinese American librarians; and 3) promotes the
-              development of Chinese and American librarianship with
-              scholarships and grants.
-            </p>
-          </div>
-          <div class="tab-pane fade" id="v-pills-membership" role="tabpanel" aria-labelledby="v-pills-messages-tab"
-            tabindex="0">
-            <h3>Membership Categories</h3>
-            <h4><a href="">Link</a></h4>
-            <p>
-              There are several categories of membership. The determination of
-              categories/dues and the changes thereafter shall be approved by
-              the Board with a simple majority before Association election each
-              year. The annual membership dues for each category are posted on
-              CALA’s website.
-            </p>
-          </div>
-          <div class="tab-pane fade" id="v-pills-volunteers" role="tabpanel" aria-labelledby="v-pills-settings-tab"
-            tabindex="0">
-            <h3>Volunteers Needed</h3>
-            <h4><a href="">Link</a></h4>
-            <p>
-              CALA members are encouraged to get involved in the Association's
-              management. Volunteering to serve on a committee or task force
-              would be a great opportunity to help keeping the association live
-              and gain professional experiences.
-            </p>
-          </div>
-        </div>
-        <div class="flex-column col-3 right-comp">
-          <ul class="nav me-3 membership-list" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-            <li class="mem nav-link active" id="v-pills-home-tab" data-bs-toggle="pill"
-              data-bs-target="#v-pills-join-renew" type="button" role="tab" aria-controls="v-pills-home"
-              aria-selected="true">
-              <div>Join or Renew</div>
-              <i class="fa-solid fa-square-plus"></i>
-            </li>
-            <li class="mem nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-why-join"
-              type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">
-              <div>Why join CALA?</div>
-              <i class="fa-regular fa-square-plus"></i>
-            </li>
-            <li class="mem nav-link" id="v-pills-messages-tab" data-bs-toggle="pill"
-              data-bs-target="#v-pills-membership" type="button" role="tab" aria-controls="v-pills-messages"
-              aria-selected="false">
-              <div>Membership Categories</div>
-              <i class="fa-regular fa-square-plus"></i>
-            </li>
-            <li class="mem nav-link" id="v-pills-settings-tab" data-bs-toggle="pill"
-              data-bs-target="#v-pills-volunteers" type="button" role="tab" aria-controls="v-pills-settings"
-              aria-selected="false">
-              <div>Volunteers Needed</div>
-              <i class="fa-regular fa-square-plus"></i>
-            </li>
-          </ul>
-        </div>
+      <div class="card-body d-flex flex-column justify-content-center align-items-center">
+        {% if support.title == "Amazon" %}
+        <div id="amznCharityBanner" class="d-flex justify-content-center"></div>
+        <script type="text/javascript">
+          (function () {
+            var iFrame = document.createElement('iframe');
+            iFrame.style.display = 'none';
+            iFrame.style.border = 'none';
+            iFrame.width = 310;
+            iFrame.height = 256;
+            iFrame.setAttribute && iFrame.setAttribute('scrolling', 'no');
+            iFrame.setAttribute('frameborder', '0');
+            setTimeout(function () {
+              var contents = iFrame.contentWindow
+                ? iFrame.contentWindow
+                : iFrame.contentDocument.document
+                  ? iFrame.contentDocument.document
+                  : iFrame.contentDocument;
+              contents.document.open();
+              contents.document.write(
+                decodeURIComponent(
+                  '%3Cdiv%20id%3D%22amznCharityBannerInner%22%3E%3Ca%20href%3D%22https%3A%2F%2Fsmile.amazon.com%2Fch%2F23-7417422%22%20target%3D%22_blank%22%3E%3Cdiv%20class%3D%22text%22%20height%3D%22%22%3E%3Cdiv%20class%3D%22support-wrapper%22%3E%3Cdiv%20class%3D%22support%22%20style%3D%22font-size%3A%2021px%3B%20line-height%3A%2024px%3B%20margin-top%3A%207px%3B%20margin-bottom%3A%207px%3B%22%3ESupport%20%3Cspan%20id%3D%22charity-name%22%20style%3D%22display%3A%20inline-block%3B%22%3EChinese%20American%20Librarians%20Association.%3C%2Fspan%3E%3C%2Fdiv%3E%3C%2Fdiv%3E%3Cp%20class%3D%22when-shop%22%3EWhen%20you%20shop%20at%20%3Cb%3Esmile.amazon.com%2C%3C%2Fb%3E%3C%2Fp%3E%3Cp%20class%3D%22donates%22%3EAmazon%20donates.%3C%2Fp%3E%3C%2Fdiv%3E%3C%2Fa%3E%3C%2Fdiv%3E%3Cstyle%3E%23amznCharityBannerInner%7Bbackground-image%3Aurl(https%3A%2F%2Fm.media-amazon.com%2Fimages%2FG%2F01%2Fx-locale%2Fpaladin%2Fcharitycentral%2Fbanner-background-image._CB309675353_.png)%3Bwidth%3A300px%3Bheight%3A250px%3Bposition%3Arelative%7D%23amznCharityBannerInner%20a%7Bdisplay%3Ablock%3Bwidth%3A100%25%3Bheight%3A100%25%3Bposition%3Arelative%3Bcolor%3A%23000%3Btext-decoration%3Anone%7D.text%7Bposition%3Aabsolute%3Btop%3A20px%3Bleft%3A15px%3Bright%3A15px%3Bbottom%3A100px%7D.support-wrapper%7Boverflow%3Ahidden%3Bmax-height%3A86px%7D.support%7Bfont-family%3AArial%2Csans%3Bfont-weight%3A700%3Bline-height%3A28px%3Bfont-size%3A25px%3Bcolor%3A%23333%3Btext-align%3Acenter%3Bmargin%3A0%3Bpadding%3A0%3Bbackground%3A0%200%7D.when-shop%7Bfont-family%3AArial%2Csans%3Bfont-size%3A15px%3Bfont-weight%3A400%3Bline-height%3A25px%3Bcolor%3A%23333%3Btext-align%3Acenter%3Bmargin%3A0%3Bpadding%3A0%3Bbackground%3A0%200%7D.donates%7Bfont-family%3AArial%2Csans%3Bfont-size%3A15px%3Bfont-weight%3A400%3Bline-height%3A21px%3Bcolor%3A%23333%3Btext-align%3Acenter%3Bmargin%3A0%3Bpadding%3A0%3Bbackground%3A0%200%7D%3C%2Fstyle%3E'
+                )
+              );
+              contents.document.close();
+              iFrame.style.display = 'block';
+            });
+            document
+              .getElementById('amznCharityBanner')
+              .appendChild(iFrame);
+          })();
+        </script>
+        {% endif %} {% if support.pgContent %} {{ support.pgContent |
+        markdownify }} {% endif %} {% if support.img %}
+        <a href="{{ support.link}}">
+          <img src="{{support.img }}" class="card-img-top px-3" alt="{{support.title}}" /></a>
+        {% endif %} {% if support.icon %}
+        <a href="{{ support.link}}"> {{ support.icon }} </a>
+        {% endif %}
       </div>
-    </article>
+    </div>
+    {% endfor %}
   </div>
-</section>
+</article>
+
+<article>
+  <h2 class="title-dec display-4 text-primary text-center">
+    <span class="hrline text-primary pb-2">Membership</span>
+  </h2>
+
+  <div class="membership-container d-flex justify-content-center">
+    <div class="tab-content col-8 left-comp" id="v-pills-tabContent">
+      <div class="tab-pane fade show active" id="v-pills-join-renew" role="tabpanel" aria-labelledby="v-pills-home-tab"
+        tabindex="0">
+        <h3>Join or Renew</h3>
+        <h4><a href="https://cala.wildapricot.org/join-us">Link</a></h4>
+        <p>
+          As one of the major ALA affiliated associations, CALA is the only
+          professional organization in North America that 1) promotes better
+          communication among Chinese American librarians; 2) serves as a
+          forum for the discussion of mutual problems and professional
+          concerns among Chinese American librarians; and 3) promotes the
+          development of Chinese and American librarianship with
+          scholarships and grants.
+        </p>
+      </div>
+      <div class="tab-pane fade" id="v-pills-why-join" role="tabpanel" aria-labelledby="v-pills-profile-tab"
+        tabindex="0">
+        <h3>Why Join</h3>
+        <h4><a href="">Link</a></h4>
+        <p>
+          As one of the major ALA affiliated associations, CALA is the only
+          professional organization in North America that 1) promotes better
+          communication among Chinese American librarians; 2) serves as a
+          forum for the discussion of mutual problems and professional
+          concerns among Chinese American librarians; and 3) promotes the
+          development of Chinese and American librarianship with
+          scholarships and grants.
+        </p>
+      </div>
+      <div class="tab-pane fade" id="v-pills-membership" role="tabpanel" aria-labelledby="v-pills-messages-tab"
+        tabindex="0">
+        <h3>Membership Categories</h3>
+        <h4><a href="">Link</a></h4>
+        <p>
+          There are several categories of membership. The determination of
+          categories/dues and the changes thereafter shall be approved by
+          the Board with a simple majority before Association election each
+          year. The annual membership dues for each category are posted on
+          CALA’s website.
+        </p>
+      </div>
+      <div class="tab-pane fade" id="v-pills-volunteers" role="tabpanel" aria-labelledby="v-pills-settings-tab"
+        tabindex="0">
+        <h3>Volunteers Needed</h3>
+        <h4><a href="">Link</a></h4>
+        <p>
+          CALA members are encouraged to get involved in the Association's
+          management. Volunteering to serve on a committee or task force
+          would be a great opportunity to help keeping the association live
+          and gain professional experiences.
+        </p>
+      </div>
+    </div>
+    <div class="flex-column col-3 right-comp">
+      <ul class="nav me-3 membership-list" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+        <li class="mem nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-join-renew"
+          type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">
+          <div>Join or Renew</div>
+          <i class="fa-solid fa-square-plus"></i>
+        </li>
+        <li class="mem nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-why-join"
+          type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+          <div>Why join CALA?</div>
+          <i class="fa-regular fa-square-plus"></i>
+        </li>
+        <li class="mem nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-membership"
+          type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">
+          <div>Membership Categories</div>
+          <i class="fa-regular fa-square-plus"></i>
+        </li>
+        <li class="mem nav-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-volunteers"
+          type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">
+          <div>Volunteers Needed</div>
+          <i class="fa-regular fa-square-plus"></i>
+        </li>
+      </ul>
+    </div>
+  </div>
+</article>

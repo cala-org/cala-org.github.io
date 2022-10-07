@@ -1,55 +1,45 @@
 ---
 layout: default
-heroTop: true
 custom-css: about
 custom-js: about
+heroComp: "about-carousel.html"
 ---
-<section>
-  <div class="container-fluid">
-    {% assign about-pages = site.about | sort: "order" %}
-    {% for about-content in about-pages %}
-    {% if forloop.first %}
-    <div class="border border-5 border-half-red d-flex justify-content-center align-items-center">
-      <div class="about-page-container d-flex justify-content-around">
-        <div class="col-5 bhistory">{{about-content.content | markdownify}}</div>
-        <div class="col-5 about-content d-flex flex-column justify-content-between">
-          <h1 class="about-title">{{about-content.title}}</h1>
-          <p>{{about-content.intro}}</p>
-        </div>
-      </div>
-    </div>
-    {% elsif forloop.last %}
-    <h2 class="title-dec display-4 text-primary text-center">
-      <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
-    </h2>
-    
+
+{% assign about-pages = site.about | sort: "order" %}
+{% for about-content in about-pages %}
+
+{% if forloop.last %}
+<h2 class="title-dec display-4 text-primary text-center">
+  <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
+</h2>
+
+{% assign year-range = site.data.committee %}
+<div class="col-12 d-flex flex-row justify-content-around">
+  <ul>
+    {% for every-year in year-range %}
+    <li>
+      <a href="/about/committee/{{every-year.year}}">
+        {{ every-year.year }} Committees</a>
+    </li>
+    {% endfor %}
+  </ul>
+  <ul>
     {% assign year-range = site.data.committee %}
-    <div class="container col-12 d-flex flex-row justify-content-around">
-        <ul>
-          {% for every-year in year-range %}
-          <li>
-            <a href="/about/committee/{{every-year.year}}">
-              {{ every-year.year }} Committees</a>
-          </li>
-          {% endfor %}
-        </ul>
-        <ul>
-          {% assign year-range = site.data.committee %}
-          {% for every-year in year-range %}
-          <li>
-            <a href="/about/committee/{{every-year.year}}">
-              {{ every-year.year }} Officers</a>
-          </li>
-          {% endfor %}
-        </ul>
-    </div>
-    {% else %}
-    <h2 class="title-dec display-4 text-primary text-center">
-      <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
-    </h2>
-    <div class="container">{{about-content.content | markdownify}}</div>
+    {% for every-year in year-range %}
+    <li>
+      <a href="/about/committee/{{every-year.year}}">
+        {{ every-year.year }} Officers</a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% else %}
+<h2 class="title-dec display-4 text-primary text-center">
+  <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
+</h2>
+<div>
+  {{about-content.content | markdownify}}
+</div>
 
-    {% endif %} {% endfor %}
-
-  </div>
-</section>
+{% endif %}
+{% endfor %}

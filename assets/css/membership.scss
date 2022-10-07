@@ -3,6 +3,15 @@
 
 @import '../node_modules/rfs/scss';
 
+::-webkit-scrollbar {
+  width: 1px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, .3);
+}
+
 .h-image {
   position: relative;
   height: 35rem;
@@ -49,7 +58,6 @@
 }
 
 .types-container {
-  width: 75%;
   background-color: #eee;
   z-index: 0;
 
