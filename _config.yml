@@ -44,6 +44,8 @@ collections:
     output: true
   index-carousel:
     output: true
+  index-support:
+    output: true
   membership:
     output: true
   protected:
