@@ -48,6 +48,8 @@ collections:
     output: true
   membership:
     output: true
+  news-letter:
+    output: true
   protected:
     output: true
   resource-carousel:
