@@ -6,23 +6,19 @@ layout: page
 
 <!-- https://docs.netlify.com/forms/setup/ -->
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="fileForm" enctype="multipart/form-data" data-netlify="true">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>
+    <label>
+      <span>Name:</span>
+      <input name="name" type="text"/>
+    </label>
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>
+      <span>Add file:</span>
+      <input name="file" type="file"/>
+    </label>
   </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+  <button>Submit</button>
 </form>
+<p class="result"></p>

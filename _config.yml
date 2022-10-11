@@ -42,6 +42,8 @@ collections:
     output: true
   committee:
     output: true
+  constitutions:
+    output: true
   index-carousel:
     output: true
   index-support:

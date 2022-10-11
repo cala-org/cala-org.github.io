@@ -4,6 +4,7 @@ custom-css: index
 custom-js: index
 heroComp: "resource-carousel.html"
 ---
+
 <article>
   <h2 class="title-dec display-4 text-primary text-center">
     <span class="hrline text-primary pb-2"> News Letter </span>
@@ -13,7 +14,9 @@ heroComp: "resource-carousel.html"
 
 <article class="mt-5">
   <h2 class="title-dec display-4 text-primary text-center">
-    <span class="hrline text-primary pb-2">Awards, Grants, and Scholarships</span>
+    <span class="hrline text-primary pb-2"
+      >Awards, Grants, and Scholarships</span
+    >
   </h2>
   {% include reward.html %}
 </article>
@@ -22,6 +25,14 @@ heroComp: "resource-carousel.html"
   <h2 class="title-dec display-4 text-primary text-center" id="bylaw">
     <span class="hrline text-primary pb-2">Bylaws & Consitution</span>
   </h2>
-  <h3>Bylaws</h3>
-  {% include bylaws.html %}
+  <div class="d-flex">
+    <div class="col-6">
+      <h3>Bylaws</h3>
+      {% include bylaws.html %}
+    </div>
+    <div class="col-6">
+      <h3>Constitution</h3>
+      {% include constitutions.html %}
+    </div>
+  </div>
 </article>
