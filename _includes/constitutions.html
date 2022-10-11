@@ -1,0 +1,25 @@
+<div class="accordion accordion-flush" id="accordionFlushExample">
+  {% assign constitutions-content = site.constitutions %} {% for constitution in
+  constitutions-content %}
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-{{constitution.accordionId}}">
+      <button
+        class="accordion-button collapsed"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#flush-{{constitution.collapseId}}"
+        aria-expanded="false"
+        aria-controls="flush-{{constitution.collapseId}}">
+        {{ constitution.title }}
+      </button>
+    </h2>
+    <div
+      id="flush-{{constitution.collapseId}}"
+      class="accordion-collapse collapse"
+      aria-labelledby="flush-{{constitution.accordionId}}"
+      data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">{{ constitution.content | markdownify }}</div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
