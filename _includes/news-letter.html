@@ -1,6 +1,6 @@
 <div class="d-flex flex-row-reverse">
     {% for news in site.news-letter %}
-    {% if news.title != "landing" %}
+    {% if news.title == "Latest Issue" %}
     <div class="col-3">
         <h3 class="h5">
             {{news.title}}
@@ -8,11 +8,22 @@
         <p class="text-primary">
             {{news.publish-date}}
         </p>
-        <img src="{{news.cover-img}}" alt="{{news.publish-date}}" class="img-fluid" width="300px"/>
+        <img src="{{news.cover-img}}" alt="{{news.publish-date}}" class="img-fluid" width="300px" />
     </div>
-    {% else %}
+    {% elsif news.title == "landing" %}
     <div class="col align-self-center offset-1">
         {{news.content}}
+        <h3 class="h6 mt-5 text-secondary">Past Issues (Click links to download)</h3>
+        <div class="d-flex flex-row-reverse">
+            {% for news in site.news-letter %}
+            {% if news.title != "landing" and news.title != "Latest Issue" %}
+            <div class="col">
+                <span class="lead">{{news.title}}</span>
+               {{news.content}}
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div>
     </div>
     {% endif %}
     {% endfor %}
