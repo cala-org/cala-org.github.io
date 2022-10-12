@@ -7,7 +7,7 @@ custom-js: scholarshipApp
 
 <!-- https://docs.netlify.com/forms/setup/ -->
 
-<form name="fileForm" method="POST" enctype="multipart/form-data" data-netlify="true">
+<form name="fileForm" enctype="multipart/form-data" data-netlify="true">
   <div>
     <label>Are you currently a CALA member?</label>
     <div class="form-check">

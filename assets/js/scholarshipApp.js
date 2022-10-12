@@ -1,5 +1,3 @@
-console.log("application form");
-
 document.forms.fileForm.addEventListener("submit", event => {
   event.preventDefault();
   const result = document.querySelector(".result");
