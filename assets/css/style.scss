@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "../node_modules/rfs/scss";
+// @import "../node_modules/rfs/scss";
 // Base styles (To override Bootstrap)
 $primary: #be2239;
 $primary-hover: #811726;
@@ -54,7 +54,7 @@ h1 {
 }
 
 .display-1 {
-  @include font-size(2.5rem);
+  font-size: 2.5rem;
 }
 
 //Footer
