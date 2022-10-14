@@ -3,10 +3,12 @@
     "bootstrap": "^5.2.1",
     "crypto-js": "^4.1.1",
     "fs": "^0.0.1-security",
-    "gulp": "^4.0.2",
     "gulp-util": "^3.0.8",
     "marked": "^4.1.1",
     "rfs": "^9.0.6",
     "through2": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
   }
 }

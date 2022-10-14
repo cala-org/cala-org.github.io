@@ -85,7 +85,10 @@ function encrypt(password) {
         return callback();
       }
 
-      var encryptedBody = cryptojs.AES.encrypt(marked(originalBody), password),
+      var encryptedBody = cryptojs.AES.encrypt(
+          marked.parse(originalBody),
+          password
+        ),
         hmac = cryptojs
           .HmacSHA256(
             encryptedBody.toString(),
