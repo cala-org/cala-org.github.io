@@ -12,3 +12,17 @@
  ## Netlify Deploy Status
  + [![Netlify Status](https://api.netlify.com/api/v1/badges/26329b40-e493-495d-86ac-d52f2169c8bd/deploy-status)](https://app.netlify.com/sites/cala-org/deploys)
  + Netlify admin logoin: cala-org.netlify.app/admin
+
+## Gulp Encryption
+  + Go to `gulpfile.js ` in root file
+  + find `gulp.task("firewall:encrypt", () => {
+    return gulp
+      .src("_protected/*.*")
+      .pipe(encrypt("password"))
+      .pipe(gulp.dest("_secret"));
+    });` in the gulp file
+  + `gulp.src()` suggests the directory which you want to encrypt the contents held in
+  + `gulp.pipe(encrypt("password"))` means the password you wnat to have
+  + `gulp.pipe(gulp.dest())` point out the encrypted file which will be AUTO-GENERATED
+  + The `encrypted.html` under `_layouts` is responsible for interacting with gulpfile.js and setting up further frontend features (e.g. CSS, JS)
+  + When using gulp's encryption feature, open up a different terminal and run `gulp` (need to install gulp CLI and check gulp's version first)
