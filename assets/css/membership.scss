@@ -1,7 +1,7 @@
 ---
 ---
 
-@import '../node_modules/rfs/scss';
+@import "../node_modules/rfs/scss";
 
 ::-webkit-scrollbar {
   width: 1px;
@@ -9,14 +9,14 @@
 
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background-color: rgba(0, 0, 0, .3);
+  background-color: rgba(0, 0, 0, 0.3);
 }
 
 .h-image {
   position: relative;
   height: 35rem;
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url('../images/pikwizard-library-books-shelves-.jpeg');
+    url("../images/pikwizard-library-books-shelves-.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -43,7 +43,7 @@
       width: 75%;
       height: 65%;
       h1 {
-        font-size: 4rem;
+        @include font-size(4rem !important);
         text-align: center;
         color: #2d2424;
       }
