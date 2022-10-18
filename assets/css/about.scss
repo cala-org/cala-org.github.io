@@ -1,5 +1,6 @@
 ---
 ---
+@import '../node_modules/rfs/scss';
 
 .about-page-container {
   padding: 7rem 5rem 7rem 5rem;
@@ -7,21 +8,21 @@
 
 .bhistory {
   p {
-    font-size: 0.9rem;
+    @include font-size(0.9rem);
     color: var(--bs-primary);
   }
 }
 
 .about-content {
   h1.about-title {
-    font-size: 5rem;
-    margin-bottom: 3rem;
+    @include font-size(5rem);
+    @include margin-bottom(3rem);
     color: var(--bs-primary);
   }
 
   p#about-cala {
     color: var(--bs-secondary);
-    font-size: 1.8rem;
+    @include font-size(1.8rem);
     font-weight: 300;
     padding-bottom: 2rem;
   }

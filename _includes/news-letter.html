@@ -1,7 +1,7 @@
-<div class="d-flex flex-row-reverse">
+<div class="d-flex flex-column-reverse flex-md-row-reverse">
     {% for news in site.news-letter %}
     {% if news.title == "Latest Issue" %}
-    <div class="col-3">
+    <div class="col-md-3 align-self-center">
         <h3 class="h5">
             {{news.title}}
         </h3>
@@ -9,7 +9,7 @@
             {{news.publish-date}}
         </p>
         <a href="{{news.download}}">
-        <img src="{{news.cover-img}}" alt="{{news.publish-date}}" class="img-fluid" width="300px" /></a>
+        <img src="{{news.cover-img}}" alt="{{news.publish-date}}" class="img-fluid" width="250px" /></a>
     </div>
     {% elsif news.title == "landing" %}
     <div class="col align-self-center offset-1">
