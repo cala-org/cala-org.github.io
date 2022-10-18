@@ -8,7 +8,8 @@
         <p class="text-primary">
             {{news.publish-date}}
         </p>
-        <img src="{{news.cover-img}}" alt="{{news.publish-date}}" class="img-fluid" width="300px" />
+        <a href="{{news.download}}">
+        <img src="{{news.cover-img}}" alt="{{news.publish-date}}" class="img-fluid" width="300px" /></a>
     </div>
     {% elsif news.title == "landing" %}
     <div class="col align-self-center offset-1">
