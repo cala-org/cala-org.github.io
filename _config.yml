@@ -48,6 +48,8 @@ collections:
     output: true
   index-support:
     output: true
+  independent-pages:
+    output: true
   membership:
     output: true
   news-letter:
