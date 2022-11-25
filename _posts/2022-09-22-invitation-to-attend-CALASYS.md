@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invitation to Attend CALASYS Open Training
-date: 2022-09-23T13:08:36.964Z
+date: 2022-09-22T13:08:36.964Z
 ---
 Dear colleagues,
 We’d like to invite you to attend a training session on CALA’s institutional repository, CALASYS (https://ir.cala-web.org/).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Award Announcement-Sally C. Tseng Professional
-date: 2022-09-23T15:08:36.964Z
+date: 2022-09-22T15:08:36.964Z
 ---
 On Behalf of the Sally C. Tseng Professional Development Grant Committee, the CALA Awards Committee, and the CALA Board, we are very pleased to announce the recipients of the Sally C. Tseng Professional Development Grant 2022. This year, we had a very competitive pool of applications, two applications stood out and were selected to split the Grant:
 

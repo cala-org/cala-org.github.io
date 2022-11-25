@@ -3,7 +3,7 @@ layout: index
 ---
 
 <ul class="list-unstyled">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 5 %}
       <li class="d-flex row col-12">
       <h3 class="d-flex">
         <span class="col-3 fw-lighter fst-italic text-center"><i class="fa-regular fa-calendar"></i>
@@ -21,3 +21,7 @@ layout: index
       </li>
     {% endfor %}
 </ul>
+
+<div class="text-center">
+<a class="btn btn-outline-primary" href="/news-archive"><span class="h5">News Archive</span></a>
+</div>

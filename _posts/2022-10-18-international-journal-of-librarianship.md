@@ -1,7 +1,7 @@
 ---
 layout: post
 title: International Journal of Librarianship
-date: 2022-11-25T15:31:50.028Z
+date: 2022-10-18T15:31:50.028Z
 ---
 Dear Researchers and Practitioners,
 
