@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Call for Applications to CALA Midwest Chapter Professional Development Grant
-date: 2022-11-25T15:22:51.806Z
+date: 2022-11-16T15:22:51.806Z
 ---
 The Chinese American Librarian Association (CALA) Midwest Chapter Professional Development Grant is an annual award that aims to encourage and support current and future library professionals’ career development and goals. Up to three awards ($150 each) will be granted, contingent upon the committee receiving sufficient, well-qualified applications.
 
