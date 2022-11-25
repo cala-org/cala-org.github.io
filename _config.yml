@@ -32,6 +32,10 @@ facebook_username: CALA Chinese American Librarians Association
 theme: minima
 plugins:
   - jekyll-feed
+  
+# Netlify CMS
+backend:
+  name: git-gateway
 
 collections:
   about:
