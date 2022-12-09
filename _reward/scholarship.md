@@ -1,6 +1,6 @@
 ---
 title: Scholarships
 ---
-+ [Dr. Tze-chung Li's Student Membership Scholarship](/reward/scholarship/tze-chung/)
++ Dr. Tze-chung Li's Student Membership Scholarship
 + [CALA Scholarships](/reward/scholarship/cala/)
 + [Scholarship Application Form](/reward/scholarship/application/)
