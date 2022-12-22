@@ -1,4 +1,4 @@
-<div id="carouselExampleIndicators" class="carousel slide border border-5 border-half-red p-3 d-flex align-items-center shadow" data-bs-ride="false">
+<div id="carouselExampleIndicators" class="carousel slide border border-5 border-half-red p-3 d-flex align-items-center shadow" data-bs-ride="true">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
       aria-current="true" aria-label="Slide 1"></button>
@@ -21,7 +21,7 @@
           <div class="align-self-center text-center" id="carousel-description">
             <div class="text-center text-xl-left">
               <p class="text-muted fs-4 lead"><strong>{{ slide.category }}</strong></p>
-              <p class="fw-normal my-5 display-1 text-primary p-4" id="respon-title">{{ slide.title }}</p>
+              <p class="fw-normal my-5 display-1 text-primary px-5" id="respon-title">{{ slide.title }}</p>
               {% if slide.readMoreLink %}
               <a class="btn btn-primary" href="{{ slide.readMoreLink }}" role="button"> {{ slide.readMoreText | default:
                 "Content coming soon" }} </a>
