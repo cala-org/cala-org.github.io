@@ -6,7 +6,7 @@ layout: index
     {% for post in site.posts limit: 5 %}
       <li class="d-flex row col-12">
       <h3 class="d-flex">
-        <span class="col-3 fw-lighter fst-italic text-center"><i class="fa-regular fa-calendar"></i>
+        <span class="col-3 fw-light fst-italic text-center"><i class="fa-regular fa-calendar"></i>
             {{ post.date | date: "%b %d, %Y" }}
         </span>
         <div class="col mb-3">

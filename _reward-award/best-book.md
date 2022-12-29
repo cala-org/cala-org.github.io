@@ -5,7 +5,7 @@ layout: page
 ---
 This Annual Best Book Award is to promote awareness of the best books of Chinese topics or literature written by authors of Chinese descent, in English or Chinese language, that are originally published in North America.
 
-[Call for nomination]()
+[Call for nomination](/reward/award/best-book/nomination/)
 
 [Nomination Form]()
 
