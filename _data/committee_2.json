@@ -1,0 +1,788 @@
+[
+  {
+    "year": "2019-2020",
+    "start-year": 2019,
+    "title-array": ["Committees", "Task Forces", "Representatives"],
+    "content-array": [
+      [
+        {
+          "comm-name": "Assessment and Evaluation Committee",
+          "comm-chair": [
+            {
+              "name": "Xiaoyin Zhang",
+              "email": "ziaoyin.zhang@unlv.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Jia Mi",
+              "email": "jmi@tcnj.edu"
+            },
+            {
+              "name": "Hui-Fen Chang",
+              "email": "huifen.chang@okstate.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "CALA Annual Best Book AwardSubcommittee",
+          "comm-chair": [
+            {
+              "name": "Jie Huang (Co-chair)",
+              "email": "juh44@psu.edu "
+            },
+            {
+              "name": "Xiaocan Wang (Co-chair)",
+              "email": "x4wang@bridgew.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Jen Woo",
+              "email": "Jennifer.woo@sfpl.org"
+            },
+            {
+              "name": "Li Sun",
+              "email": "lisun@rutgers.edu"
+            },
+            {
+              "name": "Tiewei (Lucy) Liu",
+              "email": "twliu@utexas.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Best Research Awards",
+          "comm-description": "Jing Liao Award for the Best Research; Sheila Suen Lai Research Grant Award",
+          "comm-chair": [
+            {
+              "name": "Li Sun",
+              "email": "lisun@rutgers.edu"
+            },
+            {
+              "name": "Feng-Ru Sheu",
+              "email": "fsheu@kent.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Zao Liu",
+              "email": "zliu@email.tamu.edu"
+            },
+            {
+              "name": "Hui-Fen Chang",
+              "email": "huifen.chang@okstate.edu"
+            },
+            {
+              "name": "Wei Peng",
+              "email": "pengweilac@gmail.com"
+            }
+          ]
+        },
+        {
+          "comm-name": "Best Service Awards Subcommittee",
+          "comm-description": "CALA Distinguished Service Award; Outstanding Library Leadership Award in Memory of Dr. Margaret Chang Fung",
+          "comm-chair": [
+            {
+              "name": "Leping He",
+              "email": "leping.he@asu.edu"
+            },
+            {
+              "name": "Wei Peng",
+              "email": "pengweilac@gmail.com"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Crystal Chen",
+              "email": "crystalchen@nypl.org"
+            },
+            {
+              "name": "Qinghua Xu",
+              "email": "qinghua.xu@nyu.edu"
+            },
+            {
+              "name": "Yan He",
+              "email": "yh4@iuk.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "CALA Conference Travel Grant",
+          "comm-description": "Conference Travel Grant; Chapter President Conference Travel Grant; IFLA Grant",
+          "comm-chair": [
+            {
+              "name": "Yan He",
+              "email": "yh4@iuk.edu"
+            },
+            {
+              "name": "Ya Wang",
+              "email": "wangy@sfsu.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Feng-Ru Sheu",
+              "email": "fsheu@kent.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Scholarship Subcommittees",
+          "comm-chair": [
+            {
+              "name": "Jen Woo",
+              "email": "Jennifer.woo@sfpl.org"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Melody Leung",
+              "email": "lmelody3@gmail.com"
+            },
+            {
+              "name": "Jianying Shou",
+              "email": "jianying.shou@duke.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Conference Program Committee",
+          "comm-chair": [
+            {
+              "name": "Hong Yao",
+              "email": "hong.yao@queenslibrary.orgChair"
+            },
+            {
+              "name": "Vincci Kwong",
+              "email": "vkwong@iusb.edu"
+            },
+            {
+              "name": "Toan Lam-Sullivan",
+              "email": "toanl@multcolib.org"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Yuan Li",
+              "email": "yl7@princeton.edu"
+            },
+            {
+              "name": "Jeannie Chen",
+              "email": "jingpiano@ucla.edu"
+            },
+            {
+              "name": "Liping Song",
+              "email": "liping.song@northwestern.edu"
+            },
+            {
+              "name": "Mingyan Li",
+              "email": "mli5@uic.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Local Arrangement Committee",
+          "comm-chair": [
+            {
+              "name": "Liping Song",
+              "email": "liping.song@northwestern.edu"
+            },
+            {
+              "name": "Mingyan Li",
+              "email": "mli5@uic.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Qi Chen",
+              "email": "qchen@ccsj.edu"
+            },
+            {
+              "name": "Yijun Gao",
+              "email": "ygao@dom.edu"
+            },
+            {
+              "name": "Fu Zhuo",
+              "email": "zhuof@umkc.edu (member)"
+            }
+          ]
+        },
+        {
+          "comm-name": "Constitution and Bylaws Committee",
+          "comm-chair": [
+            {
+              "name": "Liya Deng",
+              "email": "ldeng@ewu.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Zao Liu",
+              "email": "zliu@email.tamu.edu"
+            },
+            {
+              "name": "Ya Wang",
+              "email": "wangy@sfsu.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Handbook SubCommittee",
+          "comm-chair": [
+            {
+              "name": "Liya Deng",
+              "email": "ldeng@ewu.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Zao Liu",
+              "email": "zliu@email.tamu.edu"
+            },
+            {
+              "name": "Ya Wang",
+              "email": "wangy@sfsu.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Election Committee",
+          "comm-chair": [
+            {
+              "name": "Lian Ruan",
+              "email": "lruan@illinois.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Meng Qu",
+              "email": "qum@miamioh.edu"
+            },
+            {
+              "name": "Jingshan Xiao",
+              "email": "Xiao@uhcl.edu"
+            },
+            {
+              "name": "Jingjing Wu",
+              "email": "jingjing.wu@ttu.edu"
+            },
+            {
+              "name": "Min Tong",
+              "email": "min.tong@ucf.edu"
+            },
+            {
+              "name": "Xiaoyu Duan",
+              "email": "zhizhe13@gmail.com"
+            },
+            {
+              "name": "Hong Li",
+              "email": "Li-H@mssu.edu"
+            },
+            {
+              "name": "Shuyi Liu",
+              "email": "shuyil2@illinois.edu"
+            },
+            {
+              "name": "Runxiao Zhu",
+              "email": "rzhu@oberlin.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "International Relations Committee",
+          "comm-chair": [
+            {
+              "name": "Michael Huang",
+              "email": "michael.b.huang@stonybrook.edu"
+            },
+            {
+              "name": "Jiaxun Wu",
+              "email": "jiaxun@uchicago.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Wen Nie Ng",
+              "email": "wenng@vt.edu"
+            },
+            {
+              "name": "Xiaocan Wang",
+              "email": "wanglucy91@gmail.com"
+            },
+            {
+              "name": "Qinghua Xu",
+              "email": "Qinghua.xu@nyu.edu"
+            },
+            {
+              "name": "Qi Chen",
+              "email": "qchen@ccsj.edu"
+            },
+            {
+              "name": "Liya Deng",
+              "email": "ldeng@ewu.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Membership Committee",
+          "comm-chair": [
+            {
+              "name": "Wenli Gao",
+              "email": "wgao5@central.uh.edu"
+            },
+            {
+              "name": "Ya Wang",
+              "email": "wangy@sfsu.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Jingjing Wu",
+              "email": "jingjing.wu@ttu.edu"
+            },
+            {
+              "name": "Suzhen Chen",
+              "email": "suzhen@hawaii.edu"
+            },
+            {
+              "name": "Lian Ruan",
+              "email": "lruan@illinois.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Mentorship Program Committee",
+          "comm-chair": [
+            {
+              "name": "Qi Chen",
+              "email": "qchen@ccsj.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Vincci Kwong",
+              "email": "vkwong@iusb.edu"
+            },
+            {
+              "name": "Meng Qu",
+              "email": "qum@miamioh.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "New Strategic Plan Preparing Committee",
+          "comm-chair": [
+            {
+              "name": "Lian Ruan",
+              "email": "lruan@illinois.edu"
+            },
+            {
+              "name": "Wenli Gao",
+              "email": "wgao5@uh.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Hong Yao",
+              "email": "Hong.Yao@queenslibrary.org"
+            },
+            {
+              "name": "Qi Chen",
+              "email": "qchen@ccsj.edu"
+            },
+            {
+              "name": "Ping Fu",
+              "email": "Ping.Fu@cwu.edu"
+            },
+            {
+              "name": "Jianye He",
+              "email": "jhe@library.berkeley.edu"
+            },
+            {
+              "name": "Leping He",
+              "email": "Leping.He@asu.edu"
+            },
+            {
+              "name": "Michael Huang",
+              "email": "michael.b.huang@stonybrook.edu"
+            },
+            {
+              "name": "Katherina Lee",
+              "email": "katherinalee@ntu.edu.sg"
+            },
+            {
+              "name": "Yuan Li",
+              "email": "yl7@princeton.edu"
+            },
+            {
+              "name": "Grace Liu",
+              "email": "gliu@uwindsor.ca"
+            },
+            {
+              "name": "Weiling Liu",
+              "email": "weiling4cala@gmail.com"
+            },
+            {
+              "name": "Lucy Wang",
+              "email": "X4WANG@bridgew.edu"
+            },
+            {
+              "name": "Wen Nie",
+              "email": "Ng"
+            },
+            {
+              "name": "Ray Pun",
+              "email": "raypun101@gmail.com"
+            },
+            {
+              "name": "Min Tong",
+              "email": "Min.Tong@ucf.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Nomination Committee",
+          "comm-chair": [
+            {
+              "name": "CALA President 18/19: Ying Zhang",
+              "email": "yzhang@ucf.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "NCA: Ray Pun",
+              "email": "raypun101@gmail.com"
+            },
+            {
+              "name": "SCA: Jie Tian",
+              "email": "jtian@fullerton.edu"
+            },
+            {
+              "name": "GMA: Yunshan Ye",
+              "email": "yye@jhu.edu"
+            },
+            {
+              "name": "MW: Mingyan Li",
+              "email": "mli5@uic.edu"
+            },
+            {
+              "name": "NE: Hong Yao",
+              "email": "Hong.Yao@queenslibrary.org"
+            },
+            {
+              "name": "SE: Peng Mu",
+              "email": "pmu@samford.edu"
+            },
+            {
+              "name": "SW: Xiping Liu",
+              "email": "xliu54@Central.UH.EDU"
+            },
+            {
+              "name": "Canada: Grace Liu",
+              "email": "gliu@uwindsor.ca"
+            }
+          ]
+        },
+        {
+          "comm-name": "Public Relations/Fundraising Committee",
+          "comm-chair": [
+            {
+              "name": "Katherina Lee",
+              "email": "lee_katherina@yahoo.com"
+            },
+            {
+              "name": "Weiling Liu",
+              "email": "weiling4cala@gmail.com"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Ray Pun",
+              "email": "(raypun101@gmail.com)"
+            },
+            {
+              "name": "Sai Deng",
+              "email": "saideng@gmail.com"
+            },
+            {
+              "name": "Crystal Chen",
+              "email": "crystalchen@nypl.org"
+            }
+          ]
+        },
+        {
+          "comm-name": "Publications Committee",
+          "comm-chair": [
+            {
+              "name": "Guoying Liu (Editor-in-chief)",
+              "email": "gliu@uwindsor.ca"
+            },
+            {
+              "name": "Lei Jin",
+              "email": "leijin@ryerson.ca"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Mingyan Li",
+              "email": "mli5@uic.edu"
+            },
+            {
+              "name": "Sai Deng",
+              "email": "saideng@gmail.com"
+            },
+            {
+              "name": "Meng Qu",
+              "email": "qum@miamioh.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Web Committee",
+          "comm-chair": [
+            {
+              "name": "Minhao Jiang",
+              "email": "minhao.jiang4cmte@gmail.com"
+            },
+            {
+              "name": "Jingshan Xiao",
+              "email": "xiao@uhcl.edu"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Weiling Liu",
+              "email": "weiling4cala@gmail.com"
+            },
+            {
+              "name": "Jingjing Wu",
+              "email": "jingjing.wu@ttu.edu"
+            },
+            {
+              "name": "Suzhen Chen",
+              "email": "suzhen@hawaii.edu"
+            },
+            {
+              "name": "Meng Qu",
+              "email": "qum@miamioh.edu"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "comm-name": "Patty Wong Election Coordination Task Force",
+          "comm-chair": [
+            {
+              "name": "ShuHua Liu",
+              "email": "shuhua2007@gmail.com"
+            }
+          ],
+          "comm-members": [
+            {
+              "name": "Shuqin Jiao",
+              "email": "jiaoshuqin@gmail.com"
+            },
+            {
+              "name": "Jingshan Xiao",
+              "email": "xiao@uhcl.edu"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "comm-name": "Rep to Joint Council of Librarians of Color (JCLC)",
+          "comm-members": [
+            {
+              "name": "Fu Zhuo (2019-2022)",
+              "email": "zhuof@umkc.edu"
+            },
+            {
+              "name": "Wenli Gao (2019-2022)",
+              "email": "wgao5@central.uh.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Rep to ALA Office for Diversity, Literacy and Outreach Services (ODLOS)",
+          "comm-members": [
+            {
+              "name": "Hong Yao (2019-2020)",
+              "email": "hong.yao@queenslibrary.org"
+            },
+            {
+              "name": "Lian Ruan (2016-2020)",
+              "email": "lruan@illinois.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Rep to International Federation of Library Associations and Institutions (IFLA)",
+          "comm-members": [
+            {
+              "name": "Lian Ruan (2018-2020)",
+              "email": "lruan@illinois.edu"
+            },
+            {
+              "name": "Shali Zhang (2018-2021)",
+              "email": "shali.zhang@mso.umt.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Rep to Library Society of China (LSC)",
+          "comm-members": [
+            {
+              "name": "Lian Ruan (2018-2020)",
+              "email": "lruan@illinois.edu"
+            },
+            {
+              "name": "Michael Huang (2016 -2020)",
+              "email": "michael.b.huang@stonybrook.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Rep to ALA Advocacy Coordinating",
+          "comm-members": [
+            {
+              "name": "Yiping Wang (2016-2020)",
+              "email": "yiping4cala@gmail.com"
+            }
+          ]
+        },
+        {
+          "comm-name": "Rep to Beijing Academic Library & Information System (BALIS)",
+          "comm-members": [
+            {
+              "name": "Qi Chen (2018-2020)",
+              "email": "qchen@ccsj.edu"
+            }
+          ]
+        },
+        {
+          "comm-name": "Rep to Organizing Committee of the China-U.S. Library Conference",
+          "comm-members": [
+            {
+              "name": "Ying Zhang (2018-2020)",
+              "email": "Ying.Zhang@ucf.edu"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "year": "2018-2019",
+    "start-year": 2018,
+    "title-array": ["Committees", "Representatives"],
+    "content-array": [
+      [
+        {
+          "comm-name": "Assessment and Evaluation Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Awards Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Conference Program Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Local Arrangement Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Constitution and Bylaws Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Election Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "International Relations Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Membership Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Mentorship Program Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Nomination Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Public Relations/Fundraising Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Publications Committee",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Web Committee",
+          "comm-chair": [],
+          "comm-members": []
+        }
+      ],
+      [
+        {
+          "comm-name": "Rep to JCLC",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Rep to ODLOS",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Rep to IFLA",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Rep to LSC",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Rep to ALA Advocacy Coordinating",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Rep to Beijing Academic Library & Information System (BALIS)",
+          "comm-chair": [],
+          "comm-members": []
+        },
+        {
+          "comm-name": "Rep to Organizing Committee of the China-U.S. Library Conference",
+          "comm-chair": [],
+          "comm-members": []
+        }
+      ]
+    ]
+  }
+]

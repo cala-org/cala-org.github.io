@@ -1,6 +1,7 @@
 [
   {
     "year": "2022-2023",
+    "start-year": 2022,
     "title-array": [
       "Executive Committee",
       "At-Large Board of Directors (2020-2023)",
@@ -156,6 +157,4044 @@
             "name": "Qing Zou",
             "email": "qzou@lakeheadu.ca",
             "title": "Canada"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2021-2022",
+    "start-year": 2021,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2019-2022)",
+      "At-Large Board of Directors (2020-2023)",
+      "At-Large Board of Directors (2021-2024)",
+      "Chapter Presidents (2021-2022)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Wenli Gao",
+            "email": "wgao5@uh.edu",
+            "title": "President, 2021-2022"
+          },
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "Executive Director, 2019-2022"
+          },
+          {
+            "name": "Ray Pun",
+            "email": "raypun101@gmail.com",
+            "title": "Vice-President/President-Elect, 2022-2023"
+          },
+          {
+            "name": "Suzhen Chen",
+            "email": "suzhen@hawaii.edu",
+            "title": "Treasurer, 2020-2022"
+          },
+          {
+            "name": "Hong Yao",
+            "email": "Hong.Yao@queenslibrary.org",
+            "title": "Immediate Past President, 2020-2021"
+          },
+          {
+            "name": "Vincci Kwong",
+            "email": "vkwong@iusb.edu",
+            "title": "Incoming Vice-President/President-Elect, 2023-2024"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Ying Liao",
+            "email": "yingliaocala@gmail.com"
+          },
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "miaohong818@gmail.com"
+          },
+          {
+            "name": "Vincci Kwong",
+            "email": "vkwong@iusb.edu"
+          },
+          {
+            "name": "Xiaocan Wang",
+            "email": "x4wang@bridgew.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Leping He",
+            "email": "leping.he@asu.edu"
+          },
+          {
+            "name": "Yan He",
+            "email": "yh4@iuk.edu"
+          },
+          {
+            "name": "Amy Jiang",
+            "email": "ajiang@laverne.edu"
+          },
+          {
+            "name": "Mingyan Li",
+            "email": "mli5@uic.edu"
+          },
+          {
+            "name": "Le Yang",
+            "email": "yanglegd@gmail.com"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Ying Zhang",
+            "email": "Ying.Zhang@ucf.edu"
+          },
+          {
+            "name": "Michael Huang",
+            "email": "michael.b.huang@stonybrook.edu"
+          },
+          {
+            "name": "Katherine Lee",
+            "email": "lee_katherina@yahoo.com"
+          },
+          {
+            "name": "Lei Jin",
+            "email": "leijin@ryerson.ca"
+          },
+          {
+            "name": "Xiaoyu Duan",
+            "email": "zhizhe13@gmail.com"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Yi Liang",
+            "email": "yliang@ccsf.edu",
+            "title": "NCA"
+          },
+          {
+            "name": "Joy Wang",
+            "email": "jwang@soka.edu",
+            "title": "SCA"
+          },
+          {
+            "name": "Andrew Lee",
+            "email": "yli7@gmu.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Anlin Yang",
+            "email": "anlin.yang@wisc.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Alvina Yang",
+            "email": "alai5@pratt.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Xiying Mi",
+            "email": "xmi@usf.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Hui-Fen Chang",
+            "email": "huifen.chang@okstate.edu",
+            "title": "SW"
+          },
+          {
+            "name": "Haiyun Cao",
+            "email": "hcao@yorku.ca",
+            "title": "Canada"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2020-2021",
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2018-2021)",
+      "At-Large Board of Directors (2019-2022)",
+      "At-Large Board of Directors (2020-2023)",
+      "Chapter Presidents (2020-2021)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Hong Yao",
+            "email": "Hong.Yao@queenslibrary.org",
+            "title": "President, 2020-2021"
+          },
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "Executive Director, 2019-2022"
+          },
+          {
+            "name": "Wenli Gao",
+            "email": "wgao5@central.uh.edu",
+            "title": "Vice-President/President-Elect, 2021-2022"
+          },
+          {
+            "name": "Suzhen Chen",
+            "email": "suzhen@hawaii.edu",
+            "title": "Treasurer, 2020-2022"
+          },
+          {
+            "name": "Fu Zhuo",
+            "email": "zhuof@umkc.edu",
+            "title": "Immediate Past President, 2019-2020"
+          },
+          {
+            "name": "Ray Pun",
+            "email": "raypun101@gmail.com",
+            "title": "Incoming Vice-President/President-Elect, 2022-2023"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Qi Chen",
+            "email": "qchen@ccsj.edu"
+          },
+          {
+            "name": "Michael Huang",
+            "email": "michael.b.huang@stonybrook.edu"
+          },
+          {
+            "name": "Yuan Li",
+            "email": "YL7@princeton.edu"
+          },
+          {
+            "name": "Guoying(Grace) Liu",
+            "email": "gliu@uwindsor.ca"
+          },
+          {
+            "name": "Minhao Jiang",
+            "email": "minhao.jiang@wayne.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Ying Liao",
+            "email": "yingliaocala@gmail.com"
+          },
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "miaohong818@gmail.com"
+          },
+          {
+            "name": "Vincci Kwong",
+            "email": "vkwong@iusb.edu"
+          },
+          {
+            "name": "Xiaocan Wang",
+            "email": "x4wang@bridgew.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Leping He",
+            "email": "leping.he@asu.edu"
+          },
+          {
+            "name": "Yan He",
+            "email": "yh4@iuk.edu"
+          },
+          {
+            "name": "Amy Jiang",
+            "email": "ajiang@laverne.edu"
+          },
+          {
+            "name": "Mingyan Li",
+            "email": "mli5@uic.edu"
+          },
+          {
+            "name": "Le Yang",
+            "email": "yanglegd@gmail.com"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Renee Bu",
+            "email": "rbu@aclibrary.org",
+            "title": "NCA"
+          },
+          {
+            "name": "Wen Wen Zhang",
+            "email": "wwzhang@library.lacounty.gove",
+            "title": "SCA"
+          },
+          {
+            "name": "Andrew Lee",
+            "email": "yli7@gmu.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Liangyu Fu",
+            "email": "liangyuf@umich.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Jennie Pu",
+            "email": "jpu@hccc.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Jianying Shou",
+            "email": "jianyingshou@gmail.com",
+            "title": "SE"
+          },
+          {
+            "name": "Anna Xiong",
+            "email": "axiong@rice.edu",
+            "title": "SW"
+          },
+          {
+            "name": "Lei Jin",
+            "email": "leijin@ryerson.ca",
+            "title": "Canada"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2019-2020",
+    "start-year": 2019,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2017-2020)",
+      "At-Large Board of Directors (2018-2021)",
+      "At-Large Board of Directors (2019-2022)",
+      "Chapter Presidents (2019-2020)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Fu Zhuo",
+            "email": "zhuof@umkc.edu",
+            "title": "President, 2019-2020"
+          },
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "Executive Director, 2019-2022"
+          },
+          {
+            "name": "Hong Yao",
+            "email": "Hong.Yao@queenslibrary.org",
+            "title": "Vice-President/President-Elect, 2020-2021"
+          },
+          {
+            "name": "Ying Liao",
+            "email": "cairo_liao@hotmail.com",
+            "title": "Treasurer, 2018-2020"
+          },
+          {
+            "name": "Ying Zhang",
+            "email": "Ying.Zhang@ucf.edu",
+            "title": "Immediate Past President, 2018-2019"
+          },
+          {
+            "name": "Wenli Gao",
+            "email": "wgao5@central.uh.edu",
+            "title": "Incoming Vice-President/President-Elect, 2021-2022"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Leping He",
+            "email": "leping.he@asu.edu"
+          },
+          {
+            "name": "Weiling Liu",
+            "email": "weiling4cala@gmail.com"
+          },
+          {
+            "name": "Ping Fu",
+            "email": "ping.fu@cwu.edu"
+          },
+          {
+            "name": "Ray Pun",
+            "email": "raypun101@gmail.com"
+          },
+          {
+            "name": "Min Tong",
+            "email": "min.tong@ucf.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Qi Chen",
+            "email": "qchen@ccsj.edu"
+          },
+          {
+            "name": "Michael Huang",
+            "email": "michael.b.huang@stonybrook.edu"
+          },
+          {
+            "name": "Yuan Li",
+            "email": "YL7@princeton.edu"
+          },
+          {
+            "name": "Guoying(Grace) Liu",
+            "email": "gliu@uwindsor.ca"
+          },
+          {
+            "name": "Minhao Jiang",
+            "email": "minhao.jiang@wayne.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Suzhen Chen",
+            "email": "suzhen@hawaii.edu"
+          },
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "miaohong818@gmail.com"
+          },
+          {
+            "name": "Vincci Kwong",
+            "email": "vkwong@iusb.edu"
+          },
+          {
+            "name": "Xiaocan Wang",
+            "email": "Wang-X@mssu.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Ray Pun",
+            "email": "raypun101@gmail.com",
+            "title": "NCA"
+          },
+          {
+            "name": "Kuei Chiu",
+            "email": "kuei.chiu@ucr.edu",
+            "title": "SCA"
+          },
+          {
+            "name": "Andrew Yanqing Lee",
+            "email": "yli7@gmu.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Minhao Jiang",
+            "email": "minhao.jiang@wayne.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Yuan Li",
+            "email": "YL7@princeton.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Jie He",
+            "email": "jiahe@southalabama.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Jingshan Xiao",
+            "email": "xiao@uhcl.edu",
+            "title": "SW"
+          },
+          {
+            "name": "Guoying(Grace) Liu",
+            "email": "gliu@uwindsor.ca",
+            "title": "Canada"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2018-2019",
+    "start-year": 2018,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2016-2019)",
+      "At-Large Board of Directors (2017-2020)",
+      "At-Large Board of Directors (2018-2021)",
+      "Chapter Presidents (2018-2019)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Ying Zhang",
+            "email": "ying.zhang@ucf.edu",
+            "title": "President, 2018-2019"
+          },
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "Executive Director, 2016-2019"
+          },
+          {
+            "name": "Fu Zhuo",
+            "email": "zhuof@umkc.edu",
+            "title": "Vice-President/President-Elect, 2019-2020"
+          },
+          {
+            "name": "Ying Liao",
+            "email": "cairo_liao@hotmail.com",
+            "title": "Treasurer, 2018-2020"
+          },
+          {
+            "name": "Le Yang",
+            "email": "yanglegd@gmail.com",
+            "title": "Immediate Past President, 2017-2018"
+          },
+          {
+            "name": "Hong Yao",
+            "email": "Hong.Yao@queenslibrary.org",
+            "title": "Incoming Vice-President/President-Elect, 2020-2021"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Xiaojie Duan",
+            "email": "xiaojie.duan@usm.edu"
+          },
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu"
+          },
+          {
+            "name": "Yongyi Song",
+            "email": "ysong2@exchange.calstatela.edu"
+          },
+          {
+            "name": "Hong Wu",
+            "email": "hwu@reynolds.edu"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "miaohong818@gmail.com"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Leping He",
+            "email": "leping.he@asu.edu"
+          },
+          {
+            "name": "Weiling Liu",
+            "email": "weiling4cala@gmail.com"
+          },
+          {
+            "name": "Ping Fu",
+            "email": "ping.fu@cwu.edu"
+          },
+          {
+            "name": "Ray Pun",
+            "email": "raypun101@gmail.com"
+          },
+          {
+            "name": "Min Tong",
+            "email": "min.tong@ucf.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Qi Chen",
+            "email": "qchen@ccsj.edu"
+          },
+          {
+            "name": "Michael Huang",
+            "email": "michael.b.huang@stonybrook.edu"
+          },
+          {
+            "name": "Yuan Li",
+            "email": "YL7@princeton.edu"
+          },
+          {
+            "name": "Guoying(Grace) Liu",
+            "email": "gliu@uwindsor.ca"
+          },
+          {
+            "name": "Minhao Jiang",
+            "email": "minhao.jiang@wayne.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Ray Pun",
+            "email": "raypun101@gmail.com",
+            "title": "NCA"
+          },
+          {
+            "name": "Jie Tian",
+            "email": "jtian@exchange.fullerton.edu",
+            "title": "SCA"
+          },
+          {
+            "name": "YunShan Ye",
+            "email": "yye@jhu.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Mingyan Li",
+            "email": "mli5@uic.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Hong Yao",
+            "email": "Hong.Yao@queenslibrary.org",
+            "title": "NE"
+          },
+          {
+            "name": "Peng Mu",
+            "email": "pmu@samford.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Xiping Liu",
+            "email": "xliu47@uh.edu",
+            "title": "SW"
+          },
+          {
+            "name": "Guoying(Grace) Liu",
+            "email": "gliu@uwindsor.ca",
+            "title": "Canada"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2017-2018",
+    "start-year": 2017,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2015-2018)",
+      "At-Large Board of Directors (2016-2019)",
+      "At-Large Board of Directors (2017-2020)",
+      "Chapter Presidents (2017-2018)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Le Yang",
+            "email": "yanglegd@gmail.com",
+            "title": "President, 2017-2018"
+          },
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "Executive Director, 2016-2019"
+          },
+          {
+            "name": "Ying Zhang",
+            "email": "ying.zhang@ucf.edu",
+            "title": "Vice-President/President-Elect, 2018-2019"
+          },
+          {
+            "name": "Ying Liao",
+            "email": "cairo_liao@hotmail.com",
+            "title": "Treasurer, 2016-2018"
+          },
+          {
+            "name": "Qi Chen",
+            "email": "qchen@ccsj.edu",
+            "title": "Immediate Past President, 2016-2017"
+          },
+          {
+            "name": "Fu Zhuo",
+            "email": "zhuof@umkc.edu",
+            "title": "Incoming Vice-President/President-Elect, 2019-2020"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Heather Cai",
+            "email": "heather.cai@gmail.com"
+          },
+          {
+            "name": "Zheng Jessica Lu",
+            "email": "zjlu@usfca.edu"
+          },
+          {
+            "name": "Yingqi Tang",
+            "email": "tang@jsu.edu"
+          },
+          {
+            "name": "Haiwang Yuan",
+            "email": "haiwang.yuan@wku.edu"
+          },
+          {
+            "name": "Andrew Lee",
+            "email": "yli7@gmu.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Xiaojie Duan",
+            "email": "xiaojie.duan@usm.edu"
+          },
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu"
+          },
+          {
+            "name": "Yongyi Song",
+            "email": "ysong2@exchange.calstatela.edu"
+          },
+          {
+            "name": "Hong Wu",
+            "email": "hwu@reynolds.edu"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "miaohong818@gmail.com"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Leping He",
+            "email": "leping.he@asu.edu"
+          },
+          {
+            "name": "Weiling Liu",
+            "email": "weiling4cala@gmail.com"
+          },
+          {
+            "name": "Ping Fu",
+            "email": "ping.fu@cwu.edu"
+          },
+          {
+            "name": "Ray Pun",
+            "email": "raypun101@gmail.com"
+          },
+          {
+            "name": "Hong Yao",
+            "email": "Hong.Yao@queenslibrary.org"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Terry Barbara Carlson",
+            "email": "terry.carlson@sfpl.org",
+            "title": "NCA"
+          },
+          {
+            "name": "Icy Smith",
+            "email": "icy@eastwestdiscovery.com",
+            "title": "SCA"
+          },
+          {
+            "name": "Yan He",
+            "email": "hey@gwu.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Yan He",
+            "email": "yh4@iuk.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Clara Tran",
+            "email": "yuet.tran@stonybrook.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Yue Li",
+            "email": "yli3@fsu.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Wenli Gao",
+            "email": "wgao5@central.uh.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2016-2017",
+    "start-year": 2016,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2014-2017)",
+      "At-Large Board of Directors (2015-2018)",
+      "At-Large Board of Directors (2016-2019)",
+      "Chapter Presidents (2016-2017)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Qi Chen",
+            "email": "qchen@ccsj.edu",
+            "title": "President, 2016-2017"
+          },
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "Executive Director, 2016-2019"
+          },
+          {
+            "name": "Le Yang",
+            "email": "le.yang@ttu.edu",
+            "title": "Vice-President/President-Elect, 2017-2018"
+          },
+          {
+            "name": "Ying Liao",
+            "email": "cairo_liao@hotmail.com",
+            "title": "Treasurer, 2016-2018"
+          },
+          {
+            "name": "Ying Zhang",
+            "email": "ying.zhang@ucf.edu",
+            "title": "Incoming Vice-President/President-Elect, 2018-2019"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Leping He",
+            "email": "leping.he@asu.edu"
+          },
+          {
+            "name": "Weiling Liu",
+            "email": "weiling4cala@gmail.com"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu"
+          },
+          {
+            "name": "Min Tong",
+            "email": "min.tong@ucf.edu"
+          },
+          {
+            "name": "Chengzhi Wang",
+            "email": "cw2165@columbia.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Heather Cai",
+            "email": "heather.cai@gmail.com"
+          },
+          {
+            "name": "Zheng Jessica Lu",
+            "email": "zjlu@usfca.edu"
+          },
+          {
+            "name": "Yingqi Tang",
+            "email": "tang@jsu.edu"
+          },
+          {
+            "name": "Haiwang Yuan",
+            "email": "haiwang.yuan@wku.edu"
+          },
+          {
+            "name": "Andrew Lee",
+            "email": "yli7@gmu.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Xiaojie Duan",
+            "email": "xiaojie.duan@usm.edu"
+          },
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu"
+          },
+          {
+            "name": "Yongyi Song",
+            "email": "ysong2@exchange.calstatela.edu"
+          },
+          {
+            "name": "Hong Wu",
+            "email": "hwu@reynolds.edu"
+          },
+          {
+            "name": "Fu Zhuo",
+            "email": "zhuof@umkc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Hualing Wan",
+            "email": "hualing.wan@yolocounty.org",
+            "title": "NCA"
+          },
+          {
+            "name": "Ying Liu",
+            "email": "yliu@calstate.edu",
+            "title": "SCA"
+          },
+          {
+            "name": "Raymond Wang",
+            "email": "rwang@ccbcmd.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Vincci Kwong",
+            "email": "vkwong@iusb.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Yongming Wang",
+            "email": "wangyo@tcnj.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Sai Deng",
+            "email": "saideng@gmail.com",
+            "title": "SE"
+          },
+          {
+            "name": "Hong Cui",
+            "email": "hong1.cui@gmail.com",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2015-2016",
+    "start-year": 2015,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2013-2016)",
+      "At-Large Board of Directors (2014-2017)",
+      "At-Large Board of Directors (2015-2018)",
+      "Chapter Presidents (2015-2016)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "President, 2015-2016"
+          },
+          {
+            "name": "Li Fu",
+            "email": "ailifaha@gmail.com",
+            "title": "Executive Director, 2013-2016"
+          },
+          {
+            "name": "Qi Chen",
+            "email": "qi23@msn.com",
+            "title": "Vice-President/President-Elect, 2016-2017"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "miaohong818@gmail.com",
+            "title": "Treasurer, 2014-2016"
+          },
+          {
+            "name": "Le Yang",
+            "email": "le.yang@ttu.edu",
+            "title": "Incoming Vice-President/President-Elect, 2018-2019"
+          },
+          {
+            "name": "Carol Kachuen Gee",
+            "email": "KACHUEN.GEE@lehman.cuny.edu",
+            "title": "Immediate Past President, 2014-2015"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu"
+          },
+          {
+            "name": "Sai Deng",
+            "email": "saideng@gmail.com"
+          },
+          {
+            "name": "Yongyi Song",
+            "email": "ysong2@exchange.calstatela.edu"
+          },
+          {
+            "name": "Maggie Wang",
+            "email": "wang_maggie@hotmail.com"
+          },
+          {
+            "name": "Shali Zhang",
+            "email": "shali.zhang@mso.umt.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Leping He",
+            "email": "leping.he@asu.edu"
+          },
+          {
+            "name": "Weiling Liu",
+            "email": "weiling4cala@gmail.com"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu"
+          },
+          {
+            "name": "Min Tong",
+            "email": "min.tong@ucf.edu"
+          },
+          {
+            "name": "Chengzhi Wang",
+            "email": "cw2165@columbia.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Heather Cai",
+            "email": "heather.cai@gmail.com"
+          },
+          {
+            "name": "Zheng Jessica Lu",
+            "email": "zjlu@usfca.edu"
+          },
+          {
+            "name": "Yingqi Tang",
+            "email": "tang@jsu.edu"
+          },
+          {
+            "name": "Haiwang Yuan",
+            "email": "haiwang.yuan@wku.edu"
+          },
+          {
+            "name": "Ying Zhang",
+            "email": "Ying.Zhang@ucf.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Yiping Wang",
+            "email": "yiping4cala@gmail.com",
+            "title": "NCA"
+          },
+          {
+            "name": "Kathy Jung",
+            "email": "Kathy.jung@sdcounty.ca.gov",
+            "title": "SCA"
+          },
+          {
+            "name": "Hong Wu",
+            "email": "hwu@reynolds.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Fu Zhuo",
+            "email": "zhuof@umkc.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Jia Mi",
+            "email": "jmi@tcnj.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Xiaojie Duan",
+            "email": "xiaojie.duan@usm.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Xiaoyu Duan",
+            "email": "xduan@ou.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2014-2015",
+    "start-year": 2014,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2012-2015)",
+      "At-Large Board of Directors (2013-2016)",
+      "At-Large Board of Directors (2014-2017)",
+      "Chapter Presidents (2014-2015)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Carol Kachuen Gee",
+            "email": "KACHUEN.GEE@lehman.cuny.edu",
+            "title": "President"
+          },
+          {
+            "name": "Li Fu",
+            "email": "ailifaha@gmail.com",
+            "title": "Executive Director"
+          },
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "Vice-President/President-Elect"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "miaohong818@gmail.com",
+            "title": "Treasurer"
+          },
+          {
+            "name": "Qi Chen",
+            "email": "qi23@msn.com",
+            "title": "Incoming Vice-President/President-Elect"
+          },
+          {
+            "name": "Lisa Zhao",
+            "email": "zhzhls200@gmail.com",
+            "title": "Immediate Past President"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          },
+          {
+            "name": "Bonnie Fong",
+            "email": "librarianbonniefeng@gmail.com"
+          },
+          {
+            "name": "Wen-Ling Liu",
+            "email": "wliu@indiana.edu"
+          },
+          {
+            "name": "Songqian Lu",
+            "email": "songqian4cala2@gmail.com"
+          },
+          {
+            "name": "Denise Kwan",
+            "email": "dkwan@chipublib.org"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu"
+          },
+          {
+            "name": "Sai Deng",
+            "email": "saideng@gmail.com"
+          },
+          {
+            "name": "Yongyi Song",
+            "email": "ysong2@exchange.calstatela.edu"
+          },
+          {
+            "name": "Maggie Wang",
+            "email": "wang_maggie@hotmail.com"
+          },
+          {
+            "name": "Shali Zhang",
+            "email": "shali.zhang@mso.umt.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Leping He",
+            "email": "leping.he@asu.edu"
+          },
+          {
+            "name": "Weiling Liu",
+            "email": "weiling4cala@gmail.com"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu"
+          },
+          {
+            "name": "Min Tong",
+            "email": "min.tong@ucf.edu"
+          },
+          {
+            "name": "Changzhi Wang",
+            "email": "cw2165@columbia.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Richard Le",
+            "email": "Richard.le@sfpl.org",
+            "title": "NCA"
+          },
+          {
+            "name": "Ying Xu",
+            "email": "yxu1@exchange.calstatela.edu",
+            "title": "SCA"
+          },
+          {
+            "name": "Andrew Lee",
+            "email": "yli7@gmu.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Sharon(Chengren) Hu",
+            "email": "chu@csu.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Michael Bailou Huang",
+            "email": "michael.b.huang@stonybrook.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Yingqi Tang",
+            "email": "tang@jsu.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Le Yang",
+            "email": "le.yang@ttu.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2013-2014",
+    "start-year": 2013,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2011-2014)",
+      "At-Large Board of Directors (2012-2015)",
+      "At-Large Board of Directors (2013-2016)",
+      "Chapter Presidents (2013-2014)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Lisa Zhao",
+            "email": "zhzhls200@gmail.com",
+            "title": "President"
+          },
+          {
+            "name": "Li Fu",
+            "email": "ailifaha@gmail.com",
+            "title": "Executive Director"
+          },
+          {
+            "name": "Carol Kachuen Gee",
+            "email": "KACHUEN.GEE@lehman.cuny.edu",
+            "title": "Vice-President/President-Elect"
+          },
+          {
+            "name": "Maria Fung",
+            "email": "maria4cala@gmail.com",
+            "title": "Treasurer"
+          },
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "Incoming Vice-President/President-Elect"
+          },
+          {
+            "name": "Esther Lee",
+            "email": "elee4cala88@yahoo.com",
+            "title": "Immediate Past President"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Jie Huang",
+            "email": "yuhuang0910@gmail.com"
+          },
+          {
+            "name": "Shuyong Jiang",
+            "email": "shyjiang@illinois.edu"
+          },
+          {
+            "name": "Dajin Sun",
+            "email": "dajin.sun@yale.edu"
+          },
+          {
+            "name": "Joy Wang",
+            "email": "JWang@soka.edu"
+          },
+          {
+            "name": "Frank Xu",
+            "email": "f.xu@brooklynpubliclibrary.org"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Qi Chen",
+            "email": "qchen@argosy.edu"
+          },
+          {
+            "name": "Bonnie Fong",
+            "email": "librarianbonniefeng@gmail.com"
+          },
+          {
+            "name": "Wen-Ling Liu",
+            "email": "wliu@indiana.edu"
+          },
+          {
+            "name": "Songqian Lu",
+            "email": "songqian4cala2@gmail.com"
+          },
+          {
+            "name": "Denise Kwan",
+            "email": "dkwan@chipublib.org"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu"
+          },
+          {
+            "name": "Sai Deng",
+            "email": "saideng@gmail.com"
+          },
+          {
+            "name": "Yongyi Song",
+            "email": "ysong2@exchange.calstatela.edu"
+          },
+          {
+            "name": "Maggie Wang",
+            "email": "wang_maggie@hotmail.com"
+          },
+          {
+            "name": "Shali Zhang",
+            "email": "shali.zhang@mso.umt.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Jessica (Zheng) Lu",
+            "email": "zjlu@usfca.edu",
+            "title": "NCA"
+          },
+          {
+            "name": "Manuel Urrizola",
+            "email": "manuel.urrizola@ucr.edu",
+            "title": "SCA"
+          },
+          {
+            "name": "Jinxiu Guo",
+            "email": "jinx.guo@gmail.com",
+            "title": "GMA"
+          },
+          {
+            "name": "Yi Han",
+            "email": "yhan27@iit.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Minglu Wang",
+            "email": "mingluwang@gmail.com",
+            "title": "NE"
+          },
+          {
+            "name": "Ying Zhang",
+            "email": "ying.zhang@ucf.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Leping He",
+            "email": "Leping.He@asu.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2012-2013",
+    "start-year": 2012,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2010-2013)",
+      "At-Large Board of Directors (2011-2014)",
+      "At-Large Board of Directors (2012-2015)",
+      "Chapter Presidents (2012-2013)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Esther Lee",
+            "email": "elee4cala88@yahoo.com",
+            "title": "President, 2012-2013"
+          },
+          {
+            "name": "Haipeng Li",
+            "email": "haipeng4cala@gmail.com",
+            "title": "Executive Director, 2010-2013"
+          },
+          {
+            "name": "Lisa Zhao",
+            "email": "zhzhls200@gmail.com",
+            "title": "Vice-President/President-Elect, 2012-2013"
+          },
+          {
+            "name": "Maria Fung",
+            "email": "maria4cala@gmail.com",
+            "title": "Treasurer, 2012-2014"
+          },
+          {
+            "name": "Carol Kachuen Gee",
+            "email": "KACHUEN.GEE@lehman.cuny.edu",
+            "title": "Incoming Vice-President/President-Elect, 2012-2013"
+          },
+          {
+            "name": "Min Chou",
+            "email": "minchou.njcu@gmail.com",
+            "title": "Immediate Past President, 2011-2012"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Guoqing Li",
+            "email": "li272osu@gmail.com"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "Mengxiong.Liu@sjsu.edu"
+          },
+          {
+            "name": "Denise Kwan",
+            "email": "dkwan@chipublib.org"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          },
+          {
+            "name": "Cecilia Poon",
+            "email": "hummingbird98227@yahoo.com"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Jie Huang",
+            "email": "lilyh@ou.edu"
+          },
+          {
+            "name": "Shuyong Jiang",
+            "email": "shyjiang@illinois.edu"
+          },
+          {
+            "name": "Dajin Sun",
+            "email": "dajin.sun@yale.edu"
+          },
+          {
+            "name": "Joy Wang",
+            "email": "JWang@soka.edu"
+          },
+          {
+            "name": "Frank Xu",
+            "email": "f.xu@brooklynpubliclibrary.org"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Qi Chen",
+            "email": "qchen@argosy.edu"
+          },
+          {
+            "name": "Li Fu",
+            "email": "lif@sandiego.edu"
+          },
+          {
+            "name": "Bonnie Fong",
+            "email": "librarianbonniefeng@gmail.com"
+          },
+          {
+            "name": "Wen-Ling Liu",
+            "email": "wliu@indiana.edu"
+          },
+          {
+            "name": "Songqian Lu",
+            "email": "songqian4cala2@gmail.com"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Shu-Hua Liu",
+            "email": "shuhualiu2000@yahoo.com",
+            "title": "NCA"
+          },
+          {
+            "name": "Win Yuan Shih",
+            "email": "winyuans@usc.edu",
+            "title": "SCA"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "hongm@maryu.marywood.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Lian Ruan",
+            "email": "lruan@illinois.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Charlene Chou",
+            "email": "cc179@columbia.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Luo Zhou",
+            "email": "luo.zhou@duke.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Hui-Fen Chang",
+            "email": "huifen.chang@okstate.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2011-2012",
+    "start-year": 2011,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2008-2011)",
+      "At-Large Board of Directors (2009-2012)",
+      "At-Large Board of Directors (2010-2013)",
+      "Chapter Presidents (2010-2011)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Min Chou",
+            "email": "minchou.njcu@gmail.com",
+            "title": "President, 2011-2012"
+          },
+          {
+            "name": "Haipeng Li",
+            "email": "haipeng4cala@gmail.com",
+            "title": "Executive Director, 2010-2013"
+          },
+          {
+            "name": "Esther Lee",
+            "email": "eylee888@gmail.com",
+            "title": "Vice-President/President-Elect, 2012-2013"
+          },
+          {
+            "name": "Songqian Lu",
+            "email": "songqian4cala2@gmail.com",
+            "title": "Treasurer, 2010-2012"
+          },
+          {
+            "name": "Lisa Zhao",
+            "email": "zhzhls200@gmail.com",
+            "title": "Incoming Vice-President/President-Elect, 2011-2012"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu",
+            "title": "Immediate Past President, 2011-2012"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Maria Fung",
+            "email": "m.fung@BrooklynPublicLibrary.org"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "hongm@maryu.marywood.edu"
+          },
+          {
+            "name": "Min Tong",
+            "email": "Min.Tong@ucf.edu"
+          },
+          {
+            "name": "Manuel Urrizola",
+            "email": "manuel.urrizola@ucr.edu"
+          },
+          {
+            "name": "Karen Wei",
+            "email": "kwei@illinois.edu"
+          },
+          {
+            "name": "Lisa Zhao",
+            "email": "zhzhls200@gmail.com"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Herfhoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Quoqing Li",
+            "email": "li272osu@gmail.com"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "Mengxiong.Liu@sjsu.edu"
+          },
+          {
+            "name": "Bin Zhang",
+            "email": "bzhang@csus.edu"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Jie Huang",
+            "email": "lilyh@ou.edu"
+          },
+          {
+            "name": "Shuyong Jiang",
+            "email": "shyjiang@illinois.edu"
+          },
+          {
+            "name": "Joy Wang",
+            "email": "JWang@soka.edu"
+          },
+          {
+            "name": "Dajin Sun",
+            "email": "dajin.sun@yale.edu"
+          },
+          {
+            "name": "Frank Xu",
+            "email": "f.xu@brooklynpubliclibrary.org"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Xiaoli Li",
+            "email": "xlli@lib.ucdavis.edu",
+            "title": "NCA"
+          },
+          {
+            "name": "Xiwen Zhang",
+            "email": "xzhang@csusb.edu",
+            "title": "SCA"
+          },
+          {
+            "name": "Ding Ye",
+            "email": "dy33@georgetown.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Wei Bender",
+            "email": "benderwei9@gmail.com",
+            "title": "MW"
+          },
+          {
+            "name": "Judy Xiao",
+            "email": "judy.xiao@csi.cuny.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Li Zhang",
+            "email": "LZhang@library.msstate.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Guopeng Zhang",
+            "email": "gzhang@westwood.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2010-2011",
+    "start-year": 2010,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2008-2011)",
+      "At-Large Board of Directors (2009-2012)",
+      "At-Large Board of Directors (2010-2013)",
+      "Chapter Presidents (2010-2011)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu",
+            "title": "President, 2010-2011"
+          },
+          {
+            "name": "Haipeng Li",
+            "email": "haipeng4cala@gmail.com",
+            "title": "Executive Director, 2010-2013"
+          },
+          {
+            "name": "Min Chou",
+            "email": "minchou.njcu@gmail.com",
+            "title": "Vice-President/President-Elect, 2010-2011"
+          },
+          {
+            "name": "Esther Lee",
+            "email": "eylee888@gmail.com",
+            "title": "2nd Vice-President/President-Elect, 2010-2011"
+          },
+          {
+            "name": "Songqian Lu",
+            "email": "songqian4cala2@gmail.com",
+            "title": "Treasurer, 2010-2012"
+          },
+          {
+            "name": "Lisa Zhao",
+            "email": "zhzhls200@gmail.com",
+            "title": "Incoming Vice-President/President-Elect, 2011-2012"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Hong Xu",
+            "email": "hgxu@pitt.edu"
+          },
+          {
+            "name": "Haiwang Yuan",
+            "email": "haiwang.yuan@wku.edu"
+          },
+          {
+            "name": "Vincci Kwong",
+            "email": "vkwong@iusb.edu"
+          },
+          {
+            "name": "Jen-chien Yu",
+            "email": "jenchienyu@yahoo.com"
+          },
+          {
+            "name": "Dajin Sun",
+            "email": "dajin.sun@yale.edu"
+          },
+          {
+            "name": "Yi Liang",
+            "email": "yliang@ccsf.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Maria Fung",
+            "email": "m.fung@BrooklynPublicLibrary.org"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "hongm@maryu.marywood.edu"
+          },
+          {
+            "name": "Manuel Urrizola",
+            "email": "manuel.urrizola@ucr.edu"
+          },
+          {
+            "name": "Karen Wei",
+            "email": "kwei@illinois.edu"
+          },
+          {
+            "name": "Lisa Zhao",
+            "email": "zhls50@yahoo.com"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Herfhoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Quoqing Li",
+            "email": "li272osu@gmail.com"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "Mengxiong.Liu@sjsu.edu"
+          },
+          {
+            "name": "Bin Zhang",
+            "email": "bzhang@csus.edu"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Jianye He",
+            "email": "jhe@library.berkeley.edu",
+            "title": "NCA"
+          },
+          {
+            "name": "Joy Wang",
+            "email": "jwang@soka.edu",
+            "title": "SCA"
+          },
+          {
+            "name": "Ming-sun Poon",
+            "email": "mpoo@loc.gov",
+            "title": "GMA"
+          },
+          {
+            "name": "Ning Zou",
+            "email": "zou.ningzou@gmail.com",
+            "title": "MW"
+          },
+          {
+            "name": "Lina Ding",
+            "email": "l.ding@brooklynpubliclibrary.org",
+            "title": "NE"
+          },
+          {
+            "name": "Min Tong",
+            "email": "mtong@mail.ucf.edu",
+            "title": "SE"
+          },
+          {
+            "name": "Irene Ke",
+            "email": "ijke@uh.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2009-2010",
+    "start-year": 2009,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2007-2010)",
+      "At-Large Board of Directors (2008-2011)",
+      "At-Large Board of Directors (2009-2012)",
+      "Chapter Presidents (2009-2010)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Xudong Jin",
+            "email": "xdjin@owu.edu",
+            "title": "President, 2009-2010"
+          },
+          {
+            "name": "Haipeng Li",
+            "email": "haipeng4cala@gmail.com",
+            "title": "Executive Director, 2009-2010"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu",
+            "title": "Vice-President/President-Elect, 2009-2010"
+          },
+          {
+            "name": "Shuyong Jiang",
+            "email": "shyjiang@uiuc.edu",
+            "title": "Treasurer, 2008-2010"
+          },
+          {
+            "name": "Min Chou",
+            "email": "minchou.njcu@gmail.com",
+            "title": "Incoming Vice-President/President-Elect, 2009-2010"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Min Chou",
+            "email": "minchou.njcu@gmail.com"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu"
+          },
+          {
+            "name": "Jiun Kuo",
+            "email": "kuo@rice.edu"
+          },
+          {
+            "name": "Amy Tsiang",
+            "email": "ctsiang@library.ucla.edu"
+          },
+          {
+            "name": " Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          },
+          {
+            "name": "Yi Liang",
+            "email": "yliang@ccsf.edu"
+          },
+          {
+            "name": "Bin Zhang",
+            "email": "bzhang@csus.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Hong Xu",
+            "email": "hgxu@pitt.edu"
+          },
+          {
+            "name": "Haiwang Yuan",
+            "email": "haiwang.yuan@wku.edu"
+          },
+          {
+            "name": "Vincci Kwong",
+            "email": "vkwong@iusb.edu"
+          },
+          {
+            "name": "Jen-chien Yu",
+            "email": "jenchienyu@yahoo.com"
+          },
+          {
+            "name": "Dajin Sun",
+            "email": "dajin.sun@yale.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Maria Fung",
+            "email": "m.fung@BrooklynPublicLibrary.org"
+          },
+          {
+            "name": "Hong Miao",
+            "email": "hongm@maryu.marywood.edu"
+          },
+          {
+            "name": "Manuel Urrizola",
+            "email": "manuel.urrizola@ucr.edu"
+          },
+          {
+            "name": "Karen Wei",
+            "email": "kwei@illinois.edu"
+          },
+          {
+            "name": "Lisa Zhao",
+            "email": "chzh@uic.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Yi Liang",
+            "email": "",
+            "title": "NCA"
+          },
+          {
+            "name": "Joy Wang",
+            "email": "",
+            "title": "SCA"
+          },
+          {
+            "name": "Ding Ye",
+            "email": "",
+            "title": "GMA"
+          },
+          {
+            "name": "Jen-chien Yu",
+            "email": "",
+            "title": "MW"
+          },
+          {
+            "name": "Li Sun",
+            "email": "",
+            "title": "NE"
+          },
+          {
+            "name": "Lili Li",
+            "email": "",
+            "title": "SE"
+          },
+          {
+            "name": "Zhixian (George) Yi",
+            "email": "",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2008-2009",
+    "start-year": 2008,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2006-2009)",
+      "At-Large Board of Directors (2007-2010)",
+      "At-Large Board of Directors (2008-2011)",
+      "Chapter Presidents (2008-2009)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Sha Li Zhang",
+            "email": "slzhang@uncg.edu",
+            "title": "President, 2008-2009"
+          },
+          {
+            "name": "Haipeng Li",
+            "email": "haipeng4cala@gmail.com",
+            "title": "Interim Executive Director, 2008-2009"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu",
+            "title": "Vice-President/President-Elect, 2009-2010"
+          },
+          {
+            "name": "Xudong Jin",
+            "email": "xdjin@owu.edu",
+            "title": "Second Vice-President/President-Elect, 2008-2009"
+          },
+          {
+            "name": "Shuyong Jiang",
+            "email": "shyjiang@uiuc.edu",
+            "title": "Treasurer, 2008-2010"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Ester Lee",
+            "email": "elee@queenslibrary.org"
+          },
+          {
+            "name": "Yongyi Song",
+            "email": "ysong2@calstatela.edu"
+          },
+          {
+            "name": "Zheng Wang",
+            "email": "Zheng.Wang@QueensLibrary.org"
+          },
+          {
+            "name": " Karen Wei",
+            "email": "kwei@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Min Chou",
+            "email": "minchou.njcu@gmail.com"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu"
+          },
+          {
+            "name": "Jiun Kuo",
+            "email": "kuo@rice.edu"
+          },
+          {
+            "name": "Amy Tsiang",
+            "email": "ctsiang@library.ucla.edu"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Hong Xu",
+            "email": "hgxu@pitt.edu"
+          },
+          {
+            "name": "Haiwang Yuan",
+            "email": "haiwang.yuan@wku.edu"
+          },
+          {
+            "name": "Vincci Kwong",
+            "email": "vkwong@iusb.edu"
+          },
+          {
+            "name": "Jen-chien Yu",
+            "email": "jenchienyu@yahoo.com"
+          },
+          {
+            "name": "Dajin Sun",
+            "email": "dajin.sun@yale.edu"
+          },
+          {
+            "name": "Bin Zhang",
+            "email": "bzhang@csus.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "",
+            "email": "",
+            "title": "NCA"
+          },
+          {
+            "name": "",
+            "email": "",
+            "title": "SCA"
+          },
+          {
+            "name": "",
+            "email": "",
+            "title": "GMA"
+          },
+          {
+            "name": "",
+            "email": "",
+            "title": "MW"
+          },
+          {
+            "name": "",
+            "email": "",
+            "title": "NE"
+          },
+          {
+            "name": "",
+            "email": "",
+            "title": "SE"
+          },
+          {
+            "name": "",
+            "email": "",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2007-2008",
+    "start-year": 2007,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2005-2008)",
+      "At-Large Board of Directors (2006-2009)",
+      "At-Large Board of Directors (2007-2010)",
+      "Chapter Presidents (2007-2008)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Dora Ho",
+            "email": "dora4ala@yahoo.com",
+            "title": "President, 2007-2008"
+          },
+          {
+            "name": "Shixing Wen",
+            "email": "shixingwen@yahoo.com",
+            "title": "Executive Director, 2007-2008"
+          },
+          {
+            "name": "Sha Li Zhang",
+            "email": "slzhang@uncg.edu",
+            "title": "Vice-President/President-Elect, 2007-2008"
+          },
+          {
+            "name": "Xudong Jin",
+            "email": "xdjin@owu.edu",
+            "title": "Vice-President/President-Elect, 2008-2009"
+          },
+          {
+            "name": "Maggie Wang",
+            "email": "wang_maggie@hotmail.com",
+            "title": "Treasurer, 2006-2008"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Shuyong Jiang",
+            "email": "shyjiang@uiuc.edu"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@sjsu.edu"
+          },
+          {
+            "name": "Ying Xu",
+            "email": "yxu1@exchange.calstatela.edu"
+          },
+          {
+            "name": "Linna Yu",
+            "email": "linnacyu@yahoo.com"
+          },
+          {
+            "name": "Priscilla Yu",
+            "email": "pcyu@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Ester Lee",
+            "email": "elee@queenslibrary.org"
+          },
+          {
+            "name": "Yongyi Song",
+            "email": "ysong2@calstatela.edu"
+          },
+          {
+            "name": "Zheng Wang",
+            "email": "Zheng.Wang@QueensLibrary.org"
+          },
+          {
+            "name": "Karen Wei",
+            "email": "kwei@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Min Chou",
+            "email": "minchou.njcu@gmail.com"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu"
+          },
+          {
+            "name": "Jiun Kuo",
+            "email": "kuo@rice.edu"
+          },
+          {
+            "name": "Amy Tsiang",
+            "email": "ctsiang@library.ucla.edu"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Fang Gu",
+            "email": "guf@csus.edu",
+            "title": "NCA"
+          },
+          {
+            "name": "Wen Wen Zhang",
+            "email": "wzhang@gw.colapl.org",
+            "title": "SCA"
+          },
+          {
+            "name": "Anchi Hoh",
+            "email": "adia@loc.gov",
+            "title": "GMA"
+          },
+          {
+            "name": "Songyong Jiang",
+            "email": "shyjiang@uiuc.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Songqian Lu",
+            "email": "slu@citytech.cuny.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Hanrong Wang",
+            "email": "",
+            "title": "SE"
+          },
+          {
+            "name": "Siu Min Yu",
+            "email": "siuy@rice.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2006-2007",
+    "start-year": 2006,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2004-2007)",
+      "At-Large Board of Directors (2005-2008)",
+      "At-Large Board of Directors (2006-2009)",
+      "Chapter Presidents (2006-2007)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Haipeng Li",
+            "email": "haipeng.li@oberlin.edu",
+            "title": "President, 2006-2007"
+          },
+          {
+            "name": "Sally C. Tseng",
+            "email": "scteng888@yahoo.com",
+            "title": "Executive Director, 2004-2007"
+          },
+          {
+            "name": "Dora Ho",
+            "email": "dora4ala@yahoo.com",
+            "title": "Vice-President/President-Elect, 2006-2007"
+          },
+          {
+            "name": "Sha Li Zhang",
+            "email": "slzhang@uncg.edu",
+            "title": "Vice-President/President-Elect, 2007-2008"
+          },
+          {
+            "name": "Maggie Wang",
+            "email": "wang_maggie@hotmail.com",
+            "title": "Treasurer, 2006-2008"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Carol Ka-Chuen Gee",
+            "email": "kcglc@lehman.cuny.edu"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "zhijia@u.washington.edu"
+          },
+          {
+            "name": "Holly Yu",
+            "email": "HYu3@exchange.calstatela.edu"
+          },
+          {
+            "name": "Sha Li Zhang",
+            "email": "slzhang@uncg.edu"
+          },
+          {
+            "name": " Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Xudong Jin",
+            "email": "xdjin@owu.edu"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@sjsu.edu"
+          },
+          {
+            "name": "Ying Xu",
+            "email": "yxu1@calstatela.edu"
+          },
+          {
+            "name": "Linna Yu",
+            "email": "linnacyu@yahoo.com"
+          },
+          {
+            "name": "Priscilla Yu",
+            "email": "pcyu@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Ester Lee",
+            "email": "elee@queenslibrary.org"
+          },
+          {
+            "name": "Yongyi Song",
+            "email": "ysong2@calstatela.edu"
+          },
+          {
+            "name": "Zheng Wang",
+            "email": "Zheng.Wang@QueensLibrary.org"
+          },
+          {
+            "name": "Karen Wei",
+            "email": "kwei@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Kuei Chiu",
+            "email": "kuei.chiu@ucr.edu",
+            "title": "CA"
+          },
+          {
+            "name": "Nancy Herfhoff",
+            "email": "sunn@fiu.edu",
+            "title": "Florida"
+          },
+          {
+            "name": "Cathy Yang",
+            "email": "cyan@loc.gov",
+            "title": "GMA"
+          },
+          {
+            "name": "Haiwang Yuan",
+            "email": "haiwang.yuan@wku.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Maria Fung",
+            "email": "m.fung@BrooklynPublicLibrary.org",
+            "title": "NE"
+          },
+          {
+            "name": "Hweifen Weng",
+            "email": "hwengtwo@yahoo.com",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2005-2006",
+    "start-year": 2005,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2003-2006)",
+      "At-Large Board of Directors (2004-2007)",
+      "At-Large Board of Directors (2005-2008)",
+      "Chapter Presidents (2005-2006)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Diana Wu",
+            "email": "Diana.Wu@sjsu.edu",
+            "title": "President, 2005-2006"
+          },
+          {
+            "name": "Sally C. Tseng",
+            "email": "scteng888@yahoo.com",
+            "title": "Executive Director, 2004-2007"
+          },
+          {
+            "name": "Haipeng Li",
+            "email": "haipeng.li@oberlin.edu",
+            "title": "Vice-President/President-Elect, 2005-2006"
+          },
+          {
+            "name": "Dora Ho",
+            "email": "dora4ala@yahoo.com",
+            "title": "Treasurer(2004-2007) & Vice-President/President-Eelect(2006-2007)"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Rosa Hsu",
+            "email": "rosa.hsu@hccs.edu"
+          },
+          {
+            "name": "Ester Lee",
+            "email": "elee@queenslibrary.org"
+          },
+          {
+            "name": "Susana Liu",
+            "email": "Susana.Liu@sjsu.edu"
+          },
+          {
+            "name": " Xiwen Zhang",
+            "email": "xzhang@csusb.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Carol Ka-Chuen Gee",
+            "email": "kcglc@lehman.cuny.edu"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "shen@spot.colorado.edu"
+          },
+          {
+            "name": "Holly Yu",
+            "email": "HYu3@exchange.calstatela.edu"
+          },
+          {
+            "name": "Sha Li Zhang",
+            "email": "slzhang@uncg.edu"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Xudong Jin",
+            "email": "xdjin@owu.edu"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@sjsu.edu"
+          },
+          {
+            "name": "Ying Xu",
+            "email": "yxu1@calstatela.edu"
+          },
+          {
+            "name": "Linna Yu",
+            "email": "linnacyu@yahoo.com"
+          },
+          {
+            "name": "Priscilla Yu",
+            "email": "pcyu@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Kuei Chiu",
+            "email": "kuei.chiu@ucr.edu",
+            "title": "CA"
+          },
+          {
+            "name": "",
+            "email": "",
+            "title": "Florida"
+          },
+          {
+            "name": "Helen Wang",
+            "email": "hwang@wcl.american.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Li Fu",
+            "email": "lfuOO@yahoo.com",
+            "title": "MW"
+          },
+          {
+            "name": "Zheng Wang",
+            "email": "zwang@queenslibrary.org",
+            "title": "NE"
+          },
+          {
+            "name": "Klairon Tang",
+            "email": "klairon.tang@hccs.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2004-2005",
+    "start-year": 2004,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2002-2005)",
+      "At-Large Board of Directors (2003-2006)",
+      "At-Large Board of Directors (2004-2007)",
+      "Chapter Presidents (2004-2005)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Shixing Wen",
+            "email": "shwen@umich.edu",
+            "title": "President, 2004-2005"
+          },
+          {
+            "name": "Sally C. Tseng",
+            "email": "scteng888@yahoo.com",
+            "title": "Executive Director, 2004-2007"
+          },
+          {
+            "name": "Diana Wu",
+            "email": "Diana.Wu@sjsu.edu",
+            "title": "Vice-President/President-Elect, 2004-2005"
+          },
+          {
+            "name": "Dora Ho",
+            "email": "dora4ala@yahoo.com",
+            "title": "Treasurer, 2004-2006"
+          },
+          {
+            "name": "Amy Tsiang",
+            "email": "ctsiang@library.ucla.edu",
+            "title": "Immediate Past President, 2003-2004"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Li Fu",
+            "email": "lifu@uic.edu"
+          },
+          {
+            "name": "Jiun Kuo",
+            "email": "kuo@rice.edu"
+          },
+          {
+            "name": "Jian Liu",
+            "email": "jianliu@gmail.com"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@email.sjsu.edu"
+          },
+          {
+            "name": "Priscilla Yu",
+            "email": "p-yu2@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Rosa Hsu",
+            "email": "rosa.hsu@hccs.edu"
+          },
+          {
+            "name": "Ester Lee",
+            "email": "elee@queenslibrary.org"
+          },
+          {
+            "name": "Susana Liu",
+            "email": "Susana.Liu@sjsu.edu"
+          },
+          {
+            "name": "Xiwen Zhang",
+            "email": "xzhang@csusb.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Carol Ka-Chuen Gee",
+            "email": "kcglc@lehman.cuny.edu"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "shen@spot.colorado.edu"
+          },
+          {
+            "name": "Holly Yu",
+            "email": "HYu3@exchange.calstatela.edu"
+          },
+          {
+            "name": "Sha Li Zhang",
+            "email": "slzhang@uncg.edu"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Diane Lai",
+            "email": "diane.lai@sjlibrary.org",
+            "title": "CA"
+          },
+          {
+            "name": "Dongmei Cao",
+            "email": "cao@lib.usf.edu",
+            "title": "Florida"
+          },
+          {
+            "name": "Anna Ho",
+            "email": "anho@loc.gov",
+            "title": "GMA"
+          },
+          {
+            "name": "Xudong Jin",
+            "email": "xdjin@owu.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Chi-chun Hsieh",
+            "email": "chsieh@queenslibrary.org",
+            "title": "NE"
+          },
+          {
+            "name": "Peyyi Wann",
+            "email": "p.wann@att.net",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2003-2004",
+    "start-year": 2003,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2001-2004)",
+      "At-Large Board of Directors (2002-2005)",
+      "At-Large Board of Directors (2003-2006)",
+      "Chapter Presidents (2003-2004)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Amy Tsiang",
+            "email": "ctsiang@library.ucla.edu",
+            "title": "President, 2003-2004"
+          },
+          {
+            "name": "Sally C. Tseng",
+            "email": "scteng888@yahoo.com",
+            "title": "Executive Director, 2001-2004"
+          },
+          {
+            "name": "Shixing Wen",
+            "email": "shwen@umich.edu",
+            "title": "Vice-President/President-Elect, 2003-2004"
+          },
+          {
+            "name": "Dora Ho",
+            "email": "dora4ala@yahoo.com",
+            "title": "Treasurer, 2001-2004"
+          },
+          {
+            "name": "Angela Yang",
+            "email": "AYang@aclibrary.org",
+            "title": "Immediate Past President, 2002-2003"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Vickie Fu Doll",
+            "email": "vdoll@mail.ukans.edu"
+          },
+          {
+            "name": "Amy D. Seetoo",
+            "email": "adseetoo@umich.edu"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "shen@spot.colorado.edu"
+          },
+          {
+            "name": "Linna Chen Yu",
+            "email": "linnay@queens.lib.ny.us"
+          },
+          {
+            "name": "Sha Li Zhang",
+            "email": "zhang@twsuvm.uctwsu.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Li Fu",
+            "email": "lifu@uic.edu"
+          },
+          {
+            "name": "Jiun Kuo",
+            "email": "kuo@rice.edu"
+          },
+          {
+            "name": "Jian Liu",
+            "email": "jianliu@gmail.com"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@email.sjsu.edu"
+          },
+          {
+            "name": "Priscilla Yu",
+            "email": "p-yu2@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Rosa Hsu",
+            "email": "rosa.hsu@hccs.edu"
+          },
+          {
+            "name": "Ester Lee",
+            "email": "elee@queenslibrary.org"
+          },
+          {
+            "name": "Susana Liu",
+            "email": "Susana.Liu@sjsu.edu"
+          },
+          {
+            "name": "Xiwen Zhang",
+            "email": "xzhang@csusb.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Yuhfen Diana Wu",
+            "email": "dwu@email.sjsu.edu",
+            "title": "CA"
+          },
+          {
+            "name": "Ying Xu",
+            "email": "yxu1@calstatela.edu",
+            "title": "CA"
+          },
+          {
+            "name": "Ying Zhang",
+            "email": "yzhang@mail.ucf.edu",
+            "title": "Florida"
+          },
+          {
+            "name": "Joanne She",
+            "email": "Joanne.She@usdoj.gov",
+            "title": "GMA"
+          },
+          {
+            "name": "Shixing Wen",
+            "email": "shwen@umich.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Carol Gee",
+            "email": "kcglc@cunyvm.cuny.edu",
+            "title": "NE"
+          },
+          {
+            "name": "Rosa Hsu",
+            "email": "hsu_r@hccs.cc.tx.us",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2002-2003",
+    "start-year": 2003,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (2000-2003)",
+      "At-Large Board of Directors (2001-2004)",
+      "At-Large Board of Directors (2002-2005)",
+      "Chapter Presidents (2002-2003)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Angela Yang",
+            "email": "AYang@aclibrary.org",
+            "title": "President, 2002-2003"
+          },
+          {
+            "name": "Sally C. Tseng",
+            "email": "scteng888@yahoo.com",
+            "title": "Executive Director, 2001-2004"
+          },
+          {
+            "name": "Amy Tsiang",
+            "email": "ctsiang@library.ucla.edu",
+            "title": "Vice-President/President-Elect, 2002-2003"
+          },
+          {
+            "name": "Dora Ho",
+            "email": "dora4ala@yahoo.com",
+            "title": "Treasurer, 2001-2004"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu",
+            "title": "Immediate Past President, 2001-2002"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Carl C. Chan",
+            "email": "chanc@pom-emh1.army.mil"
+          },
+          {
+            "name": "Susana Liu",
+            "email": "sliu@email.sjsu.edu"
+          },
+          {
+            "name": "Linda L. Tse",
+            "email": "ltse@cap.gwu.edu"
+          },
+          {
+            "name": "Amy Ching-Fen Tsiang",
+            "email": "ctsiang@library.ucla.edu"
+          },
+          {
+            "name": "Nora Yeh",
+            "email": "nyeh@loc.gov"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Vickie Fu Doll",
+            "email": "vdoll@mail.ukans.edu"
+          },
+          {
+            "name": "Amy D. Seetoo",
+            "email": "adseetoo@umich.edu"
+          },
+          {
+            "name": "Zhiija Shen",
+            "email": "shen@spot.colorado.edu"
+          },
+          {
+            "name": "Linna Chien Yu",
+            "email": "linnay@queens.lib.ny.us"
+          },
+          {
+            "name": "Sha Li Zhang",
+            "email": "zhang@twsuvm.uc.twsu.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Li Fu",
+            "email": "lifu@uic.edu"
+          },
+          {
+            "name": "Jiun Kuo",
+            "email": "kuo@rice.edu"
+          },
+          {
+            "name": "Jian Liu",
+            "email": "jianliu@gmail.com"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@email.sjsu.edu"
+          },
+          {
+            "name": "Priscilla C. Yu",
+            "email": "p-yu2@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Yuhfen Diana Wu",
+            "email": "dwu@email.sjsu.edu",
+            "title": "CA"
+          },
+          {
+            "name": "Zhangjun Yan",
+            "email": "zyan@camber.com",
+            "title": "GMA"
+          },
+          {
+            "name": "Haipeng Li",
+            "email": "pli@oberlin.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Esther Lee",
+            "email": "",
+            "title": "NE"
+          },
+          {
+            "name": "Jiun Kuo",
+            "email": "kuo@rice.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2001-2002",
+    "start-year": 2002,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (1999-2002)",
+      "At-Large Board of Directors (2000-2003)",
+      "At-Large Board of Directors (2001-2004)",
+      "Chapter Presidents (2001-2002)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu",
+            "title": "President, 2001-2002"
+          },
+          {
+            "name": "Sally C. Tseng",
+            "email": "scteng888@yahoo.com",
+            "title": "Executive Director, 2001-2004"
+          },
+          {
+            "name": "Angela Yang",
+            "email": "ayang@uci.edu",
+            "title": "Vice-President/President-Elect, 2001-2002"
+          },
+          {
+            "name": "Dora Ho",
+            "email": "dora4ala@yahoo.com",
+            "title": "Treasurer, 2001-2004"
+          },
+          {
+            "name": "Yu-Lan Chou",
+            "email": "ychou@library.berkeley.edu",
+            "title": "Immediate Past President, 2000-2001"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@email.sjsu.edu"
+          },
+          {
+            "name": "Wen Ling Liu",
+            "email": "wliu@indiana.edu"
+          },
+          {
+            "name": "Eugenia Tang",
+            "email": "etang@lib-gw.tamu.edu"
+          },
+          {
+            "name": "Priscilla Yu",
+            "email": "p-yu2@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Carl C. Chan",
+            "email": "chanc@pom-emh1.army.mil"
+          },
+          {
+            "name": "Susana Liu",
+            "email": "sliu@email.sjsu.edu"
+          },
+          {
+            "name": "Linda L. Tse",
+            "email": "ltse@cap.gwu.edu"
+          },
+          {
+            "name": "Amy Ching-Fen Tsiang",
+            "email": "ctsiang@library.ucla.edu"
+          },
+          {
+            "name": "Nora Yeh",
+            "email": "nyeh@loc.gov"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Vickie Fu Doll",
+            "email": "vdoll@mail.ukans.edu"
+          },
+          {
+            "name": "Amy D. Seetoo",
+            "email": "adseetoo@umich.edu"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "shen@spot.colorado.edu"
+          },
+          {
+            "name": "Linna Chien Yu",
+            "email": "linnay@queens.lib.ny.us"
+          },
+          {
+            "name": "Sha Li Zhang",
+            "email": "zhang@twsuvm.uctwsu.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Xiwen Zhang",
+            "email": "xzhang@csusb.edu",
+            "title": "CA"
+          },
+          {
+            "name": "Ying Zhang",
+            "email": "yzhang@mail.ucf.edu",
+            "title": "Florida"
+          },
+          {
+            "name": "Yuezu Yu",
+            "email": "yy19@umail.umd.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Lisa Zhao",
+            "email": "chzh@uic.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Wendy Tan",
+            "email": "wtan@shiva.hunter.cuny.edu",
+            "title": "NE"
+          },
+          {
+            "name": "George Min-Loke Teoh",
+            "email": "teoh_g@hccs.cc.tx.us",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2000-2001",
+    "start-year": 2001,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (1998-2001)",
+      "At-Large Board of Directors (1999-2002)",
+      "At-Large Board of Directors (2000-2003)",
+      "Chapter Presidents (2000-2001)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Yu-Lan Chou",
+            "email": "ychou@library.berkeley.edu",
+            "title": "President, 2000-2001"
+          },
+          {
+            "name": "Sally C. Tseng",
+            "email": "scteng888@yahoo.com",
+            "title": "Executive Director, 1999-2001"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu",
+            "title": "Vice-President/President-Elect, 2001-2002"
+          },
+          {
+            "name": "Jian Liu",
+            "email": "jiliu@indiana.edu",
+            "title": "Treasurer, 1999-2001"
+          },
+          {
+            "name": "Ling Hwey Jeng",
+            "email": "lhjeng00@ukcc.uky.edu ",
+            "title": "Immediate Past President, 1999-2000"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Dora Ho",
+            "email": "doraho@yahoo.com"
+          },
+          {
+            "name": "Elizabeth Hsu",
+            "email": "ehsu@queens.lib.ny.us"
+          },
+          {
+            "name": "Shixing Wen",
+            "email": "shwen@umich.edu"
+          },
+          {
+            "name": "Lan Yang",
+            "email": "zyang@tamu.edu"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@email.sjsu.edu"
+          },
+          {
+            "name": "Wen Ling Liu",
+            "email": "wliu@indiana.edu"
+          },
+          {
+            "name": "Eugenia Tang",
+            "email": "etang@lib-gw.tamu.edu"
+          },
+          {
+            "name": "Priscilla Yu",
+            "email": "p-yu2@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Carl C. Chan",
+            "email": "chanc@pom-emh1.army.mil"
+          },
+          {
+            "name": "Susana Liu",
+            "email": "sliu@email.sjsu.edu"
+          },
+          {
+            "name": "Linda L. Tse",
+            "email": "ltse@cap.gwu.edu"
+          },
+          {
+            "name": "Amy Ching-Fen Tsiang",
+            "email": "ctsiang@library.ucla.edu"
+          },
+          {
+            "name": "Nora Yeh",
+            "email": "nyeh@loc.gov"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Kuei Chiu",
+            "email": "kuei.chiu@ucr.edu",
+            "title": "CA"
+          },
+          {
+            "name": "Ying Zhang",
+            "email": "yzhang@mail.ucf.edu",
+            "title": "Florida"
+          },
+          {
+            "name": "Clement Chu-sing Lau",
+            "email": "cclau@ubmail.ubalt.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Jian Liu",
+            "email": "jiliu@indiana.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Lily Chen",
+            "email": "",
+            "title": "NE"
+          },
+          {
+            "name": "Shelly Mao",
+            "email": "Mao@dt.uh.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "2001-2002",
+    "start-year": 2002,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (1999-2002)",
+      "At-Large Board of Directors (2000-2003)",
+      "At-Large Board of Directors (2001-2004)",
+      "Chapter Presidents (2001-2002)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu",
+            "title": "President, 2001-2002"
+          },
+          {
+            "name": "Sally C. Tseng",
+            "email": "scteng888@yahoo.com",
+            "title": "Executive Director, 2001-2004"
+          },
+          {
+            "name": "Angela Yang",
+            "email": "ayang@uci.edu",
+            "title": "Vice-President/President-Elect, 2001-2002"
+          },
+          {
+            "name": "Dora Ho",
+            "email": "dora4ala@yahoo.com",
+            "title": "Treasurer, 2001-2004"
+          },
+          {
+            "name": "Yu-Lan Chou",
+            "email": "ychou@library.berkeley.edu",
+            "title": "Immediate Past President, 2000-2001"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@email.sjsu.edu"
+          },
+          {
+            "name": "Wen Ling Liu",
+            "email": "wliu@indiana.edu"
+          },
+          {
+            "name": "Eugenia Tang",
+            "email": "etang@lib-gw.tamu.edu"
+          },
+          {
+            "name": "Priscilla Yu",
+            "email": "p-yu2@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Carl C. Chan",
+            "email": "chanc@pom-emh1.army.mil"
+          },
+          {
+            "name": "Susana Liu",
+            "email": "sliu@email.sjsu.edu"
+          },
+          {
+            "name": "Linda L. Tse",
+            "email": "ltse@cap.gwu.edu"
+          },
+          {
+            "name": "Amy Ching-Fen Tsiang",
+            "email": "ctsiang@library.ucla.edu"
+          },
+          {
+            "name": "Nora Yeh",
+            "email": "nyeh@loc.gov"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Vickie Fu Doll",
+            "email": "vdoll@mail.ukans.edu"
+          },
+          {
+            "name": "Amy D. Seetoo",
+            "email": "adseetoo@umich.edu"
+          },
+          {
+            "name": "Zhijia Shen",
+            "email": "shen@spot.colorado.edu"
+          },
+          {
+            "name": "Linna Chien Yu",
+            "email": "linnay@queens.lib.ny.us"
+          },
+          {
+            "name": "Sha Li Zhang",
+            "email": "zhang@twsuvm.uctwsu.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Xiwen Zhang",
+            "email": "xzhang@csusb.edu",
+            "title": "CA"
+          },
+          {
+            "name": "Ying Zhang",
+            "email": "yzhang@mail.ucf.edu",
+            "title": "Florida"
+          },
+          {
+            "name": "Yuezu Yu",
+            "email": "yy19@umail.umd.edu",
+            "title": "GMA"
+          },
+          {
+            "name": "Lisa Zhao",
+            "email": "chzh@uic.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Wendy Tan",
+            "email": "wtan@shiva.hunter.cuny.edu",
+            "title": "NE"
+          },
+          {
+            "name": "George Min-Loke Teoh",
+            "email": "teoh_g@hccs.cc.tx.us",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "1999-2000",
+    "start-year": 1999,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (1997-2000)",
+      "At-Large Board of Directors (1998-2001)",
+      "At-Large Board of Directors (1999-2002)",
+      "Chapter Presidents (1999-2000)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Ling Hwey Jeeng",
+            "email": "lhjeng00@ukcc.uky.edu ",
+            "title": "President, 1999-2000"
+          },
+          {
+            "name": "Sally C. Tseng",
+            "email": "scteng888@yahoo.com",
+            "title": "Executive Director, 1999-2001"
+          },
+          {
+            "name": "Yu-Lan Chou",
+            "email": "ychou@library.berkeley.edu",
+            "title": "Vice-President/President-Elect, 2000-2001"
+          },
+          {
+            "name": "Jian Liu",
+            "email": "jiliu@indiana.edu",
+            "title": "Treasurer, 1999-2001"
+          },
+          {
+            "name": "Linna Yu",
+            "email": "linnay@queens.org",
+            "title": "Immediate Past President, 1998-1999"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Susana Tsui",
+            "email": "tsui@data.lib.udayton.edu"
+          },
+          {
+            "name": "Julie Su",
+            "email": "jsu@stti.iupui.edu"
+          },
+          {
+            "name": "Clare Fu",
+            "email": "ccp_cfu@shrsys.hslc.org"
+          },
+          {
+            "name": "Diana Wu",
+            "email": "dwu@email.sjsu.edu"
+          },
+          {
+            "name": "Cecilia Wang",
+            "email": "cwang@hpl.lib.tx.us"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Dora Ho",
+            "email": "doraho@yahoo.com"
+          },
+          {
+            "name": "Elizabeth Hsu",
+            "email": "ehsu@queens.lib.ny.us"
+          },
+          {
+            "name": "Shixing Wen",
+            "email": "shwen@umich.edu"
+          },
+          {
+            "name": "Lan Yang",
+            "email": "zyang@tamu.edu"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy Sun Hershoff",
+            "email": "sunn@fiu.edu"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@email.sjsu.edu"
+          },
+          {
+            "name": "Wen Ling Liu",
+            "email": "wliu@indiana.edu"
+          },
+          {
+            "name": "Eugenia Tang",
+            "email": "etang@lib-gw.tamu.edu"
+          },
+          {
+            "name": "Priscilla Yu",
+            "email": "p-yu2@uiuc.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Ja-Lih Lee",
+            "email": "ja-lih.lee@ci.sj.ca.us",
+            "title": "CA"
+          },
+          {
+            "name": "Wenxian Zhang",
+            "email": "WZhang@Rollins.edu",
+            "title": "Florida"
+          },
+          {
+            "name": "Cathy Yang",
+            "email": "cyan@loc.gov",
+            "title": "GMA"
+          },
+          {
+            "name": "Vickie Fu Doll",
+            "email": "vdoll@mail.lib.ukans.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Esther Lee",
+            "email": "elee@queenslibrary.org",
+            "title": "NE"
+          },
+          {
+            "name": "Kwei-Feng Hsu",
+            "email": "khsu@fortbend.lib.tx.us",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "1998-1999",
+    "start-year": 1998,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (1996-1999)",
+      "At-Large Board of Directors (1997-2000)",
+      "At-Large Board of Directors (1998-2001)",
+      "Chapter Presidents (1998-1999)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Linna Yu",
+            "email": "linnay@queens.lib.ny.us",
+            "title": "President, 1998-1999"
+          },
+          {
+            "name": "Amy Seetoo",
+            "email": "adseetoo@umich.edu",
+            "title": "Executive Director, 1998-2000"
+          },
+          {
+            "name": "Ling Hwey Jeng",
+            "email": "lhjeng00@ukcc.uky.edu",
+            "title": "Vice-President/President-Elect, 1998-1999"
+          },
+          {
+            "name": "Ming Li",
+            "email": "mli@rohan.sdsu.edu",
+            "title": "Treasurer, 1997-1999"
+          },
+          {
+            "name": "Harriet Ying",
+            "email": "hy0078@epfl2.epflbalto.org",
+            "title": "Immediate Past President, 1997-1998"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Margaret Feng",
+            "email": "margaret_feng@occshost.nlm.nih.gov"
+          },
+          {
+            "name": "Judy Jeng",
+            "email": "judyjeng@andromedia.rutgers.edu"
+          },
+          {
+            "name": "Judy Lu Kestell",
+            "email": "jkes@loc.gov"
+          },
+          {
+            "name": "Susan Ma",
+            "email": "jma@email.sjsu.edu"
+          },
+          {
+            "name": "Pei-ling Wu",
+            "email": "peiwu@depauw.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Susan Tsui",
+            "email": "tsui@data.lib.udayton.edu"
+          },
+          {
+            "name": "Julie Su",
+            "email": "jsu@stti.iupui.edu"
+          },
+          {
+            "name": "Clare Fu",
+            "email": "ccp_cfu@shrsys.hslc.org"
+          },
+          {
+            "name": "Diana Wu",
+            "email": "dwu@email.sjsu.edu"
+          },
+          {
+            "name": "Cecilia Wang",
+            "email": "cwang@hpl.lib.tx.us"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Dora Ho",
+            "email": "doraho@yahoo.com"
+          },
+          {
+            "name": "Elizabeth Hsu",
+            "email": "ehsu@queens.lib.ny.us"
+          },
+          {
+            "name": "Shixing Wen",
+            "email": "shwen@umich.edu"
+          },
+          {
+            "name": "Lan Yang",
+            "email": "zyang@tamu.edu"
+          },
+          {
+            "name": "Liana Zhou",
+            "email": "zhoul@indiana.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Yulan Chou",
+            "email": "ychou@library.berkeley.edu",
+            "title": "CA"
+          },
+          {
+            "name": "Shixing Wen",
+            "email": "shixingwen@yahoo.com",
+            "title": "Florida"
+          },
+          {
+            "name": "Tsai-Hong Miller",
+            "email": "tmil@loc.gov",
+            "title": "GMA"
+          },
+          {
+            "name": "Marian Chou",
+            "email": "MChou@imcpl.lib.in.us",
+            "title": "MW"
+          },
+          {
+            "name": "Theresa Huang",
+            "email": "",
+            "title": "NE"
+          },
+          {
+            "name": "Chloris Yue",
+            "email": "Yuec@CL.uh.edu",
+            "title": "SW"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "year": "1997-1998",
+    "start-year": 1997,
+    "title-array": [
+      "Executive Committee",
+      "At-Large Board of Directors (1995-1998)",
+      "At-Large Board of Directors (1996-1999)",
+      "At-Large Board of Directors (1997-2000)",
+      "Chapter Presidents (1997-1998)"
+    ],
+    "content-array": [
+      {
+        "comm-members": [
+          {
+            "name": "Harriet Ying",
+            "email": "hy0078@epfl2.epflbalto.org",
+            "title": "President, 1997-1998"
+          },
+          {
+            "name": "Sheila Lai",
+            "email": "sheilalai@csus.edu",
+            "title": "Executive Director, 1995-1998"
+          },
+          {
+            "name": "Linna Yu",
+            "email": "linnay@queens.lib.ny.us",
+            "title": "Vice-President/President-Elect, 1997-1998"
+          },
+          {
+            "name": "Ming Li",
+            "email": "mli@rohan.sdsu.edu",
+            "title": "Treasurer, 1997-1999"
+          },
+          {
+            "name": "Mengxiong Liu",
+            "email": "mliu@email.sjsu.edu",
+            "title": "Immediate Past President, 1996-1997"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Nancy S. Hershoff",
+            "email": "sunn@servms.fiu.edu"
+          },
+          {
+            "name": "Ling Hwey Jeng",
+            "email": "lhjeng00@ukcc.uky.edu "
+          },
+          {
+            "name": "Eugenia C.G. Tang",
+            "email": "eugenia@acs.tamu.edu"
+          },
+          {
+            "name": "William Wan",
+            "email": "s_wan@venus.twu.edu"
+          },
+          {
+            "name": "Connie Wu",
+            "email": "conniewu@rci.rutgers.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Margaret Feng",
+            "email": "margaret_feng@occshost.nlm.nih.gov"
+          },
+          {
+            "name": "Judy Jeng",
+            "email": "judyjeng@andromedia.rutgers.edu"
+          },
+          {
+            "name": "Judy Lu Kestell",
+            "email": "jkes@loc.gov"
+          },
+          {
+            "name": "Susan Ma",
+            "email": "jma@email.sjsu.edu"
+          },
+          {
+            "name": "Pei-ling Wu",
+            "email": "peiwu@depauw.edu"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Susan Tsui",
+            "email": "tsui@data.lib.udayton.edu"
+          },
+          {
+            "name": "Julie Su",
+            "email": "jsu@stti.iupui.edu"
+          },
+          {
+            "name": "Clare Fu",
+            "email": "ccp_cfu@shrsys.hslc.org"
+          },
+          {
+            "name": "Diana Wu",
+            "email": "dwu@email.sjsu.edu"
+          },
+          {
+            "name": "Cecilia Wang",
+            "email": "cwang@hpl.lib.tx.us"
+          }
+        ]
+      },
+      {
+        "comm-members": [
+          {
+            "name": "Carl Chan",
+            "email": "chanc@ipom-emh1.army.mil",
+            "title": "CA"
+          },
+          {
+            "name": "Shixing Wen",
+            "email": "shixingwen@yahoo.com",
+            "title": "Florida"
+          },
+          {
+            "name": "Nora Yeh",
+            "email": "nyeh@loc.gov",
+            "title": "GMA"
+          },
+          {
+            "name": "Wen-ling Liu",
+            "email": "wliu@indiana.edu",
+            "title": "MW"
+          },
+          {
+            "name": "Linna Yu",
+            "email": "linnay@queens.lib.ny.us",
+            "title": "NE"
+          },
+          {
+            "name": "George Teoh",
+            "email": "teoh_g@hccs.cc.tx.us",
+            "title": "SW"
           }
         ]
       }
