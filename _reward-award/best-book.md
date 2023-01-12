@@ -7,7 +7,7 @@ This Annual Best Book Award is to promote awareness of the best books of Chinese
 
 [Call for nomination](/reward/award/best-book/nomination/)
 
-[Nomination Form]()
+[Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSf6wSrcu4UXzPPhb7glsk5I8FdfYSJWkOueTX6wKCEILnt9pg/viewform?usp=send_form)
 
 ---
 
