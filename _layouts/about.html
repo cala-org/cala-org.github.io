@@ -13,10 +13,17 @@ heroComp: "about-carousel.html"
   <span class="hrline text-primary pb-2"> {{about-content.title}}</span>
 </h2>
 
-{% assign year-range = site.data.committee_1 %}
+{% assign year-range-1 = site.data.committee-1 %}
+{% assign year-range-2 = site.data.committee-2 %}
 <div class="col-12 d-flex flex-row justify-content-around">
   <ul>
-    {% for every-year in year-range %}
+    {% for every-year in year-range-1 %}
+    <li>
+      <a href="/about/committee/{{every-year.year}}">
+        {{ every-year.year }} Committees</a>
+    </li>
+    {% endfor %}
+    {% for every-year in year-range-2 %}
     <li>
       <a href="/about/committee/{{every-year.year}}">
         {{ every-year.year }} Committees</a>
