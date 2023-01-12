@@ -2,7 +2,7 @@
 layout: default
 title: {{ page.Filename }}
 ---
-{% for comm-year in site.data.committee %}
+{% for comm-year in site.data.committee_1 %}
 {% capture pageTitle %}{{ page.title | slugify }}{% endcapture %}
 {% if comm-year.year == pageTitle %}
 

@@ -1,8 +1,6 @@
 ---
 title: CALA Scholarships Application Form
-permalink: /reward/scholarship/application/
 layout: page
-custom-js: scholarshipApp
 ---
 
 <!-- https://docs.netlify.com/forms/setup/ -->
