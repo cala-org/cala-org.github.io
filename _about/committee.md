@@ -1,4 +1,4 @@
 ---
 title: Committees and Officers
-order: 3
+order: 4
 ---
