@@ -1,3 +1,10 @@
+<script>
+  $(document).ready(function () {
+    const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]')
+    const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
+  })
+</script>
+
 <nav class="navbar navbar-expand-md bg-primary navbar-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="/"><img src="/assets/images/favicon_io/favicon-32x32.png" alt="CALA Logo"></a>
@@ -19,33 +26,49 @@
         <li class="nav-item">
           <a class="nav-link text-white" href="/membership">Membership</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link text-white" target="_blank" href="https://cala.wildapricot.org/donate"><i
+              class="fa-solid fa-gift"></i> Donate to CALA</a>
+        </li>
       </ul>
+
 
       <ul class="navbar-nav me-2 mb-2 mb-md-0 d-inline-flex flex-row col-6 col-sm-4 col-xl-2 justify-content-between">
         <li class="nav-item">
-          <a class="nav-link text-white active" aria-current="page"
+          <a class="nav-link text-white active" target="_blank" data-bs-placement="bottom" data-bs-toggle="tooltip"
+            data-bs-title="CALA Facebook"
             href="https://www.facebook.com/pages/CALA-Chinese-American-Librarians-Association/281336511932864"><i
               class="fa-brands fa-facebook"></i><label class="visually-hidden">CALA Facebook</label></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="http://www.linkedin.com/groups/12047408"><i
+          <a class="nav-link text-white" target="_blank" data-bs-placement="bottom" data-bs-toggle="tooltip"
+            data-bs-title="CALA LinkedIn" href="http://www.linkedin.com/groups/12047408"><i
               class="fa-brands fa-linkedin"></i><label class="visually-hidden">CALA LinkedIn</label></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="https://twitter.com/CalaNational"><i
+          <a class="nav-link text-white" target="_blank" data-bs-placement="bottom" data-bs-toggle="tooltip"
+            data-bs-title="CALA Twitter" href="https://twitter.com/CalaNational"><i
               class="fa-brands fa-twitter"></i><label class="visually-hidden">CALA Twitter</label></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="https://ir.cala-web.org/""><i class=" fa-solid fa-floppy-disk"></i><label
+          <a class="nav-link text-white" target="_blank" data-bs-placement="bottom" data-bs-toggle="tooltip"
+            data-bs-title="CALA SYS" href="https://ir.cala-web.org/""><i class=" fa-solid fa-floppy-disk"></i><label
               class="visually-hidden">CALA SYS</label></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="https://retired.cala-web.org/""><i class=" fa-solid fa-earth-americas"></i><label
-              class="visually-hidden">CALA Old Website</label></a>
+          <a class="nav-link text-white" target="_blank" data-bs-placement="bottom" data-bs-toggle="tooltip"
+            data-bs-title="CALA Old Website" href="https://retired.cala-web.org/""><i class=" fa-solid
+            fa-earth-americas"></i><label class="visually-hidden">CALA Old Website</label></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white" href="https://cala.wildapricot.org/"><i class="fa-solid fa-user"></i><label
+          <a class="nav-link text-white" target="_blank" data-bs-placement="bottom" data-bs-toggle="tooltip"
+            data-bs-title="CALA intranet" href="https://cala.wildapricot.org/"><i class="fa-solid fa-user"></i><label
               class="visually-hidden">CALA intranet</label></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-white" target="_blank" data-bs-placement="bottom" data-bs-toggle="tooltip"
+            data-bs-title="Donate to CALA" href="https://cala.wildapricot.org/donate"><i
+              class="fa-solid fa-gift"></i><label class="visually-hidden">Donate to CALA</label></a>
         </li>
       </ul>
     </div>
