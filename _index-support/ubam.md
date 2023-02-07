@@ -1,6 +1,6 @@
 ---
-title: UBAM
-link: https://g11699.myubam.com/2409598
-pgContent: When you shop UBAM books through this [link](https://g11699.myubam.com/2409598) or the image below, CALA receives donations.
-img: /assets/images/paperpie.png
+title: BONFIRE
+link: https://www.bonfire.com/cala-50th-anniversary-apparel/
+pgContent: When you shop at Bonfire, CALA will receive your donations.
+img: /assets/images/bonfire.png
 ---
