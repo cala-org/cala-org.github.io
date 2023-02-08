@@ -12,6 +12,12 @@
  ## Netlify Deploy Status
  + [![Netlify Status](https://api.netlify.com/api/v1/badges/26329b40-e493-495d-86ac-d52f2169c8bd/deploy-status)](https://app.netlify.com/sites/cala-org/deploys)
  + Netlify admin logoin: cala-org.netlify.app/admin
+ 
+ ## To create new post via Netlify
+ + Switch account to CALA's in GitHub
+ + Go https://cala-org.netlify.app/admin and log in
+ + Log in via GitHub
+ + Create the new post and wait until it get successfully published.
 
 ## Gulp Encryption
   + Go to `gulpfile.js ` in root file
