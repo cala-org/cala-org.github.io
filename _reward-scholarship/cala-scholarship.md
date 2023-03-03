@@ -5,11 +5,13 @@ layout: page
 ---
 To encourage professional and leadership development in Chinese American librarianship, CALA offers several scholarships each year to students and library school faculty.
 
-+ The CALA Scholarship of Library and Information Science, $1,000: one student
++ The CALA Scholarship of Library and Information Science and Sage & JCLC Inc. NALCo LIS Student Scholar Program: $1000, one student for CALA; The Sage & JCLC Inc. NALCo LIS Student Scholar Program: $1000, two students
 + The Sheila Suen Lai Scholarship of Library and Information Science, $500: one student
 + The Huang Tso-ping and Wu Yao-yu Research and Scholarship, for faculty and students at Wuhan University, China: $400, one library school faculty member; $200, two students
 
 To be eligible, applicants must be of Chinese descent and a CALA member. For the student scholarships, applicants should be full-time students who are currently or will soon be enrolled in an ALA-accredited library and information science program. Recipients are expected to serve on at least one CALA committee.
+
+Sage & JCLC Inc. NALCo LIS Student Scholar Program (two) recipients are required to write 500-800 words blog posts at some point during the school year articulating how the award benefitted them among other items and to be posted on a Sage blog and at other locations as requested by CALA. (This scholarship is a pilot joint-program for 2022-2023).
 
 The application deadline for 2023 is **March 10**. To apply, fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeMJhd7mRS7PjtKtQcXHkmHZ4hNwJDDZLQsB78qUG9GsqFqLw/viewform) and submit it online. Include the following materials in your application:
 
