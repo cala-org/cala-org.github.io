@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Bernardine's Shanghai Salon: The Story of Doyenne of Old China - An
-  Author Talk"
+title: "CALA/AJL Webinar: Bernardine's Shanghai Salon: The Story of Doyenne of
+  Old China - An Author Talk"
 date: 2023-03-12T18:32:01.281Z
 ---
 Date/Time: 5/23, Tuesday 12 pm PT / 2 pm CT / 3 pm ET
