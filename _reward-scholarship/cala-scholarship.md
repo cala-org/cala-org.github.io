@@ -13,7 +13,7 @@ To be eligible, applicants must be of Chinese descent and a CALA member. For the
 
 Sage & JCLC Inc. NALCo LIS Student Scholar Program (two) recipients are required to write 500-800 words blog posts at some point during the school year articulating how the award benefitted them among other items and to be posted on a Sage blog and at other locations as requested by CALA. (This scholarship is a pilot joint-program for 2022-2023).
 
-The application deadline for 2023 is **March 10**. To apply, fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeMJhd7mRS7PjtKtQcXHkmHZ4hNwJDDZLQsB78qUG9GsqFqLw/viewform) and submit it online. Include the following materials in your application:
+The application deadline for 2023 is **March 30**. To apply, fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeMJhd7mRS7PjtKtQcXHkmHZ4hNwJDDZLQsB78qUG9GsqFqLw/viewform) and submit it online. Include the following materials in your application:
 
 + Curriculum vitae
 + A personal statement (no more than 300 words) that describes your interest and any relevant work, including non-course educational experience, volunteer work, and teaching, etc. Highlight what you can bring to the profession and CALA, in particular what you have done that reflects your potential for leadership. 
