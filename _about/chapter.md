@@ -14,4 +14,4 @@ order: 2
 |[Southwest Chapter (SW)](https://sw.chapters.cala-web.org/)|covers 9 states:<br />Arizona, Arkansas, Colorado, Louisiana, Nevada, New Mexico, Oklahoma, Texas, Utah|
 |[Canadian Chapter (CAN)](https://www.cala-canada.org/)|covers Canada|
 |All Other U.S. States (OUS)|covers 7 states:<br />Alaska, Hawaii, Idaho, Montana, Oregon, Washington (State), Wyoming|
-|Non-US Areas (NUS)|covers oversea areas:<br />Guam, China, Hong Kong, Macao, Singapore, Taiwan|
+|Asia-Pacific (AP) Chapter|covers Mainland China, Hong Kong, Macao, Taiwan, Singapore, South Korea, Japan, and Southeast Asian Countries|
