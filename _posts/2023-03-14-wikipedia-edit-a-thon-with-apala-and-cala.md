@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Wikipedia edit-a-thon with APALA and CALA "
+title: Wikipedia edit-a-thon with APALA and CALA on May 10th
 date: 2023-03-14T00:23:32.249Z
 ---
-Date/Time: May 10th, Wednesday at 10 am HT / 12 pm PT / 1 pm MT / 2 pm CT / 3 pm ET
+Date/Time: May 10th, Wednesday at 9 am HT / 12 pm PT / 1 pm MT / 2 pm CT / 3 pm ET 
 
 Registration: [https://tinyurl.com/​APALACALA2023](https://tinyurl.com/APALACALA2023)
 
