@@ -12,6 +12,10 @@ Here's [a complete list with descriptions](https://docs.google.com/spreadsheets
 \
 All poster presenters are or will be CALA members, in addition, all presenters must register for [ALA Annual Conference to present (early bird ends on 3/31).](https://2023.alaannual.org/)
 
+A﻿ll [CALA events will be held in McCormick Place.](https://cala-web.org/2023/03/01/cala-in-person-events-at-ala-annual-conference-2023.html)
+
+M﻿ore info to come. 
+
 Thank you,
 
 Ray Pun
