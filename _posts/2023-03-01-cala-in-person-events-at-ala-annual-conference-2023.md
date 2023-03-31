@@ -43,7 +43,7 @@ Location: ALA McCormick Place Connvention Center
 
 Room: TBA
 
-Description: CALA poster presentations & 50th anniversary social. There will be light refreshment provided. ALA conference registration is required since it will be held in the Convention Center.
+Description: [CALA poster presentations](https://cala-web.org/2023/03/15/cala-2023-posters-at-ala-annual-conference-2023-announcement.html) & 50th anniversary social. There will be light refreshment provided. ALA conference registration is required since it will be held in the Convention Center.
 
 If you are planning to attend the ALA Annual Conference, you do not need to register to attend these CALA events. Please note the following due dates:
 
