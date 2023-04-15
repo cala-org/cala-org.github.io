@@ -17,9 +17,9 @@ Jia Mi (ALA) 
 
 Lei Jin (ALA) 
 
-Yuan Li (QQML) 
+Yuan Li (ALA) 
 
-Yanli Li (ALA) 
+Yanli Li (QQML)
 
 Binh P. Le (ACRL) 
 
