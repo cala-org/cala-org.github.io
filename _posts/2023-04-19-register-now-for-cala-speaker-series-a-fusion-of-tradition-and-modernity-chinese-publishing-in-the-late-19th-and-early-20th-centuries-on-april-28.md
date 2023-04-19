@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Register Now for CALA Speaker Series: A Fusion of Tradition and
-  Modernity: Chinese Publishing in the Late 19th and Early 20th Centuries on
-  April 28"
+title: "CALA Speaker Series: A Fusion of Tradition and Modernity: Chinese
+  Publishing in the Late 19th and Early 20th Centuries on April 28"
 date: 2023-04-19T18:18:18.541Z
 ---
 Dear colleagues,
