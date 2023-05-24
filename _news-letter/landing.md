@@ -14,9 +14,3 @@ CALA Newsletter disseminates information about Chinese American Librarianship an
 ### Frequency:
 
 CALA Newsletter is published twice a year in Spring and Fall.
-
-{: .h6}
-### Current CALA Newsletter editor:
-
-+ [Xiying Mi (Co-Editor)](mixiying@gmail.com)
-+ [Esther De-Leon (Co-Editor)](Esther.De-Leon@ttu.edu)
