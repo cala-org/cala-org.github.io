@@ -19,7 +19,7 @@
  + Log in via GitHub
  + Create the new post and wait until it get successfully published.
 
-## Gulp Encryption
+## Gulp Encryption [deactivated]
   + Go to `gulpfile.js ` in root file
   + find `gulp.task("firewall:encrypt", () => {
     return gulp
