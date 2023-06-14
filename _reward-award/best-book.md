@@ -11,7 +11,7 @@ This Annual Best Book Award is to promote awareness of the best books of Chinese
 
 ---
 
-{% for year in (2008..2022) reversed %}
+{% for year in (2008..2023) reversed %}
     {% if year == 2017 or year == 2016 or year == 2012 or year == 2011 %}
         {% continue %}
     {% else %}
