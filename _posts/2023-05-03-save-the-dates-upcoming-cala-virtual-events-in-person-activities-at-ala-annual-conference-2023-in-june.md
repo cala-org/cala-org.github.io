@@ -68,6 +68,6 @@ We hope to see you in virtual and/or in-person CALA activities!
 
 Thank you,
 
-Ray
+Ray Pun
 
 CALA President 2022-2023
