@@ -5,14 +5,14 @@ date: 2023-06-28T16:38:06.359Z
 tag:
   - Committees
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:RelyOnVML/>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -52,9 +52,9 @@ tag:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -633,9 +633,9 @@ tag:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -663,23 +663,17 @@ tag:
 	mso-font-kerning:1.0pt;
 	mso-ligatures:standardcontextual;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-[Dear CALA members,](<>)
+[](<>)D﻿ear CALA members,
 
 As June comes to a close, I look forward to serving as CALA president (2023-2024) starting on July 1, 2023. Thank you everyone for your support and willingness to serve on CALA committees and taskforces.  You all make my job easy as I fill the spots for committees and taskforces. You can now view the committee assignment through the membership management system at [https://cala.wildapricot.org/committees](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcala.wildapricot.org%2Fcommittees&data=05%7C01%7Cw.liu%40louisville.edu%7Cac6effeed19b42ad34e708db77f8009b%7Cdd246e4a54344e158ae391ad9797b209%7C0%7C0%7C638235679640083396%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=VtRKixOklTJSoqYzyox3CNhCe1VV3XMvR8nVJtDOMuE%3D&reserved=0). Committee chairs will reach out to you soon, so watch out for your email.
 
- 
-
 Thank you again, and I look forward to another wonderful year!
 
- 
-
 Sincerely,
-
- 
 
 Vincci Kwong
 
