@@ -23,7 +23,7 @@ title: {{ page.Filename }}
                 {% for chairs in comm-member.comm-chair %}
                 {% if forloop.length > 1 %}
                 <li>
-                    <b>Co-Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+                    <b>Co-Chair: {{ chairs.name }}</b>
                 </li>
                 {% else %}
                 <li>
