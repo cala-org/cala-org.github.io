@@ -27,14 +27,14 @@ title: {{ page.Filename }}
                 </li>
                 {% else %}
                 <li>
-                    <b>Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+                    <b>Chair: {{ chairs.name }}</b>
                 </li>
                 {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for members in comm-member.comm-members %}
-                <li class="my-2"><a href="mailto:{{ members.email }}">{{ members.name }}</a></li>
+                <li class="my-2">{{ members.name }}</li>
                 {% endfor %}
             </ul>
         </div>
@@ -72,18 +72,18 @@ title: {{ page.Filename }}
                 {% for chairs in comm-member.comm-chair %}
                 {% if forloop.length > 1 %}
                 <li>
-                    <b>Co-Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+                    <b>Co-Chair: {{ chairs.name }}</b>
                 </li>
                 {% else %}
                 <li>
-                    <b>Chair: <a href="mailto:{{ chairs.email }}">{{ chairs.name }}</a></b>
+                    <b>Chair: {{ chairs.name }}</b>
                 </li>
                 {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for members in comm-member.comm-members %}
-                <li class="my-2"><a href="mailto:{{ members.email }}">{{ members.name }}</a></li>
+                <li class="my-2">{{ members.name }}</li>
                 {% endfor %}
             </ul>
         </div>
