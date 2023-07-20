@@ -21,7 +21,7 @@ title: {{ page.Filename }}
             <ul class="list-unstyled mb-2">
                 {% for members in commmember[1] %}
                 <li class="my-2">
-                    <a href="mailto:{{ members.email }}">{{ members.name }}</a> {% if members.title %}
+                    {{ members.name }} {% if members.title %}
                     <b>{{ members.title }}</b>
                     {% endif %}
                 </li>
