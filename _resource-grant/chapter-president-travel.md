@@ -12,12 +12,9 @@ subcommittee and announce the final recipients to the CALA listserv in early May
 
 The complete application packet, including
 
-    (1) A completed CALA 2023-2024 Chapter President Travel Grant Application Form
-  
-    (2) An updated CV
-  
-    (3) A statement outlining the needs and benefits of the grant, and
-  
+    (1) A completed CALA 2023-2024 Chapter President Travel Grant Application Form  
+    (2) An updated CV  
+    (3) A statement outlining the needs and benefits of the grant, and  
     (4) Supporting documentation that denotes the applicant&#39;s assigned professional or administrative responsibility at the ALA conference: a copy of the conference invitation or confirmation letter, an abstract of a presentation or a poster, or a recommendation letter from the attendee’s supervisor, peer professional, or faculty adviser.
 
 Grant Recipient Requirements:
