@@ -3,7 +3,7 @@ title: CALA Scholarships
 permalink: /reward/scholarship/cala/
 layout: page
 ---
-To encourage professional and leadership development in Chinese American librarianship, CALA offers several scholarships each year to students and library school faculty.
+TO encourage professional and leadership development in Chinese American librarianship, CALA offers several scholarships each year to students and library school faculty.
 
 + The CALA Scholarship of Library and Information Science and Sage & JCLC Inc. NALCo LIS Student Scholar Program: $1000, one student for CALA; The Sage & JCLC Inc. NALCo LIS Student Scholar Program: $1000, two students
 + The Sheila Suen Lai Scholarship of Library and Information Science, $500: one student
