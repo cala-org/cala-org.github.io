@@ -6,7 +6,7 @@ layout: page
 
 The CALA conference travel grant supports CALA members attending ALA Annual Conference.
 
-###Applicant Eligibility:
+### Applicant Eligibility:
 The applicant must be a current CALA member in good standing.  
 The applicant must have an assigned duty at the conference to be attended, e.g., to present a paper, to chair a committee, or to serve as an officer to convene a meeting.
 All grant activities must be within the funding period of the year (January 1, 2023-June 30, 2023).   
