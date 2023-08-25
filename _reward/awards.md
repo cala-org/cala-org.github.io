@@ -8,5 +8,5 @@ layout: page
 + [ALA (CALA) Emerging Leader Program Award](/reward/award/ala-emerging-leader/)
 + [The CALA Jing Liao Annual Award for the Best Research](/reward/award/jing-liao/)
 + [CALA Distinguished Service Award](/reward/award/distinguished)
-+ [Outstanding Library Leadership Award in Memory of Dr. Margaret Chang Fung](/reward/award/)
-+ [CALA President’s Recognition Award](/reward/award/)
++ [Outstanding Library Leadership Award in Memory of Dr. Margaret Chang Fung](/reward/award/outstanding)
++ [CALA President’s Recognition Award](/reward/award/president)
