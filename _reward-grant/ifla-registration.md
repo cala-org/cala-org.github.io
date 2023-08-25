@@ -1,5 +1,5 @@
 ---
 title: IFLA Registration Grant
-path: /resource/grant/ifla-registration
-type: page
+permalink: /resource/grant/ifla-registration
+layout: page
 ---
