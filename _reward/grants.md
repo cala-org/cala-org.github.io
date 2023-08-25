@@ -2,7 +2,7 @@
 title: Grants
 ---
 
-+ [CALA Conference Travel Grant](/resource/grant/conference-travel)
++ [CALA Conference Travel Grant](/resource/reward/grant/conference-travel)
 + [Chapter President Conference Travel Grant (new, 2016 -)]()
 + [IFLA Registration Grant (new,2016 -)]()
 + [Sally C. Tseng’s Professional Development Grant ]()
