@@ -29,3 +29,10 @@ with the general purpose of the award. Lai’s Grant shall not be used for perso
 5. Maintain CALA membership status throughout the duration of the use of the award
 6. Have not received any other CALA grant or award in the same year
 
+### Proposal Statement:
+A good statement of the proposal should include:
+- Statement of the topic being investigated
+- Review of the relevant literature necessary to understand the proposal
+- Methodology (or research design) that used to answer the research questions (or the activities that involve accomplishing the goals)
+- Results expected and their significance to the area of study (or fields)
+- Timeline for the completion of the project
