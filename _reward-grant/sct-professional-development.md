@@ -43,9 +43,7 @@ A good statement of the proposal should include:
 
 ### Evaluation criteria:
 The awards committee members evaluate the application using the criteria listed below. The review committee will consider the application holistically; not every point needs to be addressed, but applicants should be cognizant of these criteria for the purpose of crafting a competitive application:
-Significance. Does the project address an important problem or a critical barrier to
-progress in the field? How timely is this research study in terms of topic, tools, or
-questions asked?
+- Significance. Does the project address an important problem or a critical barrier to progress in the field? How timely is this research study in terms of topic, tools, or questions asked?
 - Investigator/researcher readiness. Is the researcher qualified/well suited to the project?
 - Innovation/Intellectual Merit. How solid are the methodology, theoretical framework, and literature review of the research project?
 - Likelihood of Completion. Will the environment in which the work will be done contribute to the probability of success? Is the proposed project realistic?
