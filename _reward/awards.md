@@ -7,6 +7,6 @@ layout: page
 + [CALA Annual Best Book Award](/reward/award/best-book/)
 + [ALA (CALA) Emerging Leader Program Award](/reward/award/ala-emerging-leader/)
 + [The CALA Jing Liao Annual Award for the Best Research](/reward/award/jing-liao/)
-+ [CALA Distinguished Service Award](https://retired.cala-web.org/node/884){:target="_blank"}
-+ [Outstanding Library Leadership Award in Memory of Dr. Margaret Chang Fung](https://retired.cala-web.org/awards/outstanding){:target="_blank"}
-+ [CALA President’s Recognition Award](https://retired.cala-web.org/node/221){:target="_blank"}
++ [CALA Distinguished Service Award](/reward/award/)
++ [Outstanding Library Leadership Award in Memory of Dr. Margaret Chang Fung](/reward/award/)
++ [CALA President’s Recognition Award](/reward/award/)
