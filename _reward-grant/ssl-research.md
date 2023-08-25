@@ -3,48 +3,56 @@ title: Sheila Suen Lai Research Grant
 permalink: /resource/grant/ssl-research
 layout: page
 ---
-### A. Overview
-The purpose of the Sally C. Tseng Professional Development Grant is to support research and program related activities by CALA members. A grant in the amount of US$1,000 will be awarded annually to an individual recipient or multiple recipients from the same project. Proposals must focus on program and research in library and information science with the goal of advancing the INDIVIDUAL’S professional status, knowledge, and contributions to the community. Proposals will be evaluated by the criteria identified in these guidelines.
+### Purpose:
+The purpose of Sheila Suen Lai Research Grant (hereinafter ‘Lai’s Grant’) is to encourage CALA members to engage in research activities that contribute towards the library and information science and are related to Chinese American Librarianship particularly.
 
-### B. Eligibility
-- Any CALA member in good standing can apply.
-- he applicant must demonstrate interests in library research and professional development by publishing a paper or delivering a presentation at a conference, institute, or workshop sponsored by professional library organizations such as the American Library Association, the Chinese American Librarians Association, the International Federation of Library Associations and Institutions, the Library Society of China, Library Association of China.
-- A CALA member who has received the Tseng’s Grant must wait for five years before applying for the grant again.
-- Preference will be given to applicants who have never received the Tseng&#39;s Grant.
+An award in the amount of $1,000 will be granted to the winner(s). Lai’s Grant may be used for conducting research projects, attending research-related conferences and workshops, conducting research workshops and programs, assisting in research writing, or other activities consistent
+with the general purpose of the award. Lai’s Grant shall not be used for personal use or for attending professional association conferences, such as ALA or CALA.
 
-### C. How to Apply
-The applicant should submit one (1) complete set of his/her application package electronically in Word and/or PDF files via email attachments to the Co-Chairs of the Sally C. Tseng Professional Development Grant Subcommittee, Liana Zhou, <zhoul@indiana.edu> and Yuan Li, <YL7@princeton.edu>.
+### The expectation of Grant Recipient:
+1. The award recipient shall receive an electronic certificate upon request after the award is announced
+2. The award recipient shall submit a final report to CALA’s Executive Director detailing the outcome and performance of the specific project within one month of the project completion.
+3. The award recipient shall participate in CALA activities, programs, and events actively.
+4. The award recipient shall be a CALA member for at least five consecutive years from the date of the award.
+5. The award recipient shall volunteer for CALA committees and taskforces.
+6. The monetary award shall be awarded after the awardee has fulfilled the required obligations.
+7. The award recipient shall contribute their time and talents to CALA.
+8. The award recipient shall acknowledge CALA’s support in their work (e.g., reports, presentations, articles, etc.)
+9. The award recipient shall present the project at the CALA annual meeting or chapter meetings.
 
-### D. Application Package
-A complete application package should be submitted in English and must include the following items:
-- Cover Letter - A brief professional statement (350 words or less) explaining applicant’s interest and background in library research and career goals, including the needs, goals, and objectives of the proposed research/project.
-- Budget.
-- Timetable for Completion.
-- Three letters of references with name, title, institution, email address and signature.
-- A resume or curriculum vitae.
+### Eligible applicants for Lai’s Grant must:
+1. Be a current CALA member in good standing
+2. Have at least a master’s degree in library and information science
+3. Be currently employed in a professional-level position
+4. Have been a CALA member for at least one year prior to submitting an application
+5. Maintain CALA membership status throughout the duration of the use of the award
+6. Have not received any other CALA grant or award in the same year
 
-The application package must be received by the Co-Chairs via email with attachments. Application materials will not be returned to applicants.
+### Proposal Statement:
+A good statement of the proposal should include:
+- Statement of the topic being investigated
+- Review of the relevant literature necessary to understand the proposal
+- Methodology (or research design) that used to answer the research questions (or the activities that involve accomplishing the goals)
+- Results expected and their significance to the area of study (or fields)
+- Timeline for the completion of the project
 
-### E. Deadline of Application
-The complete application package must be received no later than **TBD**. Late and/or incomplete application will NOT be accepted nor considered.
+### Review process
+- Applications are screened by the CALA Best Research Awards Subcommittee for completeness.
+- All applicants receive a notification.
 
-### F. Funding Sources
-- Funding is derived from the dividends of the Sally C. Tseng Investment Fund which has been donated to CALA by the Tseng’s family and Sally’s friends that will be awarded to the best applicant in the amount of US$1,000.00 annually.
-- The Sally C. Tseng’s Professional Development Grant is coordinated by CALA Sally C. Tseng’s Professional Development Grant Subcommittee.
-- The Grant may be suspended in the case of no qualified applicant or in the case of economic recession that impacts the Tseng&#39;s Investment Fund which has been invested in a mutual fund account.
+### Evaluation criteria:
+The awards committee members evaluate the application using the criteria listed below. The review committee will consider the application holistically; not every point needs to be addressed, but applicants should be cognizant of these criteria for the purpose of crafting a competitive application:
+- **Significance.** Does the project address an important problem or a critical barrier to progress in the field? How timely is this research study in terms of topic, tools, or questions asked?
+- **Investigator/researcher readiness.** Is the researcher qualified/well suited to the project?
+- **Innovation/Intellectual Merit.** How solid are the methodology, theoretical framework, and literature review of the research project?
+- **Likelihood of Completion.** Will the environment in which the work will be done contribute to the probability of success? Is the proposed project realistic?
+- **Publishability/dissemination plan:** Does this study meet the basic research standards for eventual publication in peer-reviewed journals or professional events?
 
-### G. Funding Period
-One year, July – June.
+### Application:
+For application, please submit the following materials to the Chair, TBD with **“Sheila Suen Lai Research Grant” in the subject line and one single PDF document** that contains the following information:
+1. A cover letter including a statement of your eligibility
+2. A proposal statement of intended research activities and plans (no more than five pages in length)
+3. A curriculum vitae
+4. Two (2) letters of reference attesting to the applicant’s research credentials
 
-### H. Notification
-- The Co-Chairs of the Sally C. Tseng Professional Development Grant Subcommittee will notify the successful applicant in May prior to the ALA Annual Conference.
-- The recipient will be announced on the CALA listserv, CALA Newsletter and CALA website.
-- The successful recipient will be asked to submit a photograph to be used in Grant publicity.
-- The Sally C. Tseng Professional Development Grant will be awarded at the CALA Awards Banquet during the ALA Annual Conference.
-
-### I. CALA Award Banquet and Report
-- The successful recipient will be invited to the CALA Annual Awards Banquet by the CALA President when the Grant will be presented to the recipient during the ALA annual conference.
-- The Tseng’s Grant recipient is required to submit a written report to the CALA Executive Director and Sally C. Tseng before the next ALA Annual Conference.
-
-### J. Refund
-In case the terms of the grant are violated, the grant will be rescinded and the recipient will be required to return the fund in full amount to the Tseng’s Investment Fund Account in CALA.
+### Application Deadline: TBD
