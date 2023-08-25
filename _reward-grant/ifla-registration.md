@@ -27,5 +27,5 @@ professional, or faculty adviser.
   - All grant recipients must serve in a CALA committee/subcommittee/taskforce the following year and participate in CALA events actively.
   - Registration will not be reimbursed by CALA for cancellations for any reason unless documented illness, family emergency, or other unavoidable and documented circumstances.
 
-Application Deadline: TBD.   
-Announcement of the final recipients will be made by the committee no later than TBD.
+### Application Deadline: TBD.   
+Announcement of the final recipients will be made by the committee no later than **TBD**.
