@@ -4,10 +4,10 @@ permalink: /contact/
 layout: page
 ---
 ### For mailing payment, please use the following address:
-	Chinese American Librarians Association (CALA)
-	Ying Liao, CALA Treasurer
-	P.O. Box 1424
-	Camarillo, CA 93010
+		Chinese American Librarians Association (CALA)
+		Ying Liao, CALA Treasurer
+		P.O. Box 1424
+		Camarillo, CA 93010
 
 ### For electronic message, please send to the following address:
 webteam at cala-web dot org
