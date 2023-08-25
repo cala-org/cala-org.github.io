@@ -10,7 +10,7 @@ receive a check for $300 from CALA Treasurer. No more than one recipient will be
 each chapter. The CALA&#39;s Executive Committee will approve the recommendations made by the
 subcommittee and announce the final recipients to the CALA listserv in early May.
 
-The complete application packet, including:
+### The complete application packet, including:
 1. A completed CALA 2023-2024 Chapter President Travel Grant Application Form
 2. An updated CV,
 3. A statement outlining the needs and benefits of the grant, and
