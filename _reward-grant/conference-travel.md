@@ -31,5 +31,5 @@ reimbursement of the registration fee.
   - All grant recipients must serve in a CALA committee/subcommittee/taskforce the
 following year and participate in CALA events actively.
 
-Application Deadline: TBD.
-Announcement of the final recipients will be made by the committee no later than TBD.
+### Application Deadline: TBD.
+Announcement of the final recipients will be made by the committee no later than **TBD**.
