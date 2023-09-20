@@ -2,7 +2,7 @@
 layout: default
 title: {{ page.Filename }}
 ---
-{% for comm-year in site.data.officer-1 %}
+{% for comm-year in site.data.officer %}
 {% capture pageTitle %}{{ page.title | slugify }}{% endcapture %}
 {% if comm-year.year == pageTitle %}
 
