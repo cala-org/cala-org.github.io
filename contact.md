@@ -10,7 +10,7 @@ layout: page
 		Camarillo, CA 93010
 
 ### For electronic message, please send to the following address:
-webteam at cala-web dot org
+helpdesk at cala-web dot org
 - Ads Post Services
 - Executive Committee
 - Membership Chairs
