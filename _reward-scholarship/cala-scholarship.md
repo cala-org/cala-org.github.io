@@ -21,8 +21,12 @@ The application deadline for 2024 is **March 30**. To apply, fill out the [appli
 
 For questions concerning the scholarships and/or the application process, feel free to contact the CALA Scholarship Committee.
 
-Hui-Fen Chang, [huifen.chang@okstate.edu](mailto:huifen.chang@okstate.edu), 
-Clara Tran, [clara.tran@stonybrook.edu](mailto:clara.tran@stonybrook.edu), 
+Hui-Fen Chang, [huifen.chang@okstate.edu](mailto:huifen.chang@okstate.edu)
+
+Clara Tran, [clara.tran@stonybrook.edu](mailto:clara.tran@stonybrook.edu) 
+
 Katherina Lee, [LEE_KATHERINA@YAHOO.COM](mailto:LEE_KATHERINA@YAHOO.COM)
+
 Wei Zakharov, [wzakharov@purdue.edu](mailto:wzakharov@purdue.edu)
+
 Yanli L, [yli@wlu.ca](mailto:yli@wlu.ca)
