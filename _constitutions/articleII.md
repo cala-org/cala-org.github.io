@@ -1,5 +1,5 @@
 ---
-title: Artical II. Objectives
+title: Article II. Objectives
 submitted: Submitted by cala-webmaster on Sun, 05/28/2017 - 00:00
 accordionId: headingTwo
 collapseId: collapseTwo
