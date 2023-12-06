@@ -1,5 +1,5 @@
 ---
-title: Artical V. Board of Directors
+title: Article V. Board of Directors
 submitted: Submitted by cala-webmaster on Sun, 05/28/2017 - 00:00
 accordionId: headingFive
 collapseId: collapseFive
