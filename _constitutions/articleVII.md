@@ -1,5 +1,5 @@
 ---
-title: Artical VII. Membership and Program Meetings
+title: Article VII. Membership and Program Meetings
 submitted: Submitted by cala-webmaster on Sat, 08/25/2007 - 13:03
 accordionId: headingSeven
 collapseId: collapseSeven
