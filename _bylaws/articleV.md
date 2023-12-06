@@ -1,5 +1,5 @@
 ---
-title: Artical V. Chapters
+title: Article V. Chapters
 submitted: Submitted by cala_webmaster on Thu, 06/06/2019 - 20:47
 accordionId: headingFive
 collapseId: collapseFive
