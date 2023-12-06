@@ -1,5 +1,5 @@
 ---
-title: Artical IV. Official Year
+title: Article IV. Official Year
 submitted: Submitted by cala-webmaster on Sun, 05/28/2017 - 00:00
 accordionId: headingFour
 collapseId: collapseFour
