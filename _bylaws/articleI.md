@@ -1,5 +1,5 @@
 ---
-title: Artical I. Membership
+title: Article I. Membership
 submitted: Submitted by cala-webmaster on Thu, 06/06/2019 - 20:31
 accordionId: headingOne
 collapseId: collapseOne
