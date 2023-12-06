@@ -1,5 +1,5 @@
 ---
-title: Artical IV. Officers and Committees
+title: Article IV. Officers and Committees
 submitted: Submitted by cala-webmaster on Thu, 06/06/2019 - 20:39
 accordionId: headingFour
 collapseId: collapseFour
