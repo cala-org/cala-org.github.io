@@ -1,5 +1,5 @@
 ---
-title: Artical III. Membership
+title: Article III. Membership
 submitted: Submitted by cala-webmaster on Sun, 05/28/2017 - 00:00
 accordionId: headingThree
 collapseId: collapseThree
