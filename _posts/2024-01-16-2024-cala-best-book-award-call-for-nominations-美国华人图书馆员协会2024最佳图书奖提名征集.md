@@ -7,10 +7,6 @@ tag:
 ---
 <!--StartFragment-->
 
-2024 CALA Best Book Award: Call for Nominations
-
-美国华人图书馆员协会2024最佳图书奖提名征集
-
 Books must be published between January 1, 2023 and December 31, 2023 所提名的图书必须在 2023 年 1 月 1 日至 2023 年 12 月 31 日期间出版
 
 Nomination deadline: March 15, 2024 提名截止日期：2024年3月15日
@@ -41,9 +37,7 @@ If there are not any books meeting the criteria, award(s) will not be given. 如
 * Related to Chinese cultural heritage or topics about China, Chinese, people of Chinese origin or Chinese cultural heritage, and written by Chinese authors or authors of Chinese descent. 与中国文化遗产或有关中国、中国人和华裔的主题有关，和由华人或华裔作家创作。
 * Published between January 1, 2023 and December 31, 2023 by a publishing house, trade or small press/publisher located in North America or one of its territories for general commercial release in the United States and North America regions. Self-published works and exclusively internet publications may also be considered by the committee. 在 2023 年 1 月 1 日至 2023 年 12 月 31日期间由位于北美国家及所属地区的出版社出版，并在美国及北美发行的商用版本。自行出版的作品和专门出版的互联网出版物也可以由委员会审议。
 * Written in Chinese, English or bilingual. This requirement does not limit the use of words or phrases in non-Chinese and non-English languages where appropriate in context. Translations of original works may be considered. 用中文、英文或中英双语创作。不限制在上下文中酌情使用非中文和非英语语言的单词或短语。可以考虑原创作品的翻译。
-* Works that have previously won other prizes or recognitions are eligible.
-
-之前获得过其他奖项或认可的作品符合此提名申请条件。
+* Works that have previously won other prizes or recognitions are eligible. 之前获得过其他奖项或认可的作品符合此提名申请条件。
 
 ## Ineligible Works 不符合条件的作品
 
