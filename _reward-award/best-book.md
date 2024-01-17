@@ -5,7 +5,7 @@ layout: page
 ---
 This Annual Best Book Award is to promote awareness of the best books of Chinese topics or literature written by authors of Chinese descent, in English or Chinese language, that are originally published in North America.
 
-[Call for nomination](	https://cala.wildapricot.org/event-5571240 )
+[Call for nomination](https://cala.wildapricot.org/event-5571240)
 
 [Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSc9Q9ILzExNoCjvpbIlgYZO6K8Z1ZwpQmPZdbPq6cWha4yRPA/viewform?usp=sf_link)
 
