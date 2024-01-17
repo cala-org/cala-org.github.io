@@ -7,17 +7,19 @@ tag:
 ---
 <!--StartFragment-->
 
-## 2024 CALA Best Book Award: Call for Nominations
+2024 CALA Best Book Award: Call for Nominations
 
-## 美国华人图书馆员协会2024最佳图书奖提名征集
+美国华人图书馆员协会2024最佳图书奖提名征集
 
 Books must be published between January 1, 2023 and December 31, 2023 所提名的图书必须在 2023 年 1 月 1 日至 2023 年 12 月 31 日期间出版 Nomination deadline: March 15, 2024
 
 提名截止日期：2024年3月15日 Postmark deadline for nominated books: April 1, 2024 提名图书邮戳截止日期：2024年4月1日
 
-**[点此提交 Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSc9Q9ILzExNoCjvpbIlgYZO6K8Z1ZwpQmPZdbPq6cWha4yRPA/viewform?usp=sf_link)**
+[点此提交 Nomination Form](https://docs.google.com/forms/d/e/1FAIpQLSc9Q9ILzExNoCjvpbIlgYZO6K8Z1ZwpQmPZdbPq6cWha4yRPA/viewform?usp=sf_link)
 
 The annual CALA Best Book Award recognizes outstanding books, published in English or Chinese, which exhibit excellence in addressing China, Chinese, people of Chinese origin or Chinese cultural heritage and written by Chinese authors or authors of Chinese descent. The Award is to raise awareness of these topics and authors in North America. 一年一度的CALA最佳图书奖旨在表彰以英文或中文出版的优秀书籍，这些书籍在有关中国、中国人、华裔和中华文化传承等主题和/或由华裔作家或华裔血统作家创作的书籍方面有出色表现。该奖项旨在提高北美对这些主题和作者的认识。
+
+
 
 The Committee will select nominated books in the following categories: 委员会将评选出以下类别的提名书籍：
 
@@ -34,9 +36,9 @@ The winner(s) will be announced before the advance registration deadline for the
 
 如果没有任何符合标准的书籍，则不会颁发奖项。
 
-### Eligibility 资质
+# Eligibility 资质
 
-#### Eligible Works 符合条件的作品
+## Eligible Works 符合条件的作品
 
 * Related to Chinese cultural heritage or topics about China, Chinese, people of Chinese origin or Chinese cultural heritage, and written by Chinese authors or authors of Chinese descent.
 
@@ -54,7 +56,7 @@ The winner(s) will be announced before the advance registration deadline for the
 
 之前获得过其他奖项或认可的作品符合此提名申请条件。
 
-#### Ineligible Works 不符合条件的作品
+## Ineligible Works 不符合条件的作品
 
 * Anthologies by more than one author.
 
@@ -68,7 +70,7 @@ The winner(s) will be announced before the advance registration deadline for the
 
 如果对资格产生争议，委员会将决定提交的书是否符合条件，其决定将具有最终裁决权。
 
-#### Evaluation Criteria 评选标准
+# Evaluation Criteria 评选标准
 
 * Overall Strengths: Value and influence: Implications or potential force of a work. True to cultural norms and sensitive to stereotypical depiction.
 
@@ -104,7 +106,7 @@ The winner(s) will be announced before the advance registration deadline for the
 
 The Award Committee will combine these criteria and select the winner(s). 委员会将结合这些标准并选出获奖者。
 
-#### Submission Process 提交流程
+# Submission Process 提交流程
 
 * Entries may be submitted by an author, publisher, agent, publicist or any individual. 参赛作品可由作者、出版商、代理人、公关人员或任何个人提交。
 * Nominations must be submitted through the Best Book Award Nomination Form by March 15, 2024. 提名必须在2024年3月15日之前通过最佳图书奖提名表提交。
