@@ -30,6 +30,6 @@ Please join us for a special webinar on April 15: 
 
 · Daniel Tam-Claiborne, Writer, Multimedia Producer, and Nonprofit Director, The Serica Initiative
 
- 
+[ More details](https://cala.wildapricot.org/sys/website/system-pages/?pageId=18008)
 
 <!--EndFragment-->
